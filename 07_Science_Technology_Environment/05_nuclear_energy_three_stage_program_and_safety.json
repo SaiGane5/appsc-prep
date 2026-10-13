@@ -1,0 +1,115 @@
+{
+  "topic_id": "APPSC-G1-STE-05",
+  "subject_code": "07_Science_Technology_Environment",
+  "subject_title": "Science, Technology & Environment",
+  "paper": "Mains Paper-V & Screening Paper-II",
+  "topic_title": "Nuclear Energy: Three-Stage Program, Safety & Treaties",
+  "syllabus_mapping": "Science, Technology & Environment: Department of Atomic Energy (DAE), Homi J. Bhabha's Three-Stage Nuclear Power Programme (PHWR, FBR, Thorium Utilization), Prototype Fast Breeder Reactor (PFBR Kalpakkam), Civil Liability for Nuclear Damage Act (CLNDA 2010), Atomic Energy Regulatory Board (AERB), and Indo-US 123 Agreement.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Nuclear Energy: Three-Stage Program, Safety & Treaties"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nuclear energy represents an essential clean baseload pillar in India's long-term energy transition to Net Zero by 2070. Formulated by Dr. Homi J. Bhabha, India's Three-Stage Nuclear Power Programme is tailored to the nation's resource realities: modest domestic uranium reserves but vast deposits of thorium in coastal monazite sands. Operating under strict regulatory oversight by the Atomic Energy Regulatory Board (AERB), the program integrates closed fuel cycles, breeder reactors, and international civil nuclear commerce enabled by India's 2008 NSG waiver."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kudankulam_Nuclear_Power_Plant.jpg",
+      "caption": "Kudankulam Nuclear Power Plant in Tamil Nadu, India's highest-capacity operational nuclear power facility utilizing VVER-1000 reactors.",
+      "alt_text": "Kudankulam Nuclear Power Plant"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Scientific, Technological & Legal Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "Dr. Homi Bhabha's Three-Stage Nuclear Power Programme",
+      "headers": [
+        "Stage",
+        "Reactor Technology Used",
+        "Primary Fuel & Moderator",
+        "By-Product & Next-Stage Strategic Link"
+      ],
+      "rows": [
+        [
+          "Stage 1: PHWRs",
+          "Pressurized Heavy Water Reactors (PHWRs)",
+          "Natural Uranium (U-238 + 0.7% U-235); Heavy Water ($D_2O$)",
+          "Produces Plutonium-239 (Pu-239) via neutron capture in depleted U-238"
+        ],
+        [
+          "Stage 2: FBRs",
+          "Fast Breeder Reactors (e.g., PFBR 500 MWe at Kalpakkam)",
+          "Plutonium-239 and Uranium-238 (MOX Fuel); Liquid Sodium coolant",
+          "'Breeds' more fissile Pu-239 than consumed; Thorium blanket breeds fissile Uranium-233"
+        ],
+        [
+          "Stage 3: AHWRs",
+          "Advanced Heavy Water Reactors & Molten Salt Reactors",
+          "Thorium-232 and Uranium-233 fuel cycle; Heavy Water / Molten Salts",
+          "Taps vast monazite thorium reserves (>300,000 tonnes) to achieve sovereign energy independence"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Key Policy Dimensions & Analytical Insights"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "PFBR Core Loading Milestone: In March 2024, core loading commenced for the indigenous 500 MWe Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu, marking India's decisive entry into the critical second stage of its nuclear energy program.",
+        "Thorium Geopolitics & Monazite Sands: India possesses ~25% of the world's thorium reserves, predominantly found in the beach monazite sands of Kerala, Tamil Nadu, Andhra Pradesh, and Odisha. Thorium-232 is fertile, not fissile, necessitating transmutation into Uranium-233 in fast neutron reactors.",
+        "Civil Liability for Nuclear Damage Act (CLNDA 2010): Section 17(b) permits the plant operator (NPCIL) a 'right of recourse' against foreign equipment suppliers if an accident results from supplier-provided defective equipment—a unique provision globally that historically delayed foreign vendor contracts.",
+        "AERB Safety Architecture: The Atomic Energy Regulatory Board (AERB) enforces stringent nuclear, industrial, and radiological safety standards, carrying out periodic safety audits, seismic reviews, and emergency preparedness drills across all nuclear installations.",
+        "Small Modular Reactors (SMRs) & Private Investment: The Government has initiated policies to deploy indigenous 220 MWe PHWR-based SMRs to decarbonize captive industrial clusters (steel, cement) and amended atomic energy policies to invite private domestic capital for non-strategic components."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Elucidate the scientific rationale and structural stages of India's Three-Stage Nuclear Power Programme. Why is the commissioning of the Prototype Fast Breeder Reactor (PFBR) critical for tapping India's vast thorium reserves? (250 Words, 15 Marks)",
+        "Discuss the key challenges that have hindered the rapid expansion of nuclear power in India, with specific reference to the Civil Liability for Nuclear Damage Act (CLNDA 2010) and land acquisition controversies. (200 Words, 10 Marks)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "**Q: Which mineral found extensively in the beach sands of coastal India is the primary source of fertile Thorium?**\n* (a) Bauxite\n* (b) Monazite\n* (c) Pitchblende\n* (d) Ilmenite\n* **Answer: (b)**\n* *Explanation:* Monazite sands, found along the coastal stretches of Kerala, Tamil Nadu, Andhra Pradesh, and Odisha, are the principal commercial source of rare earths and thorium.",
+        "**Q: What fuel combination and coolant are utilized in the 500 MWe Prototype Fast Breeder Reactor (PFBR) at Kalpakkam?**\n* (a) Enriched Uranium with Light Water\n* (b) Natural Uranium with Heavy Water\n* (c) Plutonium-Uranium mixed oxide (MOX) with Liquid Sodium coolant\n* (d) Thorium-232 with Molten Lead\n* **Answer: (c)**\n* *Explanation:* The PFBR at Kalpakkam utilizes Mixed Oxide (MOX) fuel comprising Plutonium-239 and Uranium-238, cooled by liquid sodium which enables fast neutron breeding without moderation.",
+        "**Q: In Stage 1 of India's nuclear power programme (PHWRs), what substance is utilized as both moderator and coolant?**\n* (a) Light Water ($H_2O$)\n* (b) Heavy Water ($D_2O$ - Deuterium Oxide)\n* (c) Liquid Sodium\n* (d) Graphite\n* **Answer: (b)**\n* *Explanation:* Pressurized Heavy Water Reactors (PHWRs) use Heavy Water ($D_2O$) as both coolant and moderator, which allows them to run on natural unenriched uranium.",
+        "**Q: Which section of the Civil Liability for Nuclear Damage Act (CLNDA) 2010 grants the operator a 'Right of Recourse' against foreign suppliers for defective equipment?**\n* (a) Section 4\n* (b) Section 10\n* (c) Section 17(b)\n* (d) Section 46\n* **Answer: (c)**\n* *Explanation:* Section 17(b) of CLNDA 2010 gives the Indian operator a statutory right of recourse against the supplier where the nuclear incident has occurred as the consequence of an act of supplier or his employee, which includes supply of equipment with latent defects.",
+        "**Q: What is the autonomous apex regulatory authority that enforces safety codes and regulates nuclear and radiation installations in India?**\n* (a) Bhabha Atomic Research Centre (BARC)\n* (b) Nuclear Power Corporation of India Limited (NPCIL)\n* (c) Atomic Energy Regulatory Board (AERB)\n* (d) Uranium Corporation of India Limited (UCIL)\n* **Answer: (c)**\n* *Explanation:* The Atomic Energy Regulatory Board (AERB) was established in 1983 to carry out regulatory and safety functions under the Atomic Energy Act, 1962 across all nuclear and radiation facilities."
+      ]
+    }
+  ],
+  "word_count": 511,
+  "estimated_read_time_mins": 4,
+  "file_name": "05_nuclear_energy_three_stage_program_and_safety.json",
+  "folder": "07_Science_Technology_Environment"
+}

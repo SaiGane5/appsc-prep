@@ -1,0 +1,104 @@
+# Pollution Control, Waste Management & Coastal Regulation
+
+**Topic ID:** `APPSC-G1-STE-10` | **Subject:** Science, Technology & Environment | **Paper:** Mains Paper-V & Screening Paper-II
+
+**Syllabus Mapping:** Science, Technology & Environment: Central Pollution Control Board (CPCB), National Clean Air Programme (NCAP, AQI), Solid Waste Management Rules 2016, E-Waste Management Rules 2022, Plastic Waste Management Rules (Single-Use Plastic Ban, EPR), Coastal Regulation Zone (CRZ 2019 Notification), and Wetland Conservation (Ramsar Sites, Kolleru Lake in AP).
+
+---
+
+
+# Pollution Control, Waste Management & Coastal Regulation
+
+
+Pollution control and ecosystem restoration are paramount for safeguarding public health, environmental justice, and ecological resilience. Regulated by the Central Pollution Control Board (CPCB) and State Pollution Control Boards (APPCB) under the Water Act 1974 and Air Act 1981, India's environmental apparatus enforces stringent mandates including the National Clean Air Programme (NCAP), Extended Producer Responsibility (EPR) across plastic and electronic waste, the Coastal Regulation Zone (CRZ 2019) framework, and Ramsar wetland conservation.
+
+
+![Kolleru Lake Ramsar site Andhra Pradesh](https://upload.wikimedia.org/wikipedia/commons/e/ea/Kolleru_Lake_Pelican_sanctuary_AP.jpg)
+*Caption: Spot-billed pelicans and migratory birds at Kolleru Lake, a premier Ramsar wetland site in Andhra Pradesh.*
+
+
+## 1. Scientific, Technological & Legal Architecture
+
+
+### Table: Statutory Waste Management Regimes & Environmental Guidelines
+
+| Environmental Domain | Governing Rules / Notification | Core Mandates & Prohibitions | Regulatory Instruments & Enforcement |
+| --- | --- | --- | --- |
+| Air Pollution Control | Air (Prevention & Control of Pollution) Act 1981; NCAP (2019) | Targets 20–30% reduction in PM2.5/PM10 concentrations (enhanced to 40% by 2026) | National Air Quality Index (AQI 8 pollutants); Commission for Air Quality Management (CAQM) in NCR |
+| Plastic Waste Management | Plastic Waste Management Rules 2016 (Amended 2021/2022) | Nationwide ban on identified Single-Use Plastics (effective July 1, 2022); thickness >= 120 microns | Mandatory Extended Producer Responsibility (EPR) portal for Brand Owners, Producers, Importers |
+| E-Waste Management | E-Waste (Management) Rules 2022 | Covers 106 electrical and electronic equipment (EEE) items; solar PV modules/cells | Mandatory recycling targets for producers; restricts hazardous substances (RoHS) |
+| Coastal Regulation Zone | CRZ Notification 2019 (under EPA 1986) | Bifurcates CRZ-III into CRZ-III A (densely populated, 50 m NDZ) and CRZ-III B (200 m NDZ) | State Coastal Zone Management Authorities (APSCZMA); balances port/tourism growth with mangrove safety |
+| Wetland Conservation | Wetlands (Conservation and Management) Rules 2017 | Prohibits industrial setting, waste dumping, solid waste disposal in notified wetlands | State Wetland Authorities; Ramsar Convention oversight (Kolleru Lake in AP) |
+
+
+
+## 2. Key Policy Dimensions & Analytical Insights
+
+* National Air Quality Index (AQI) Metrics: Launched in 2014 under 'One Number-One Colour-One Description'. Evaluates 8 criteria pollutants: $PM_{10}$, $PM_{2.5}$, Nitrogen Dioxide ($NO_2$), Sulphur Dioxide ($SO_2$), Carbon Monoxide ($CO$), Ozone ($O_3$), Ammonia ($NH_3$), and Lead ($Pb$).
+
+* Single-Use Plastics (SUP) Ban: Effective July 1, 2022, India imposed an outright nationwide ban on manufacture, import, stocking, distribution, sale, and use of 19 identified single-use plastic items with low utility and high littering potential (including plastic cutlery, earbuds with plastic sticks, thermocol decoration). Minimum carry bag thickness raised to 120 microns.
+
+* CRZ 2019 Notification Architecture: Classifies coastal stretches into: CRZ-I (ecologically sensitive like mangroves and coral reefs; strictly protected), CRZ-II (developed urban shoreline), CRZ-III (rural coastal areas, divided into III-A with 50 m No Development Zone and III-B with 200 m NDZ), and CRZ-IV (water area from Low Tide Line to 12 nautical miles territorial waters).
+
+* Kolleru Lake Ramsar Wetland in Andhra Pradesh: Located between Krishna and Godavari deltas spanning Eluru and West Godavari districts. Declared a Ramsar Site in 2002 and Wildlife Sanctuary under WPA 1972. Confronts severe ecological threats from illegal aquaculture encroachment ('Operation Kolleru' demolition), agricultural pesticide runoff, and weed infestation.
+
+* Extended Producer Responsibility (EPR) Portals: Implemented digitally by CPCB across Plastic Waste, E-Waste, Waste Tyres, and Used Oil. Producers who fail to meet mandatory recycling quotas face stringent Environmental Compensation (EC) fines based on the polluter-pays principle.
+
+
+
+
+## Previous Years Questions (PYQs) - APPSC Group-1
+
+
+### Part A: Mains Analytical & Descriptive Questions
+
+1. Explain the key zonations and developmental relaxations introduced under the Coastal Regulation Zone (CRZ) Notification, 2019. How does it balance coastal economic infrastructure with marine disaster vulnerability? (250 Words, 15 Marks)
+
+2. Discuss the ecological significance of Kolleru Lake as a Ramsar wetland. What anthropogenic pressures threaten its biodiversity, and what conservation measures are imperative for its long-term revival? (200 Words, 10 Marks)
+
+
+
+
+### Part B: Screening / Prelims Objective Questions
+
+* **Q: How many criteria air pollutants are monitored to determine the National Air Quality Index (AQI) formulated by the Central Pollution Control Board (CPCB)?**
+* (a) 5 pollutants
+* (b) 6 pollutants
+* (c) 8 pollutants
+* (d) 12 pollutants
+* **Answer: (c)**
+* *Explanation:* The National AQI monitors 8 criteria pollutants: PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb.
+
+* **Q: On which date did the nationwide ban on identified single-use plastic (SUP) items of low utility and high littering potential take effect across India?**
+* (a) January 26, 2022
+* (b) July 1, 2022
+* (c) October 2, 2022
+* (d) January 1, 2023
+* **Answer: (b)**
+* *Explanation:* The nationwide ban on the manufacture, import, stocking, distribution, sale, and use of identified single-use plastic items came into force on July 1, 2022.
+
+* **Q: Kolleru Lake, a designated Ramsar wetland of international importance in Andhra Pradesh, is geographically situated between the deltas of which two rivers?**
+* (a) Godavari and Krishna
+* (b) Krishna and Pennar
+* (c) Godavari and Vamsadhara
+* (d) Pennar and Nagavali
+* **Answer: (a)**
+* *Explanation:* Kolleru Lake, one of the largest freshwater lakes in India and a Ramsar site, is located between the deltas of the Godavari and Krishna rivers in Andhra Pradesh.
+
+* **Q: Under the CRZ Notification 2019, what is the reduced No Development Zone (NDZ) seaward from the High Tide Line for densely populated rural coastal areas designated as CRZ-III A?**
+* (a) 20 meters
+* (b) 50 meters
+* (c) 100 meters
+* (d) 200 meters
+* **Answer: (b)**
+* *Explanation:* Under CRZ 2019, for CRZ-III A areas (densely populated rural coastal areas with a population density exceeding 2,161 per sq km), the No Development Zone (NDZ) was reduced from 200 meters to 50 meters from the High Tide Line.
+
+* **Q: What regulatory mechanism mandates electronics manufacturers and plastic brand owners to finance the end-of-life collection and recycling of their post-consumer products?**
+* (a) Corporate Social Responsibility (CSR)
+* (b) Extended Producer Responsibility (EPR)
+* (c) Clean Energy Cess
+* (d) National Clean Development Mechanism
+* **Answer: (b)**
+* *Explanation:* Extended Producer Responsibility (EPR) is the statutory environmental policy approach under which producers, importers, and brand owners bear financial and physical responsibility for the treatment or disposal of post-consumer products.
+
+

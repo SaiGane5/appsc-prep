@@ -1,0 +1,119 @@
+{
+  "topic_id": "APPSC-G1-HIST-03",
+  "subject_code": "01_History_and_Culture_India",
+  "subject_title": "History and Culture of India",
+  "paper": "Paper-II (Mains Section A) & Paper-I (Screening Section A)",
+  "topic_title": "Second Urbanization, 16 Mahajanapadas, Jainism & Buddhism",
+  "syllabus_mapping": "History and Culture of India: Second Urbanization in 6th Century BCE - 16 Mahajanapadas, Heterodox Revolutions: Jainism and Buddhism - Philosophies, Councils, Sects and Socio-Economic Impact.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Second Urbanization, 16 Mahajanapadas, Jainism & Buddhism"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 6th century BCE witnessed the 'Second Urbanization' in the middle Gangetic plains, driven by iron technology, coinage (punch-marked coins), and flourishing trade. This economic shift spawned 16 territorial states (Mahajanapadas) and sparked a profound intellectual revolution against Brahminical orthodoxy led by Gautama Buddha (Buddhism) and Vardhamana Mahavira (Jainism)."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabodhi_Temple_2012.jpg",
+      "caption": "The Mahabodhi Temple at Bodh Gaya, Bihar, commemorating the site of Siddhartha Gautama's enlightenment.",
+      "alt_text": "Mahabodhi Temple exterior tower"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Comparative Analysis: Buddhist Dhamma vs Jaina Philosophy",
+      "headers": [
+        "Philosophical Dimension",
+        "Buddhism (Gautama Buddha)",
+        "Jainism (Vardhamana Mahavira)"
+      ],
+      "rows": [
+        [
+          "Core Teaching & Path",
+          "Madhyama Marga (Middle Path); avoided both extreme sensual indulgence and severe physical self-mortification.",
+          "Extreme asceticism, severe penance, and total renunciation of possessions (Aparigraha) including clothing in Digambara."
+        ],
+        [
+          "Ahimsa (Non-Violence)",
+          "Pragmatic Ahimsa; focused on ethical compassion; permitted monkhood without extreme physical restrictions.",
+          "Absolute, unconditional Ahimsa towards all living beings, plants, insects, and elemental particles (Jiva)."
+        ],
+        [
+          "Metaphysical Doctrine",
+          "Anatta (No permanent soul/self), Anicca (Impermanence), Pratityasamutpada (Dependent Origination).",
+          "Anekantavada (Non-absolutism/pluralism), Syadvada (Theory of conditional prediction), eternity of individual souls (Jiva)."
+        ],
+        [
+          "Social Patronage",
+          "Vaishya merchants, royal monarchs (Bimbisara, Ashoka, Kanishka), universal open Sangha for all castes.",
+          "Supported heavily by mercantile and trading classes (due to farming requiring killing of insects); royal patronage by Bimbisara, Chandragupta Maurya, Kharavela."
+        ],
+        [
+          "Canonical Scriptures",
+          "Tripitakas (Vinaya, Sutta, Abhidhamma) composed in popular Prakrit/Pali.",
+          "12 Angas and 12 Upangas composed in Ardhamagadhi Prakrit."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "16 Mahajanapadas: Recorded in Buddhist Anguttara Nikaya and Jain Bhagavati Sutra; divided into monarchies (Magadha, Kosala, Vatsa, Avanti) and republican oligarchies / Ganasanghas (Vajji confederacy, Malla).",
+        "Four Buddhist Councils: 1st Council at Rajgir (483 BCE, Ajatashatru, Mahakassapa); 2nd at Vaishali (383 BCE, Kalasoka, Sabakami); 3rd at Pataliputra (250 BCE, Ashoka, Moggaliputta Tissa); 4th in Kashmir (72 CE, Kanishka, Vasumitra - split into Hinayana and Mahayana).",
+        "Jain Councils: 1st Council at Pataliputra (c. 300 BCE, Sthulabhadra - compilation of 12 Angas, Digambara-Svetambara schism); 2nd Council at Vallabhi (512 CE, Devardhi Kshamasramana - final codification).",
+        "Triratna & Five Vows: Jainism stresses Right Faith (Samyag Darshana), Right Knowledge (Samyag Jnana), Right Conduct (Samyag Charitra); 5 Vows: Ahimsa, Satya, Asteya (non-stealing), Aparigraha, Brahmacharya (added by Mahavira)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Examine the socio-economic conditions that fostered the rise of heterodox religious movements (Buddhism and Jainism) in the 6th century BCE Gangetic plains. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Connect the Second Urbanization, iron technology, and coinage (punch-marked silver karshapanas) to the emergence of affluent merchant classes (Sethis/Gahapatis); explain how Brahminical Vedic rituals and animal sacrifices depleted cattle wealth vital for plough agriculture; show how the rigid Varna system relegated wealthy Vaishyas below Kshatriyas and Brahmins; explain the democratic appeal of Buddha and Mahavira preaching in vernacular Pali and Ardhamagadhi."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which ancient oligarchic republican confederacy (Ganasangha) was composed of eight clans, with its capital situated at Vaishali?\n(a) Malla\n(b) Vajji\n(c) Kamboja\n(d) Chedi\nCorrect Answer: (b) Vajji [Explanation: The Vajji confederacy was a celebrated republican oligarchy comprising eight clans (most prominent being the Lichchhavis) headquartered at Vaishali.]",
+        "Q2. The Buddhist doctrine of 'Pratityasamutpada' (Dependent Origination), which asserts that all phenomena arise in dependence upon causes, is articulated in which section of the Tripitaka?\n(a) Vinaya Pitaka\n(b) Sutta Pitaka\n(c) Abhidhamma Pitaka\n(d) Jatakas\nCorrect Answer: (b) Sutta Pitaka [Explanation: The core philosophical discourses of the Buddha, including Pratityasamutpada and the Four Noble Truths, are preserved in the Sutta Pitaka (notably the Samyutta Nikaya).]",
+        "Q3. The historic split of Jainism into two primary traditions—Digambara and Svetambara—originated during a devastating famine in Magadha led by which respective teachers?\n(a) Bhadrabahu and Sthulabhadra\n(b) Mahavira and Parshvanatha\n(c) Hemachandra and Haribhadra\n(d) Vasumitra and Nagarjuna\nCorrect Answer: (a) Bhadrabahu and Sthulabhadra [Explanation: During the 12-year Magadhan famine under Chandragupta Maurya, Bhadrabahu led followers to Shravanabelagola maintaining strict nudity (Digambara), while Sthulabhadra stayed in the north adopting white robes (Svetambara).]",
+        "Q4. Which royal patron hosted the Third Buddhist Council at Pataliputra, where the Abhidhamma Pitaka was completed and the 'Kathavatthu' incorporated?\n(a) Ajatashatru\n(b) Kalasoka\n(c) Ashoka Maurya\n(d) Kanishka\nCorrect Answer: (c) Ashoka Maurya [Explanation: Emperor Ashoka convened the Third Buddhist Council at Pataliputra around 250 BCE presided over by Moggaliputta Tissa to purge monastic corruption and finalize the Theravada canon.]",
+        "Q5. The philosophical concept of 'Syadvada' (the theory of conditioned or qualified predication with seven-fold nuances) is a distinctive hallmark of:\n(a) Buddhism\n(b) Ajivika\n(c) Charvaka\n(d) Jainism\nCorrect Answer: (d) Jainism [Explanation: Syadvada (the logic of seven perspectives: Saptabhangi Naya) is a fundamental epistemological doctrine of Jainism asserting that truth is contextual and relative.]"
+      ]
+    }
+  ],
+  "word_count": 745,
+  "estimated_read_time_mins": 4,
+  "file_name": "03_mahajanapadas_and_heterodox_religions.json",
+  "folder": "01_History_and_Culture_India"
+}

@@ -1,0 +1,118 @@
+{
+  "topic_id": "APPSC-G1-APHC-06",
+  "subject_code": "02_History_and_Culture_AP",
+  "subject_title": "History and Culture of Andhra Pradesh",
+  "paper": "Paper-II (Mains Section B) & Paper-I (Screening Section A)",
+  "topic_title": "Vijayanagara in Andhra: Rayalaseema Zenith, Lepakshi Art & Telugu Literature",
+  "syllabus_mapping": "History and Culture of Andhra Pradesh: Vijayanagar Era in Andhra - Rayalaseema Hinterland, Krishnadevaraya's Patronage of Ashtadiggajas, Lepakshi Veerabhadra Temple Architecture, Murals, Penukonda and Chandragiri Forts.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vijayanagara in Andhra: Rayalaseema Zenith, Lepakshi Art & Telugu Literature"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Vijayanagar Empire held a deeply intimate connection with the Andhra region, particularly the Rayalaseema hinterland. Under Emperor Sri Krishnadevaraya (1509–1529 CE), Telugu literature attained its classical 'Prabandha' zenith with the court circle of 'Ashtadiggajas'. Concurrently, Andhra architecture reached supreme expressive heights in the hanging pillars and vibrant fresco murals of the Lepakshi Veerabhadra Temple, while Penukonda and Chandragiri served as imperial redoubts following the Battle of Talikota."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Lepakshi_Nandi.jpg",
+      "caption": "The colossal monolithic Nandi at Lepakshi, Anantapur district, carved out of a single granite boulder (16th century).",
+      "alt_text": "Monolithic stone bull Nandi at Lepakshi"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Cultural & Architectural Highlights of Vijayanagar Rule in Andhra",
+      "headers": [
+        "Monument / Cultural Domain",
+        "Location & Royal Builders",
+        "Key Features & Art Highlights",
+        "Historical Significance"
+      ],
+      "rows": [
+        [
+          "Lepakshi Veerabhadra Temple",
+          "Lepakshi, Anantapur; built by brothers Virupanna and Veeranna (1530 CE) under Achyuta Deva Raya.",
+          "World-famous 'Hanging Pillar' (floating column), colossal monolithic granite Nandi (largest in India), Natya Mandapa with 70 carved musical pillars.",
+          "Contains India's finest 16th-century Vijayanagar fresco ceiling murals depicting Kiratarjuniya and mythological legends using vegetable dyes."
+        ],
+        [
+          "Prabandha Literary Golden Age",
+          "Bhuvanavijayam royal assembly, Hampi & Rayalaseema; Sri Krishnadevaraya.",
+          "Krishnadevaraya composed 'Amuktamalyada' in Telugu; patronized 'Ashtadiggajas' (Allasani Peddana, Tenali Ramakrishna, Nandi Timmana, Dhurjati, Madayyagari Mallana, Ayyalaraju Ramabhadrudu, Pingali Surana, Ramarajabhushana).",
+          "Telugu elevated to the status of royal court language; declaration: 'Desa Bhashalandu Telugu Lessa' (Among the country's languages, Telugu is the finest)."
+        ],
+        [
+          "Penukonda & Chandragiri Forts",
+          "Penukonda (Anantapur) & Chandragiri (Tirupati); Aravidu Dynasty.",
+          "Hill citadels with Gagan Mahal palace architecture synthesizing Hindu and Islamic arch vaults; Chandragiri was the royal seat where Venkata II granted Madras to the English (1639).",
+          "Served as the second and third capitals of the Vijayanagar Empire after the fall of Hampi in 1565 CE."
+        ],
+        [
+          "Religious Endowments in Rayalaseema",
+          "Tirumala Venkateswara Temple, Srisailam, Srikalahasti, Ahobilam.",
+          "Krishnadevaraya visited Tirumala 7 times with his queens Tirumala Devi and Chinna Devi, installing gold-plated vimana (Ananda Nilayam) and bronze statues; erected the 120-foot Rajagopuram at Srikalahasti."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Amuktamalyada: Masterpiece composed by Krishnadevaraya detailing the divine marriage of Lord Ranganatha with Tamil Alvar poetess Goda Devi (Andal); contains the famous fourth canto on political statecraft, diplomacy, and righteous governance (Rajaniti).",
+        "Ashtadiggajas Masterpieces: Allasani Peddana ('Manucharitra'), Nandi Timmana ('Parijatapaharanam'), Tenali Ramakrishna ('Panduranga Mahatmyam'), Dhurjati ('Kalahastiswara Mahatmyam'), Pingali Surana ('Kalapurnodayam' - world's first novelistic prabandha).",
+        "Lepakshi Hanging Pillar: Architectural marvel among 70 pillars in the Natya Mandapa that does not touch the stone floor, allowing thin cloth or paper to pass underneath.",
+        "Tallapaka Annamacharya (1408–1503 CE): The 'Pada Kavita Pitamaha'; contemporary saint-composer who composed 32,000 sringara and sankirtana padas in Telugu dedicated to Lord Venkateswara of Tirupati, engraved on copper plates stored in the Sankeertana Bhandagaram."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically evaluate the architectural and artistic features of the Lepakshi Veerabhadra Temple complex in Andhra Pradesh. What makes its mural paintings and stone sculptures unique in South Indian art? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Introduce Lepakshi as the supreme architectural jewel of 16th-century Vijayanagar art built by Virupanna and Veeranna; detail structural elements: the Natya Mandapa with 70 carved granite pillars, the legendary 'Hanging Pillar', and the colossal monolithic Nandi carved from a single boulder; analyze the mural frescoes: ceiling paintings depicting mythological narratives (Parvati Kalyanam, Kiratarjuniya) executed with mineral and vegetable dyes displaying dynamic line work, expressive profile faces, and intricate textile patterns; conclude on its status as the pinnacle of late medieval Andhra pictorial art."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which architectural marvel inside the Natya Mandapa of the Lepakshi Veerabhadra Temple is renowned for not resting entirely on the ground floor?\n(a) Monolithic Nandi\n(b) The Hanging Pillar\n(c) Nagalinga\n(d) Kalyana Mandapa\nCorrect Answer: (b) The Hanging Pillar [Explanation: The Hanging Pillar of Lepakshi is a famed stone column suspended slightly above the temple floor, demonstrating Vijayanagar engineering precision.]",
+        "Q2. In his Telugu epic 'Amuktamalyada', Sri Krishnadevaraya famously declared which linguistic tribute to the Telugu language?\n(a) 'Telugu Talli Chirunavvu'\n(b) 'Desa Bhashalandu Telugu Lessa'\n(c) 'Andhra Bhasha Amrutham'\n(d) 'Vaganusasana Telugu'\nCorrect Answer: (b) 'Desa Bhashalandu Telugu Lessa' [Explanation: In the introduction to 'Amuktamalyada', Krishnadevaraya proclaimed 'Desa Bhashalandu Telugu Lessa' (Among the languages of the nation, Telugu is the best).]",
+        "Q3. Who among the 'Ashtadiggajas' authored the celebrated poetic work 'Parijatapaharanam' to reconcile a domestic lovers' tiff between Krishnadevaraya and Queen Tirumala Devi?\n(a) Allasani Peddana\n(b) Nandi Timmana\n(c) Tenali Ramakrishna\n(d) Madayyagari Mallana\nCorrect Answer: (b) Nandi Timmana [Explanation: Mukku Timmana (Nandi Timmana) composed 'Parijatapaharanam' (The Theft of the Parijata Flower), presenting the charming mythological tale to pacify royal marital discord.]",
+        "Q4. Which saint-composer, revered as 'Pada Kavita Pitamaha', composed 32,000 devotional sankirtanas in Telugu dedicated to Lord Venkateswara of Tirumala?\n(a) Tyagaraja\n(b) Tallapaka Annamacharya\n(c) Kancharla Gopanna (Ramadasu)\n(d) Kshetriyya\nCorrect Answer: (b) Tallapaka Annamacharya [Explanation: Tallapaka Annamacharya (1408–1503 CE) composed 32,000 padas inscribed on copper plates preserved in the Tirumala temple, pioneering the Telugu Sankirtana tradition.]",
+        "Q5. Which historic fort in Andhra Pradesh served as the final imperial capital of the Vijayanagar Aravidu dynasty, where British envoy Francis Day secured the charter for Madras in 1639?\n(a) Gooty Fort\n(b) Chandragiri Fort\n(c) Penukonda Fort\n(d) Udayagiri Fort\nCorrect Answer: (b) Chandragiri Fort [Explanation: Chandragiri Fort near Tirupati served as the seat of Emperor Venkata II and Damarla Chennappa Nayaka, who leased Madraspatnam to the English EIC in 1639.]"
+      ]
+    }
+  ],
+  "word_count": 865,
+  "estimated_read_time_mins": 5,
+  "file_name": "06_vijayanagara_empire_in_andhra_and_lepakshi_art.json",
+  "folder": "02_History_and_Culture_AP"
+}

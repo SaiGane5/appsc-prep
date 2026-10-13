@@ -7,7 +7,6 @@ import {
   Lightbulb, 
   RotateCcw, 
   Filter, 
-  Award,
   BookOpen
 } from 'lucide-react';
 
@@ -103,74 +102,73 @@ export default function McqPracticeView({ mcqBank, allNotes, onSelectTopic }) {
   };
 
   return (
-    <div className="flex-1 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fade-in">
+    <div className="flex-1 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Header */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-6 mb-8 border-b border-[#2d2f3c]">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-5 mb-7 border-b border-[#303036]">
         <div>
-          <span className="badge badge-amber mb-2">Screening Exam Preparation</span>
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-            APPSC Screening Objective Question Bank
+          <h1 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">
+            Practice Objective Questions
           </h1>
-          <p className="text-xs sm:text-sm text-slate-400 mt-1">
-            290 authentic syllabus-mapped MCQs with verified answer keys and detailed explanations.
+          <p className="text-xs sm:text-sm text-zinc-400 mt-1">
+            {parsedBank.length} Syllabus-mapped questions across all subjects with verified answers.
           </p>
         </div>
 
-        {/* Scorecard */}
-        <div className="flex items-center gap-3 bg-[#191b22] border border-[#2b2d39] p-3 rounded-xl shrink-0">
+        {/* Minimal Scorecard */}
+        <div className="flex items-center gap-3 bg-[#232327] border border-[#333338] p-2.5 rounded-lg shrink-0">
           <div className="text-center px-2">
-            <div className="text-xs text-slate-400 font-medium">Attempted</div>
-            <div className="text-lg font-bold text-white font-mono">{totalAttempted}/{parsedBank.length}</div>
+            <div className="text-[10px] text-zinc-400 uppercase tracking-wide">Attempted</div>
+            <div className="text-base font-semibold text-white font-mono">{totalAttempted}/{parsedBank.length}</div>
           </div>
-          <div className="h-8 w-px bg-[#2b2d39]"></div>
+          <div className="h-6 w-px bg-[#333338]"></div>
           <div className="text-center px-2">
-            <div className="text-xs text-slate-400 font-medium">Score</div>
-            <div className="text-lg font-bold text-emerald-400 font-mono">{totalCorrect}</div>
+            <div className="text-[10px] text-zinc-400 uppercase tracking-wide">Correct</div>
+            <div className="text-base font-semibold text-white font-mono">{totalCorrect}</div>
           </div>
-          <div className="h-8 w-px bg-[#2b2d39]"></div>
+          <div className="h-6 w-px bg-[#333338]"></div>
           <div className="text-center px-2">
-            <div className="text-xs text-slate-400 font-medium">Accuracy</div>
-            <div className="text-lg font-bold text-sky-400 font-mono">{accuracy}%</div>
+            <div className="text-[10px] text-zinc-400 uppercase tracking-wide">Accuracy</div>
+            <div className="text-base font-semibold text-white font-mono">{accuracy}%</div>
           </div>
           <button
             onClick={handleResetQuiz}
-            className="p-2 ml-1 text-slate-400 hover:text-rose-400 hover:bg-[#252733] rounded-lg transition-colors"
+            className="p-1.5 ml-1 text-zinc-400 hover:text-white hover:bg-[#2b2b30] rounded transition-colors"
             title="Reset Quiz"
           >
-            <RotateCcw size={16} />
+            <RotateCcw size={14} />
           </button>
         </div>
       </div>
 
       {/* Filters */}
-      <div className="flex flex-wrap items-center justify-between gap-3 mb-6 bg-[#181920] p-3 rounded-xl border border-[#2b2d39]">
+      <div className="flex flex-wrap items-center justify-between gap-3 mb-6 bg-[#212125] p-2.5 rounded-lg border border-[#303036]">
         {/* Subject Filter */}
-        <div className="flex items-center gap-2 overflow-x-auto pb-1 max-w-full">
-          <Filter size={14} className="text-slate-400 shrink-0" />
-          <span className="text-xs font-semibold text-slate-400 shrink-0">Subject:</span>
+        <div className="flex items-center gap-2 overflow-x-auto max-w-full">
+          <Filter size={13} className="text-zinc-400 shrink-0" />
+          <span className="text-xs text-zinc-400 shrink-0">Subject:</span>
           <select
             value={selectedSubject}
             onChange={(e) => setSelectedSubject(e.target.value)}
-            className="bg-[#20222d] border border-[#303343] text-xs text-white rounded-lg px-2.5 py-1.5 focus:outline-none focus:border-sky-400 max-w-xs"
+            className="bg-[#18181b] border border-[#333338] text-xs text-white rounded px-2.5 py-1 focus:outline-none focus:border-zinc-400 max-w-xs"
           >
             {subjects.map((s, idx) => (
               <option key={idx} value={s}>
-                {s === 'ALL' ? 'All 8 Subject Domains (290 Qs)' : s}
+                {s === 'ALL' ? 'All Subjects' : s}
               </option>
             ))}
           </select>
         </div>
 
         {/* Status Filter */}
-        <div className="flex items-center gap-1.5 text-xs">
+        <div className="flex items-center gap-1 text-xs">
           {['ALL', 'UNATTEMPTED', 'CORRECT', 'WRONG'].map(st => (
             <button
               key={st}
               onClick={() => setFilterStatus(st)}
-              className={`px-2.5 py-1 rounded-md font-medium transition-colors ${
+              className={`px-2 py-0.5 rounded text-[11px] font-medium transition-colors ${
                 filterStatus === st 
-                  ? 'bg-sky-500 text-white shadow-sm' 
-                  : 'bg-[#22242e] text-slate-400 hover:text-white'
+                  ? 'bg-zinc-200 text-zinc-900 font-semibold' 
+                  : 'bg-[#28282d] text-zinc-400 hover:text-white hover:bg-[#323238]'
               }`}
             >
               {st}
@@ -180,7 +178,7 @@ export default function McqPracticeView({ mcqBank, allNotes, onSelectTopic }) {
       </div>
 
       {/* Questions List */}
-      <div className="space-y-6">
+      <div className="space-y-5">
         {filteredList.map((item, qIdx) => {
           const qId = item.id;
           const { question, options, correctKey, explanation } = item.parsed;
@@ -191,29 +189,29 @@ export default function McqPracticeView({ mcqBank, allNotes, onSelectTopic }) {
           return (
             <div 
               key={qId}
-              className="bg-[#1b1c24] border border-[#2d2f3c] rounded-xl p-5 md:p-6 shadow-md hover:border-[#3d4052] transition-colors"
+              className="bg-[#222226] border border-[#303036] rounded-lg p-5 hover:border-[#404048] transition-colors"
             >
               {/* Question Meta */}
-              <div className="flex flex-wrap items-center justify-between gap-2 mb-3">
-                <span className="text-[11px] font-mono text-sky-400 uppercase tracking-wider font-semibold">
+              <div className="flex flex-wrap items-center justify-between gap-2 mb-2.5">
+                <span className="text-[11px] font-mono text-zinc-500 uppercase">
                   Q{qIdx + 1} • {item.topic_id}
                 </span>
                 <button
                   onClick={() => onSelectTopic(item.topic_id)}
-                  className="text-xs text-slate-400 hover:text-sky-300 flex items-center gap-1 transition-colors"
+                  className="text-xs text-zinc-400 hover:text-white flex items-center gap-1 transition-colors"
                 >
-                  <BookOpen size={12} />
+                  <BookOpen size={11} />
                   <span>Topic: <MathText text={item.topic_title} /></span>
                 </button>
               </div>
 
               {/* Question Text */}
-              <h3 className="text-base sm:text-lg font-semibold text-white leading-snug mb-4">
+              <h3 className="text-base font-medium text-white leading-snug mb-4">
                 <MathText text={question} />
               </h3>
 
               {/* Options Grid */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5 mb-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-3">
                 {['a', 'b', 'c', 'd'].map(optKey => {
                   const optText = options[optKey];
                   if (!optText) return null;
@@ -235,17 +233,17 @@ export default function McqPracticeView({ mcqBank, allNotes, onSelectTopic }) {
                       onClick={() => handleSelectOption(qId, optKey)}
                       className={btnClass}
                     >
-                      <span className="font-mono font-bold uppercase w-6 h-6 rounded-md bg-[#252733] flex items-center justify-center text-xs shrink-0 text-slate-300">
+                      <span className="font-mono font-semibold uppercase w-5 h-5 rounded bg-[#2a2a2f] flex items-center justify-center text-xs shrink-0 text-zinc-300">
                         {optKey}
                       </span>
-                      <span className="flex-1 text-left">
+                      <span className="flex-1 text-left text-sm leading-snug">
                         <MathText text={optText} />
                       </span>
                       {selected && isThisCorrect && (
-                        <CheckCircle2 size={18} className="text-emerald-400 shrink-0 mt-0.5" />
+                        <CheckCircle2 size={16} className="text-zinc-300 shrink-0 mt-0.5" />
                       )}
                       {selected && isThisSelected && !isCorrect && (
-                        <XCircle size={18} className="text-rose-400 shrink-0 mt-0.5" />
+                        <XCircle size={16} className="text-zinc-400 shrink-0 mt-0.5" />
                       )}
                     </button>
                   );
@@ -253,27 +251,27 @@ export default function McqPracticeView({ mcqBank, allNotes, onSelectTopic }) {
               </div>
 
               {/* Bottom Actions */}
-              <div className="flex items-center justify-between pt-3 border-t border-[#272935] text-xs">
+              <div className="flex items-center justify-between pt-2.5 border-t border-[#2d2d33] text-xs">
                 <button
                   onClick={() => toggleExplanation(qId)}
-                  className="text-sky-400 hover:text-sky-300 font-medium flex items-center gap-1.5 py-1"
+                  className="text-zinc-400 hover:text-white font-medium flex items-center gap-1.5 py-0.5 transition-colors"
                 >
-                  <HelpCircle size={14} />
-                  {isRevealed ? 'Hide Explanation' : 'View Correct Answer & Explanation'}
+                  <HelpCircle size={13} />
+                  {isRevealed ? 'Hide Explanation' : 'View Explanation'}
                 </button>
 
                 {selected && (
-                  <span className={`font-semibold ${isCorrect ? 'text-emerald-400' : 'text-rose-400'}`}>
-                    {isCorrect ? '✓ Correct Choice!' : `✗ Incorrect (Correct is Option ${correctKey.toUpperCase()})`}
+                  <span className="text-xs font-medium text-zinc-300">
+                    {isCorrect ? '✓ Correct Choice' : `Option (${correctKey.toUpperCase()}) is correct`}
                   </span>
                 )}
               </div>
 
               {/* Explanation Card */}
               {isRevealed && (
-                <div className="mt-3 p-4 bg-[#14151b] border border-[#2d303f] rounded-lg text-xs md:text-sm leading-relaxed text-slate-300 animate-fade-in">
-                  <div className="font-bold text-emerald-400 mb-1 flex items-center gap-1.5">
-                    <Lightbulb size={15} /> Correct Answer: Option ({correctKey.toUpperCase()})
+                <div className="mt-3 p-3.5 bg-[#1a1a1d] border border-[#333338] rounded text-xs leading-relaxed text-zinc-300">
+                  <div className="font-semibold text-white mb-1 flex items-center gap-1.5">
+                    <Lightbulb size={13} /> Correct Answer: Option ({correctKey.toUpperCase()})
                   </div>
                   <div>
                     <MathText text={explanation} />
@@ -285,7 +283,7 @@ export default function McqPracticeView({ mcqBank, allNotes, onSelectTopic }) {
         })}
 
         {filteredList.length === 0 && (
-          <div className="p-12 text-center text-slate-500 bg-[#16171f] rounded-xl border border-[#2b2d39]">
+          <div className="p-12 text-center text-zinc-500 bg-[#212125] rounded-lg border border-[#303036]">
             <p>No questions found matching your filter criteria.</p>
           </div>
         )}

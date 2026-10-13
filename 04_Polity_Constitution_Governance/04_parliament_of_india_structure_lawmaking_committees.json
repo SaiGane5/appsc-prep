@@ -1,0 +1,114 @@
+{
+  "topic_id": "APPSC-G1-POL-04",
+  "subject_code": "04_Polity_Constitution_Governance",
+  "subject_title": "Polity, Constitution & Governance",
+  "paper": "Mains Paper-III (Section A) & Screening Paper-I (Section C)",
+  "topic_title": "Parliament of India: Legislative Procedures, Privileges & Committees",
+  "syllabus_mapping": "Polity, Constitution & Governance: Union Legislature - Parliament of India (Rajya Sabha, Lok Sabha), Lawmaking Process, Money Bill vs Financial Bill, Parliamentary Privileges, Committee System (PAC, Estimates), Anti-Defection Law (10th Schedule).",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Parliament of India: Legislative Procedures, Privileges & Committees"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Parliament of India (comprising the President, Council of States / Rajya Sabha, and House of the People / Lok Sabha) serves as the supreme representative, legislative, and deliberative organ of the Union. Through financial control over the executive via Money Bills, scrutiny through Department-Related Standing Committees, and deterrence against political defection under the Tenth Schedule, Parliament upholds executive accountability to the electorate."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/New_Parliament_House_New_Delhi.jpg",
+      "caption": "The new Parliament House (Sansad Bhavan) in New Delhi, the supreme legislative seat of India.",
+      "alt_text": "New Parliament House building exterior"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Procedural Comparison: Lok Sabha vs Rajya Sabha & Legislative Instruments",
+      "headers": [
+        "Legislative Dimension",
+        "Lok Sabha (House of the People)",
+        "Rajya Sabha (Council of States)"
+      ],
+      "rows": [
+        [
+          "Composition & Tenure",
+          "Maximum 550 members directly elected by universal adult suffrage; 5-year tenure subject to dissolution.",
+          "Maximum 250 members (238 elected by state MLAs, 12 nominated by President); permanent House; 1/3rd retire every 2 years."
+        ],
+        [
+          "Special / Exclusive Powers",
+          "Money Bills (Art 110) introduced solely in Lok Sabha; Council of Ministers collectively responsible only to Lok Sabha; voting on Demands for Grants.",
+          "Article 249 (authorizing Parliament to legislate on State List); Article 312 (creating new All-India Services); approval of Emergency if Lok Sabha dissolved."
+        ],
+        [
+          "Financial Legislation",
+          "Speaker certifies Money Bills; Lok Sabha can accept or reject all Rajya Sabha recommendations.",
+          "Can only withhold Money Bill for 14 days without amendment power; cannot vote on Demands for Grants."
+        ],
+        [
+          "Parliamentary Committees",
+          "Public Accounts Committee (22 members: 15 LS + 7 RS; chaired by Opposition MP); Estimates Committee (30 members, ALL from Lok Sabha); Committee on Public Undertakings (22 members).",
+          "Represented on all joint committees except Estimates Committee; Departmentally-Related Standing Committees (DRSCs) scrutinize budgetary demands."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Lawmaking Stages: First Reading (introduction and gazette publication), Second Reading (general discussion, clause-by-clause scrutiny, committee stage), Third Reading (voting on the bill as a whole), transmission to second House, and Presidential Assent (Article 111).",
+        "Joint Sitting of Parliament (Article 108): Summoned by President to resolve legislative deadlock on Ordinary Bills and Financial Bills; presided over by Speaker of Lok Sabha; decided by simple majority; NOT applicable to Money Bills (Art 110) or Constitutional Amendment Bills (Art 368).",
+        "Parliamentary Privileges (Article 105): Collective (right to publish debates, exclude strangers, punish for contempt of House) and Individual (freedom of speech in Parliament, immunity from court arrest in civil cases 40 days before and after sessions).",
+        "Anti-Defection Law (10th Schedule, 52nd Amendment 1985 & 91st Amendment 2003): Disqualifies MPs/MLAs for voluntarily giving up party membership or voting against party whip; decided by Presiding Officer; subject to judicial review per Kihoto Hollohan (1992)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically evaluate the role of Parliamentary Committees, especially the Public Accounts Committee (PAC) and Departmentally-Related Standing Committees (DRSCs), in ensuring executive accountability to Parliament. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define the parliamentary committee system as 'mini-legislatures' overcoming the limitation of parliamentary time and large assembly size; analyze the Public Accounts Committee (PAC): examining CAG audit reports, detecting financial irregularities, traditionally chaired by senior Opposition leader to ensure bipartisan scrutiny; analyze DRSCs: in-depth scrutiny of ministerial Demands for Grants, evaluating legislative bills and policy implementation beyond party lines; discuss contemporary challenges: declining referral of bills to standing committees, absence of legislative impact assessments, and non-binding nature of committee recommendations; suggest statutory institutional strengthening."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which Parliamentary Committee is composed exclusively of 30 members drawn entirely from the Lok Sabha, without any representation from the Rajya Sabha?\n(a) Public Accounts Committee (PAC)\n(b) Estimates Committee\n(c) Committee on Public Undertakings (COPU)\n(d) Committee on Subordinate Legislation\nCorrect Answer: (b) Estimates Committee [Explanation: The Estimates Committee consists of 30 members elected annually solely from the Lok Sabha to scrutinize government expenditure estimates and suggest administrative economies.]",
+        "Q2. Under Article 108 of the Constitution, a Joint Sitting of both Houses of Parliament to resolve a legislative deadlock is presided over by the:\n(a) President of India\n(b) Vice-President of India (Rajya Sabha Chairman)\n(c) Speaker of the Lok Sabha\n(d) Union Minister for Parliamentary Affairs\nCorrect Answer: (c) Speaker of the Lok Sabha [Explanation: Under Article 118(4), the Speaker of the Lok Sabha (or in their absence, the Deputy Speaker) presides over joint sittings of Parliament summoned under Article 108.]",
+        "Q3. In which landmark 1992 judgment did the Supreme Court hold that the decision of the Speaker/Chairman under the Tenth Schedule (Anti-Defection Law) is subject to judicial review?\n(a) Kesavananda Bharati Case\n(b) Kihoto Hollohan v. Zachillhu\n(c) S.R. Bommai Case\n(d) Indira Nehru Gandhi Case\nCorrect Answer: (b) Kihoto Hollohan v. Zachillhu [Explanation: In Kihoto Hollohan (1992), a constitution bench ruled that the Speaker acts as a tribunal when deciding anti-defection disqualifications and is subject to High Court/Supreme Court judicial review.]",
+        "Q4. If a Money Bill transmitted by the Lok Sabha to the Rajya Sabha is not returned within how many days, it is deemed to have been passed by both Houses in its original form?\n(a) 14 days\n(b) 21 days\n(c) 30 days\n(d) 6 weeks\nCorrect Answer: (a) 14 days [Explanation: Under Article 109(5), the Rajya Sabha must return a Money Bill with or without recommendations within 14 days, failing which the bill automatically stands passed.]",
+        "Q5. Which Article of the Indian Constitution empowers the Rajya Sabha to pass a special resolution with a two-thirds majority authorizing Parliament to legislate on a matter in the State List?\n(a) Article 249\n(b) Article 252\n(c) Article 312\n(d) Article 356\nCorrect Answer: (a) Article 249 [Explanation: Article 249 grants the Rajya Sabha exclusive power to declare by two-thirds majority that it is necessary in the national interest for Parliament to make laws on a State List subject for one year.]"
+      ]
+    }
+  ],
+  "word_count": 927,
+  "estimated_read_time_mins": 5,
+  "file_name": "04_parliament_of_india_structure_lawmaking_committees.json",
+  "folder": "04_Polity_Constitution_Governance"
+}

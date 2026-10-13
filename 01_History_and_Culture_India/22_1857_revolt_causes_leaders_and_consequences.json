@@ -1,0 +1,131 @@
+{
+  "topic_id": "APPSC-G1-HIST-22",
+  "subject_code": "01_History_and_Culture_India",
+  "subject_title": "History and Culture of India",
+  "paper": "Paper-II (Mains Section A) & Paper-I (Screening Section A)",
+  "topic_title": "The Revolt of 1857: Causes, Key Leaders, Suppression & Aftermath",
+  "syllabus_mapping": "History and Culture of India: The Revolt of 1857 - Multiple Causes, Outbreak at Meerut, Leading Figures (Bahadur Shah, Nana Saheb, Rani Lakshmibai, Kunwar Singh), Reasons for Failure and Crown Governance under Queen's Proclamation (1858).",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "The Revolt of 1857: Causes, Key Leaders, Suppression & Aftermath"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Great Uprising of 1857 was South Asia's first widespread armed rebellion against British East India Company rule. Sparked by sepoy disaffection over the greased Enfield cartridges at Barrackpore and Meerut, the revolt quickly enveloped northern and central India, uniting dispossessed royal houses, peasants, and sepoys under the nominal banner of Mughal Emperor Bahadur Shah Zafar."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rani_of_jhansi.jpg",
+      "caption": "Rani Lakshmibai of Jhansi, who led the rebel forces in Central India and died fighting at Gwalior.",
+      "alt_text": "Rani of Jhansi equestrian portrait"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Centres, Leadership & British Suppression Officers of the 1857 Revolt",
+      "headers": [
+        "Centre of Rebellion",
+        "Indian Rebel Leadership",
+        "British Suppression Commanders",
+        "Key Historical Facts & Outcomes"
+      ],
+      "rows": [
+        [
+          "Delhi",
+          "Bahadur Shah Zafar (Emperor) & General Bakht Khan.",
+          "John Nicholson (killed), Hudson.",
+          "Zafar exiled to Rangoon; Hudson murdered princes Mirza Mughal and Khizr Sultan at Khooni Darwaza."
+        ],
+        [
+          "Kanpur",
+          "Nana Saheb (Dhondu Pant), Tatya Tope, Azimullah Khan.",
+          "Sir Hugh Wheeler, Colin Campbell.",
+          "Nana Saheb escaped to Nepal; Wheeler's entrenchment surrendered; Tatya Tope launched guerrilla operations."
+        ],
+        [
+          "Lucknow (Awadh)",
+          "Begum Hazrat Mahal & son Birjis Qadr, Maulvi Ahmadullah.",
+          "Henry Lawrence (killed at Residency), Colin Campbell, James Outram.",
+          "Begum Hazrat Mahal escaped to Nepal; intense civilian participation by Awadh peasantry."
+        ],
+        [
+          "Jhansi & Gwalior",
+          "Rani Lakshmibai & Tatya Tope.",
+          "Sir Hugh Rose.",
+          "Sir Hugh Rose called Rani Lakshmibai 'the bravest and best military leader of the rebels'; fell in battle at Kotah-ki-Serai near Gwalior (18 June 1858)."
+        ],
+        [
+          "Arrah / Jagdishpur (Bihar)",
+          "Kunwar Singh (80-year-old Zamindar) & brother Amar Singh.",
+          "William Taylor and Vincent Eyre.",
+          "Defeated British detachments repeatedly; died of battle wounds in April 1858 after severing his wounded arm."
+        ],
+        [
+          "Faizabad",
+          "Maulvi Ahmadullah Shah ('Danka Shah').",
+          "Colin Campbell.",
+          "Fierce guerrilla preacher from Madras; British offered 50,000 rupees bounty; betrayed and killed by Raja of Pawayn."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Underlying Causes: Political (Doctrine of Lapse, Annexation of Awadh 1856, pension termination of Nana Saheb); Economic (ruin of peasants under heavy land revenue, destruction of artisans); Religious-Social (General Service Enlistment Act 1856 requiring overseas service, Christian missionary proselytization, Religious Disabilities Act 1856); Immediate trigger: introduction of Enfield rifle greased with cow and pig fat.",
+        "Mangal Pandey (29 March 1857): Sepoy of 34th Bengal Native Infantry at Barrackpore who shot British officers Baugh and Hearsey; hanged on 8 April 1857.",
+        "Reasons for Failure: Limited geographical scope (mostly North and Central India; South, West, and Punjab remained largely peaceful); absence of modern unified ideology; lack of support from educated middle class and princely rulers (Scindia, Holkar, Nizam aided British - Lord Canning called them 'breakwaters to the storm'); superior British logistics, arms, and electric telegraph communication.",
+        "Constitutional Aftermath: Government of India Act 1858 (ended EIC rule; Crown assumed direct sovereignty via Secretary of State for India and Viceroy); Queen Victoria's Proclamation (1 Nov 1858) promising non-annexation of princely states; Peale Commission reorganized Indian Army (ratio of European to Indian troops raised to 1:2 in Bengal, divide-and-rule 'martial race' theory)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically evaluate the nature of the Revolt of 1857. Was it merely a 'Sepoy Mutiny' or the 'First War of Indian Independence'? Discuss its administrative consequences under the Act of 1858. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contrast colonial British historiography (Sir John Lawrence, Sir John Kaye calling it an unpatriotic, selfish sepoy mutiny) with nationalist perspectives (V.D. Savarkar characterizing it as the 'First War of Indian Independence' and R.C. Majumdar's nuanced view); emphasize mass civilian participation across Awadh, Bihar, and Bundelkhand; analyze constitutional aftermath: Government of India Act 1858 ending Company rule, appointment of Viceroy, Queen's Proclamation of 1858 renouncing territorial expansion, and military reorganization under the Peale Commission based on the 'martial race' paradigm."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which heroic sepoy of the 34th Bengal Native Infantry fired at his British commanding officers at Barrackpore on 29 March 1857, igniting the 1857 uprising?\n(a) Bakht Khan\n(b) Mangal Pandey\n(c) Ishwar Pandey\n(d) Mata Din\nCorrect Answer: (b) Mangal Pandey [Explanation: Sepoy Mangal Pandey of the 34th BNI revolted at Barrackpore parade ground on 29 March 1857 protesting greased cartridges, becoming the opening martyr of the revolt.]",
+        "Q2. The octogenarian Rajput zamindar who led the 1857 armed resistance in Jagdishpur (Arrah, Bihar) and inflicted repeated defeats on British forces was:\n(a) Amar Singh\n(b) Kunwar Singh\n(c) Pir Ali\n(d) Khan Bahadur Khan\nCorrect Answer: (b) Kunwar Singh [Explanation: Babu Kunwar Singh, the 80-year-old chieftain of Jagdishpur in Bihar, displayed extraordinary military leadership and guerrilla warfare against British detachments.]",
+        "Q3. British commander Sir Hugh Rose, after capturing Gwalior, paid tribute to which rebel leader as 'the only man among the rebels' and 'the bravest and best military leader'?\n(a) Begum Hazrat Mahal\n(b) Rani Lakshmibai\n(c) Tatya Tope\n(d) Nana Saheb\nCorrect Answer: (b) Rani Lakshmibai [Explanation: General Sir Hugh Rose, who commanded the Central India Field Force, lauded Rani Lakshmibai of Jhansi for her unparalleled valor after she fell in battle at Kotah-ki-Serai.]",
+        "Q4. Which British monarchial declaration, read out by Lord Canning at the Allahabad Darbar on 1 November 1858, announced the direct assumption of Indian governance by the British Crown?\n(a) Charter Act of 1858\n(b) Queen Victoria's Proclamation\n(c) Royal Titles Act\n(d) Government of India Manifesto\nCorrect Answer: (b) Queen Victoria's Proclamation [Explanation: Lord Canning read Queen Victoria's Proclamation at Allahabad on 1 November 1858, guaranteeing respect for ancient rights and pledging no further territorial annexations.]",
+        "Q5. Which commission was constituted immediately after the 1857 Revolt to reorganize the Indian Army and ensure higher ratios of European troops?\n(a) Hunter Commission\n(b) Peale Commission\n(c) Fraser Commission\n(d) Welby Commission\nCorrect Answer: (b) Peale Commission [Explanation: The Peale Commission (1858) recommended maintaining a strict 1:2 European-to-Indian soldier ratio in Bengal and 1:3 in Madras/Bombay, pioneering the 'martial vs non-martial' recruitment doctrine.]"
+      ]
+    }
+  ],
+  "word_count": 933,
+  "estimated_read_time_mins": 5,
+  "file_name": "22_1857_revolt_causes_leaders_and_consequences.json",
+  "folder": "01_History_and_Culture_India"
+}

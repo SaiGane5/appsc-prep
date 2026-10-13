@@ -1,0 +1,119 @@
+{
+  "topic_id": "APPSC-G1-POL-09",
+  "subject_code": "04_Polity_Constitution_Governance",
+  "subject_title": "Polity, Constitution & Governance",
+  "paper": "Mains Paper-III (Section A) & Screening Paper-I (Section C)",
+  "topic_title": "Constitutional Bodies: ECI, UPSC, CAG & Finance Commission",
+  "syllabus_mapping": "Polity, Constitution & Governance: Constitutional Bodies - Election Commission of India (Art 324), Union Public Service Commission (Art 315), Comptroller and Auditor General (Art 148), Finance Commission (Art 280), National Commissions for SCs, STs and BCs.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Constitutional Bodies: ECI, UPSC, CAG & Finance Commission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Constitutional bodies derive their institutional existence, autonomy, and mandate directly from the text of the Constitution of India, safeguarding democratic integrity, administrative merit, and financial probity. Serving as neutral watchdogs of the republic, these institutions—the Election Commission of India (ECI), the Union Public Service Commission (UPSC), the Comptroller and Auditor General (CAG), and the Finance Commission—operate independently of executive interference."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Election_Commission_of_India.jpg",
+      "caption": "Nirvachan Sadan, the headquarters of the Election Commission of India in New Delhi.",
+      "alt_text": "Election Commission of India building Nirvachan Sadan"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Charter of Premier Independent Constitutional Bodies in India",
+      "headers": [
+        "Constitutional Body",
+        "Article Reference",
+        "Composition & Appointment",
+        "Core Mandate & Constitutional Safeguards"
+      ],
+      "rows": [
+        [
+          "Election Commission of India (ECI)",
+          "Article 324",
+          "Chief Election Commissioner (CEC) and two ECs; appointed by President; 6 yrs or 65 age.",
+          "Superintendence, direction, and control of elections to Parliament, State Legislatures, and offices of President/VP; CEC removed only like a Supreme Court judge."
+        ],
+        [
+          "Comptroller & Auditor General (CAG)",
+          "Article 148 to 151",
+          "Appointed by President; 6 yrs or 65 age; ineligible for further office.",
+          "'Guardian of the Public Purse'; audits all expenditure from Consolidated Fund of India and States; submits 3 audit reports to President laid before PAC; removed only like SC judge."
+        ],
+        [
+          "Finance Commission of India",
+          "Article 280",
+          "Chairman and 4 members appointed by President every 5 years.",
+          "Recommends horizontal and vertical devolution of central divisible tax pool between Union and States, and grants-in-aid under Article 275."
+        ],
+        [
+          "Union Public Service Commission (UPSC)",
+          "Articles 315 to 323",
+          "Chairman and members appointed by President; 6 yrs or 65 age; ineligible for further office.",
+          "'Watchdog of merit system'; conducts civil service and defense exams; consulted on personnel management and disciplinary cases; reports laid before Parliament."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Anoop Baranwal Judgment (2023): Landmark constitution bench ruling establishing that the CEC and ECs should be appointed by the President on the advice of a selection committee comprising the Prime Minister, the Leader of the Opposition, and the Chief Justice of India; Parliament subsequently enacted the Chief Election Commissioner Act 2023 substituting CJI with a Union Cabinet Minister.",
+        "CAG's Constitutional Role: Dr. Ambedkar declared the CAG as the 'most important officer under the Constitution of India'; audits compliance, propriety, and performance (CAG vs Government executive disputes in 2G, Coal block allocations).",
+        "National Commissions for Marginalized Classes: National Commission for Scheduled Castes (NCSC, Art 338), National Commission for Scheduled Tribes (NCST, Art 338A, created by 89th Amendment 2003), and National Commission for Backward Classes (NCBC, Art 338B, granted constitutional status by 102nd Amendment 2018); possess civil court powers to investigate atrocities and monitor constitutional safeguards.",
+        "15th & 16th Finance Commissions: 15th FC (chaired by N.K. Singh) recommended 41% vertical devolution to states, using 2011 population data alongside demographic performance, income distance, and forest cover criteria; 16th FC constituted under Dr. Arvind Panagariya."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Dr. B.R. Ambedkar described the Comptroller and Auditor General (CAG) as the most important officer under the Constitution. Critically evaluate the role of the CAG in upholding financial accountability in Indian governance. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Cite Dr. Ambedkar's constituent assembly address on the four bulwarks of the Constitution (SC, ECI, UPSC, CAG); detail constitutional safeguards guaranteeing independence: removal only on grounds of proven misbehavior or incapacity like SC judge, salary charged on Consolidated Fund of India, disqualification from future government posts (Article 148); analyze the tripartite audit roles: compliance audit (lawful expenditure), financial audit (accounting precision), and propriety audit (checking wastefulness and executive wisdom); evaluate the CAG-PAC nexus where Public Accounts Committee investigates CAG audit findings; discuss modern frontiers: environmental auditing, audit of PPP projects, and performance evaluation of welfare schemes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which Article of the Constitution of India provides for the office of the Comptroller and Auditor General (CAG) as the supreme audit authority of the republic?\n(a) Article 110\n(b) Article 148\n(c) Article 280\n(d) Article 324\nCorrect Answer: (b) Article 148 [Explanation: Article 148 establishes the office of the Comptroller and Auditor General of India, independent of executive interference.]",
+        "Q2. Under Article 280 of the Constitution, who constitutes the Finance Commission of India at the expiration of every fifth year or earlier?\n(a) Prime Minister\n(b) President of India\n(c) Parliament of India\n(d) Governor of the Reserve Bank of India\nCorrect Answer: (b) President of India [Explanation: Article 280 provides that the President of India shall constitute a Finance Commission consisting of a Chairman and four other members every fifth year.]",
+        "Q3. Constitutional status was granted to the National Commission for Backward Classes (NCBC) under Article 338B by which Constitutional Amendment Act?\n(a) 99th Amendment Act 2014\n(b) 101st Amendment Act 2016\n(c) 102nd Amendment Act 2018\n(d) 103rd Amendment Act 2019\nCorrect Answer: (c) 102nd Amendment Act 2018 [Explanation: The 102nd Constitutional Amendment Act of 2018 inserted Article 338B, conferring full constitutional status on the National Commission for Backward Classes.]",
+        "Q4. A member of the Union Public Service Commission (UPSC) holds office for a term of six years or until attaining what maximum age?\n(a) 60 years\n(b) 62 years\n(c) 65 years\n(d) 70 years\nCorrect Answer: (c) 65 years [Explanation: Under Article 316(2), a member of the UPSC holds office for a term of six years or until the age of 65 years, whichever is earlier.]",
+        "Q5. Which constitutional amendment bifucated the combined National Commission for SCs and STs into two independent bodies under Articles 338 and 338A?\n(a) 65th Amendment Act 1990\n(b) 86th Amendment Act 2002\n(c) 89th Amendment Act 2003\n(d) 93rd Amendment Act 2005\nCorrect Answer: (c) 89th Amendment Act 2003 [Explanation: The 89th Constitutional Amendment Act 2003 bifurcated the joint commission into the National Commission for SCs (Art 338) and the National Commission for STs (Art 338A).]"
+      ]
+    }
+  ],
+  "word_count": 940,
+  "estimated_read_time_mins": 6,
+  "file_name": "09_constitutional_bodies_ec_upsc_cag_finance_commission.json",
+  "folder": "04_Polity_Constitution_Governance"
+}

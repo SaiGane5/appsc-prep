@@ -1,0 +1,115 @@
+{
+  "topic_id": "APPSC-G1-ETH-06",
+  "subject_code": "05_Ethics_and_Law",
+  "subject_title": "Ethics and Law",
+  "paper": "Mains Paper-III (Section B) & Screening Paper-I (Section D)",
+  "topic_title": "New Criminal Law Framework: BNS, BNSS & BSA 2023",
+  "syllabus_mapping": "Basic Knowledge of Criminal Laws: Bharatiya Nyaya Sanhita (BNS) 2023, Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, and Bharatiya Sakshya Adhiniyam (BSA) 2023; Decolonization of Criminal Jurisprudence, Zero FIR, Electronic Evidence, and Forensic Investigation Mandates.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New Criminal Law Framework: BNS, BNSS & BSA 2023"
+    },
+    {
+      "type": "paragraph",
+      "text": "Effective July 1, 2024, India overhauled its colonial-era criminal jurisprudence by replacing the Indian Penal Code (IPC 1860), Code of Criminal Procedure (CrPC 1973), and Indian Evidence Act (IEA 1872) with three modernized statutes: the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA). These laws prioritize citizen-centric justice, incorporate electronic and digital evidence, introduce community service as a penal sanction, and mandate forensic interventions for severe crimes."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Supreme_Court_of_India_New_Delhi.jpg",
+      "caption": "The Supreme Court of India, guiding the judicial interpretation and implementation of the newly enacted criminal law framework.",
+      "alt_text": "Supreme Court of India"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Statutory Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Comparative Transition: Colonial Penal Codes vs Modern Criminal Acts (2023)",
+      "headers": [
+        "New Statute (2023)",
+        "Replaced Law",
+        "Key Doctrinal Reforms",
+        "Procedural Innovations"
+      ],
+      "rows": [
+        [
+          "Bharatiya Nyaya Sanhita (BNS) 2023",
+          "Indian Penal Code (IPC) 1860",
+          "Repeals sedition (replaces with acts endangering sovereignty); recognizes organized crime & terror; penalizes mob lynching",
+          "Introduces community service for petty offenses; gender neutrality for certain sexual crimes; 358 sections vs 511"
+        ],
+        [
+          "Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023",
+          "Code of Criminal Procedure (CrPC) 1973",
+          "Mandatory forensic team visits for offenses punishable with 7+ years imprisonment; timeline for trial completion",
+          "Statutory recognition of Zero FIR & e-FIR; audio-video recording of search & seizure; electronic summons"
+        ],
+        [
+          "Bharatiya Sakshya Adhiniyam (BSA) 2023",
+          "Indian Evidence Act (IEA) 1872",
+          "Primary evidentiary status for electronic and digital records (server logs, emails, smartphones, cloud data)",
+          "Harmonizes electronic evidence admissibility without rigid secondary authentication; modernizes witness protection rules"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Key Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Substantive Reforms under BNS 2023: Replaces IPC Section 124A (Sedition) with Section 152 (Acts endangering sovereignty, unity, and integrity of India). Explicitly defines and criminalizes terrorist acts (Section 113) and organized crime syndicates (Section 111). Introduces death penalty or life imprisonment for mob lynching based on race, caste, or community.",
+        "Community Service Sanctions: For the first time in Indian statutory law, community service is prescribed as an alternate sentence for six minor offences (such as public defamation, attempted suicide to restrain public servant, and minor theft under Rs 5,000 upon return of goods).",
+        "Citizen-Friendly Procedures in BNSS 2023: Institutionalizes Zero FIR, permitting any citizen to file an FIR at any police station regardless of geographical jurisdiction, with mandatory transfer to the jurisdictional police station within 15 days. Digital preliminary inquiries are prescribed before arrest in minor offenses punishable with 3 to 7 years.",
+        "Mandatory Forensic Collection: BNSS Section 176 mandates forensic experts to visit the crime scene and collect evidence for all offences punishable with imprisonment of seven years or more, driving scientific investigation standards across all states.",
+        "Digital Records under BSA 2023: Sections 57 to 63 accord equal legal standing to digital records as physical documents, removing antiquated hurdles surrounding certificates for electronic records while protecting chain of custody."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Analyze the key transformative features of the newly enacted criminal statutes (BNS, BNSS, and BSA 2023). How do they shift the balance from punitive colonial control to citizen-centric justice and scientific investigation? (250 Words, 15 Marks)",
+        "Discuss the significance of introducing 'Community Service' and statutory 'Zero FIR' mechanisms under the new criminal codes. What logistical and administrative challenges will state police forces like Andhra Pradesh face in implementing them? (200 Words, 10 Marks)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "**Q: On which date did the three new criminal statutes—Bharatiya Nyaya Sanhita (BNS), BNSS, and BSA—officially come into force across India?**\n* (a) January 26, 2024\n* (b) July 1, 2024\n* (c) August 15, 2024\n* (d) October 2, 2024\n* **Answer: (b)**\n* *Explanation:* The Central Government notified July 1, 2024, as the official commencement date for the Bharatiya Nyaya Sanhita (BNS) 2023, Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, and Bharatiya Sakshya Adhiniyam (BSA) 2023.",
+        "**Q: Under the Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, for offences carrying what minimum punishment is forensic investigation and crime scene visit made mandatory?**\n* (a) 3 years or more\n* (b) 5 years or more\n* (c) 7 years or more\n* (d) Life imprisonment only\n* **Answer: (c)**\n* *Explanation:* Section 176(3) of the BNSS mandates that for any offence punishable with imprisonment of seven years or more, a forensic team must visit the crime scene to collect scientific evidence and record the process on video/audio-video electronic media.",
+        "**Q: Which former colonial offence under Section 124A of the Indian Penal Code (IPC) was replaced by provisions concerning 'acts endangering sovereignty, unity and integrity of India' in BNS?**\n* (a) Blasphemy\n* (b) Sedition\n* (c) Criminal Defamation\n* (d) Thuggee\n* **Answer: (b)**\n* *Explanation:* Sedition under IPC Section 124A was repealed and replaced under Section 152 of the Bharatiya Nyaya Sanhita (BNS), which penalizes acts endangering sovereignty, unity, and integrity of India rather than disaffection towards the government.",
+        "**Q: Under the Bharatiya Nyaya Sanhita (BNS) 2023, 'Community Service' has been introduced as a punishment for which of the following categories of offences?**\n* (a) Homicide by negligence\n* (b) Minor / Petty offences (e.g., small theft below Rs 5,000, defamation)\n* (c) Organized cyber fraud\n* (d) Grievous hurt\n* **Answer: (b)**\n* *Explanation:* BNS 2023 introduces community service as an alternative penal measure for six petty offences, including defamation, misconduct by a drunken person, and theft of property valued under Rs 5,000 if the stolen property is restored.",
+        "**Q: Under BNSS 2023, a 'Zero FIR' filed at any police station must be transferred to the jurisdictional police station within how many days?**\n* (a) 24 hours\n* (b) 7 days\n* (c) 15 days\n* (d) 30 days\n* **Answer: (c)**\n* *Explanation:* BNSS gives statutory sanction to Zero FIR, enabling registration irrespective of jurisdictional territory, and mandates its transfer to the jurisdictional police station within 15 days."
+      ]
+    }
+  ],
+  "word_count": 563,
+  "estimated_read_time_mins": 4,
+  "file_name": "06_basic_knowledge_of_criminal_laws_bns_bnss_bsa.json",
+  "folder": "05_Ethics_and_Law"
+}

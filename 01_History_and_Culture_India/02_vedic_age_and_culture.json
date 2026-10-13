@@ -1,0 +1,119 @@
+{
+  "topic_id": "APPSC-G1-HIST-02",
+  "subject_code": "01_History_and_Culture_India",
+  "subject_title": "History and Culture of India",
+  "paper": "Paper-II (Mains Section A) & Paper-I (Screening Section A)",
+  "topic_title": "Vedic Age: Early & Later Vedic Polity, Economy, Society & Literature",
+  "syllabus_mapping": "History and Culture of India: Vedic Age - Rigvedic Society, Later Vedic Transformation, Epic Period, Caste Evolution, Religious Transitions and Vedic Literature.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vedic Age: Early & Later Vedic Polity, Economy, Society & Literature"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Vedic Age (c. 1500–600 BCE) marked the pastoral-tribal settlement of Indo-Aryan communities in the Sapta Sindhu region and their subsequent eastward migration into the Ganga-Yamuna Doab. The advent of iron metallurgy ('Shyama Ayas') in the Later Vedic era catalyzed agrarian surpluses, territorial statehood (Janapadas), rigid four-fold Varna stratification, and complex sacrificial rituals."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Rigveda_MS2097.jpg",
+      "caption": "A 19th-century Devanagari manuscript of the Rigveda, preserving hymns composed in the Sapta Sindhu river basin.",
+      "alt_text": "Rigveda manuscript folio"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Evolutionary Paradigm: Early Vedic (Rigvedic) vs Later Vedic Era",
+      "headers": [
+        "Parametric Theme",
+        "Early Vedic Period (c. 1500–1000 BCE)",
+        "Later Vedic Period (c. 1000–600 BCE)"
+      ],
+      "rows": [
+        [
+          "Geographical Focus",
+          "Sapta Sindhu (Indus, Saraswati, Ravi, Beas, Chenab, Jhelum, Sutlej).",
+          "Aryavarta / Kuru-Panchala realm in the Ganga-Yamuna Doab."
+        ],
+        [
+          "Political Structure",
+          "Tribal chiefdom (Rajan) checked by popular assemblies (Sabha, Samiti, Vidatha); voluntary tributes (Bali).",
+          "Territorial monarchies (Janapadas); divine kingship; standing royal bureaucracy (Ratnins); compulsory taxation (Bali, Bhaga, Shulka)."
+        ],
+        [
+          "Socio-Economic Base",
+          "Pastoral economy; cattle as primary wealth (Gavisti = search for cows); barter; copper/bronze (Ayas).",
+          "Sedentary iron-axe agriculture (Shyama Ayas); Painted Grey Ware (PGW); emergence of trade guilds (Srenis)."
+        ],
+        [
+          "Social Stratification",
+          "Flexible occupational classes; absence of hereditary caste; women enjoyed high status (Gargi, Maitreyi).",
+          "Rigid hereditary four-fold Varna (Purusha Sukta); Gotra endogamy; exclusion of women from political assemblies and education."
+        ],
+        [
+          "Religious Pantheon",
+          "Polytheistic nature deities (Indra/Purandara, Agni, Varuna); simple fire oblations without large-scale killings.",
+          "Ascendancy of Trimurti/Prajapati, Rudra, and Vishnu; costly animal sacrifices (Ashvamedha, Rajasuya, Vajapeya); Upanishadic philosophical revolt."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Vedic Literary Corpus: Shruti (revealed: 4 Vedas, Brahmanas, Aranyakas, Upanishads) and Smriti (remembered: Vedangas, Upavedas, Dharmashastras, Epics).",
+        "Four Vedas: Rigveda (1,028 suktas, Gayatri Mantra in Mandala 3); Samaveda (book of melodies, origins of Indian classical music); Yajurveda (prose ritual formulas: Shukla and Krishna); Atharvaveda (charms, spells, medicine, daily customs).",
+        "Upanishadic Philosophy: 108 Upanishads (principal 10: Isha, Kena, Katha, Mundaka, Chandogya, Brihadaranyaka); central thesis of Moksha through realizing the identity of Atman (individual soul) and Brahman (universal consciousness).",
+        "Six Vedangas: Shiksha (phonetics), Kalpa (ritual), Vyakarana (grammar), Nirukta (etymology), Chhanda (metrics), and Jyotisha (astronomy)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Trace the socio-economic and political shifts from the Early Vedic pastoral tribalism to the Later Vedic territorial statehood. How did iron technology facilitate this structural transition? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contrast the Sapta Sindhu pastoralism with Ganga-Yamuna agricultural settlements; explain the metallurgical revolution of iron ('Shyama Ayas') from 1000 BCE at Atranjikhera clearing dense monsoonal sal forests; examine the rise of surplus paddy cultivation yielding land revenue that financed royal armies and ritual legitimacy (Rajasuya, Vajapeya); evaluate the hardening of Varna hierarchies and social subjugation of Shudras and women."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which famous Vedic assembly was open to women and functioned as the earliest popular deliberative tribal council in the Early Vedic era?\n(a) Sabha\n(b) Samiti\n(c) Vidatha\n(d) Gana\nCorrect Answer: (c) Vidatha [Explanation: The Vidatha was the earliest Rigvedic folk assembly where women actively participated alongside men in tribal deliberations, religious rites, and war loot distribution.]",
+        "Q2. The national motto of India, 'Satyameva Jayate' (Truth Alone Triumphs), is inscribed from which ancient Upanishad?\n(a) Chandogya Upanishad\n(b) Mundaka Upanishad\n(c) Katha Upanishad\n(d) Brihadaranyaka Upanishad\nCorrect Answer: (b) Mundaka Upanishad [Explanation: 'Satyameva Jayate' is an excerpt from the Mundaka Upanishad (3.1.6), adopted as the official national motto on 26 January 1950.]",
+        "Q3. In the Later Vedic administrative apparatus, which royal functionary among the Ratnins was designated as the Chief Collector of Revenue?\n(a) Suta\n(b) Bhagadugha\n(c) Sangrahitri\n(d) Akshavapa\nCorrect Answer: (b) Bhagadugha [Explanation: In the Later Vedic state, the Bhagadugha collected the king's share of agrarian taxes (Bhaga), while the Sangrahitri functioned as the royal treasurer.]",
+        "Q4. The philosophical dialogue between the young seeker Nachiketa and Yama (the God of Death) regarding the nature of the soul and life after death is preserved in:\n(a) Katha Upanishad\n(b) Kena Upanishad\n(c) Prashna Upanishad\n(d) Aitareya Upanishad\nCorrect Answer: (a) Katha Upanishad [Explanation: The famous discourse on self-realization, the immortality of Atman, and spiritual wisdom between Yama and Nachiketa is the central subject of the Katha Upanishad.]",
+        "Q5. Which Mandala of the Rigveda contains the famous 'Purusha Sukta' hymn that provides the earliest textual reference to the four-fold Varna system?\n(a) Mandala 1\n(b) Mandala 3\n(c) Mandala 7\n(d) Mandala 10\nCorrect Answer: (d) Mandala 10 [Explanation: Mandala 10, Hymn 90 (Purusha Sukta) represents a late Rigvedic interpolation describing the cosmic sacrifice of Purusha from whose mouth, arms, thighs, and feet the Brahmin, Kshatriya, Vaishya, and Shudra arose.]"
+      ]
+    }
+  ],
+  "word_count": 732,
+  "estimated_read_time_mins": 4,
+  "file_name": "02_vedic_age_and_culture.json",
+  "folder": "01_History_and_Culture_India"
+}

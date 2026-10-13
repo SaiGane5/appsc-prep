@@ -14,7 +14,15 @@ export default function App() {
   });
 
   const [viewMode, setViewMode] = useState('notes'); // 'notes' | 'mcqs' | 'mains' | 'dashboard'
-  const [sidebarOpen, setSidebarOpen] = useState(false);
+  
+  const [sidebarOpen, setSidebarOpen] = useState(() => {
+    try {
+      const saved = localStorage.getItem('appsc_sidebar_open');
+      if (saved !== null) return JSON.parse(saved);
+    } catch {}
+    return typeof window !== 'undefined' ? window.innerWidth >= 1024 : true;
+  });
+
   const [searchQuery, setSearchQuery] = useState('');
   const [paperFilter, setPaperFilter] = useState('ALL');
   const [fontSizeMultiplier, setFontSizeMultiplier] = useState(1);
@@ -37,6 +45,12 @@ export default function App() {
       return {};
     }
   });
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('appsc_sidebar_open', JSON.stringify(sidebarOpen));
+    } catch (e) {}
+  }, [sidebarOpen]);
 
   useEffect(() => {
     try {
@@ -67,7 +81,7 @@ export default function App() {
   const totalBookmarks = Object.values(bookmarks).filter(Boolean).length;
 
   return (
-    <div className="h-screen w-screen bg-[#121316] text-slate-200 flex flex-col font-sans selection:bg-sky-500 selection:text-white overflow-hidden">
+    <div className="h-screen w-screen bg-[#1c1c1f] text-[#d4d4d8] flex flex-col font-sans selection:bg-zinc-700 selection:text-white overflow-hidden">
       {/* Top Header Bar */}
       <TopNav
         viewMode={viewMode}
@@ -75,7 +89,7 @@ export default function App() {
         fontSizeMultiplier={fontSizeMultiplier}
         setFontSizeMultiplier={setFontSizeMultiplier}
         totalBookmarksCount={totalBookmarks}
-        onToggleSidebar={() => setSidebarOpen(!sidebarOpen)}
+        onToggleSidebar={() => setSidebarOpen(prev => !prev)}
       />
 
       {/* Main Body Grid */}
@@ -99,7 +113,7 @@ export default function App() {
         />
 
         {/* Dynamic Center Viewport */}
-        <main className="flex-1 h-full overflow-y-auto bg-[#121316] min-w-0">
+        <main className="flex-1 h-full overflow-y-auto bg-[#1c1c1f] min-w-0">
           {viewMode === 'notes' && (
             <TopicView
               note={activeNote}

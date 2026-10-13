@@ -1,0 +1,127 @@
+{
+  "topic_id": "APPSC-G1-STE-08",
+  "subject_code": "07_Science_Technology_Environment",
+  "subject_title": "Science, Technology & Environment",
+  "paper": "Mains Paper-V & Screening Paper-II",
+  "topic_title": "Environmental Conservation & Biodiversity Legislation",
+  "syllabus_mapping": "Science, Technology & Environment: Environment (Protection) Act 1986, Wildlife (Protection) Act 1972 & 2022 Amendment, Forest (Conservation) Amendment Act 2023, Biological Diversity Act 2002 & 2023 Amendment, National Green Tribunal (NGT Act 2010), Project Tiger (50 Years) and Protected Area Network.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Environmental Conservation & Biodiversity Legislation"
+    },
+    {
+      "type": "paragraph",
+      "text": "India is one of the world's 17 megadiverse nations, harboring four global biodiversity hotspots (Western Ghats, Himalayas, Indo-Burma, Sundaland). Environmental governance rests on robust constitutional mandates (Articles 48A and 51A(g)) operationalized through pioneering statutory frameworks: the Wildlife (Protection) Act 1972, the Environment (Protection) Act 1986, the Biological Diversity Act 2002, and the specialized National Green Tribunal (NGT). Modern amendments harmonize wildlife conservation with CITES treaty compliance, access and benefit sharing (ABS), and sustainable developmental imperatives."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bengal_Tiger_in_Kanha_National_Park.jpg",
+      "caption": "Royal Bengal Tiger in Kanha Tiger Reserve, the flagship species protected under Project Tiger and the National Tiger Conservation Authority.",
+      "alt_text": "Bengal Tiger in Indian national park"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Scientific, Technological & Legal Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "Apex Environmental Statutes & Recent Legislative Amendments",
+      "headers": [
+        "Legislation",
+        "Original Enactment",
+        "Recent Amendments (2022/2023)",
+        "Core Provisions & Conservation Mechanisms"
+      ],
+      "rows": [
+        [
+          "Wildlife (Protection) Act (WPA)",
+          "1972",
+          "WPA Amendment Act 2022 (Effective April 2023)",
+          "Rationalized schedules from 6 to 4; aligned with CITES; created Management Authority for endangered fauna"
+        ],
+        [
+          "Biological Diversity Act (BDA)",
+          "2002",
+          "Biological Diversity Amendment Act 2023",
+          "Three-tier architecture (NBA, SBB, BMC); streamlines Access & Benefit Sharing (ABS) for AYUSH practitioners"
+        ],
+        [
+          "Forest (Conservation) Act (FCA)",
+          "1980",
+          "Van (Sanrakshan Evam Samvardhan) Adhiniyam 2023",
+          "Renamed statute; exempts linear strategic projects within 100 km of international borders from prior forest clearance"
+        ],
+        [
+          "National Green Tribunal Act (NGT)",
+          "2010",
+          "Operational under Article 21 constitutional jurisprudence",
+          "Specialized environmental court with judicial and expert members; applies polluter pays and precautionary principles"
+        ],
+        [
+          "Project Tiger / NTCA",
+          "1973 (50 Years completed 2023)",
+          "Statutory status to NTCA in 2006",
+          "Covers 55+ Tiger Reserves; tiger population grew from 1,411 in 2006 to over 3,682 in 2022 (75% of global wild tigers)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Key Policy Dimensions & Analytical Insights"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Wildlife (Protection) Amendment Act 2022: Rationalized the earlier six schedules into four: Schedule I (highest protection for animal species), Schedule II (animal species with lesser protection), Schedule III (protected plant species), and Schedule IV (specimens listed under CITES Appendices). Deleted the separate 'Vermin' schedule, leaving vermin declaration to central notifications.",
+        "Biological Diversity Act Three-Tier Governance: National Biodiversity Authority (NBA, Chennai) at the apex, State Biodiversity Boards (SBBs) in all states (including AP SBB in Guntur), and Biodiversity Management Committees (BMCs) at the local panchayat/municipal level preparing People's Biodiversity Registers (PBRs).",
+        "Van (Sanrakshan Evam Samvardhan) Adhiniyam 2023: Narrows the application of the Forest Conservation Act strictly to notified government forests and lands recorded as forest in government records on or after October 25, 1980, modifying the expansive dictionary definition established in the Supreme Court's 1996 Godavarman judgement.",
+        "National Green Tribunal (NGT): Established under NGT Act 2010 pursuant to India's Rio 1992 commitments and Article 21 right to a healthy environment. Mandated to dispose of environmental disputes within 6 months. Replaced traditional civil courts across seven environmental acts (excluding WPA and IFA).",
+        "Protected Area Network in Andhra Pradesh: AP hosts Papikonda National Park, Sri Venkateswara National Park, and Nagarjunasagar-Srisailam Tiger Reserve (NSTR)—the largest tiger reserve in India spanning the Nallamala forest range across AP and Telangana."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Analyze the key structural changes introduced by the Wildlife (Protection) Amendment Act, 2022. How does the rationalization of schedules align Indian domestic wildlife law with the CITES convention? (250 Words, 15 Marks)",
+        "Critically examine the provisions and environmental concerns surrounding the Forest (Conservation) Amendment Act, 2023. Does the exemption of border infrastructure undermine ecological security in sensitive zones? (200 Words, 10 Marks)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "**Q: Under the Wildlife (Protection) Amendment Act 2022, into how many schedules were protected flora and fauna rationalized?**\n* (a) 4 schedules\n* (b) 6 schedules\n* (c) 8 schedules\n* (d) 10 schedules\n* **Answer: (a)**\n* *Explanation:* The 2022 amendment rationalized the previous six schedules of the Wildlife (Protection) Act 1972 into four schedules: Schedule I (highest protection fauna), Schedule II (lesser protection fauna), Schedule III (plants), and Schedule IV (CITES specimens).",
+        "**Q: Where is the headquarters of the statutory National Biodiversity Authority (NBA) of India located?**\n* (a) New Delhi\n* (b) Kolkata\n* (c) Chennai\n* (d) Bengaluru\n* **Answer: (c)**\n* *Explanation:* The National Biodiversity Authority (NBA), established in 2003 under Section 8 of the Biological Diversity Act 2002, is headquartered in Chennai, Tamil Nadu.",
+        "**Q: Which is the largest Tiger Reserve by geographical area in India, situated across the Nallamala hill ranges of Andhra Pradesh and Telangana?**\n* (a) Jim Corbett Tiger Reserve\n* (b) Nagarjunasagar-Srisailam Tiger Reserve (NSTR)\n* (c) Bandipur Tiger Reserve\n* (d) Similipal Tiger Reserve\n* **Answer: (b)**\n* *Explanation:* Nagarjunasagar-Srisailam Tiger Reserve (NSTR), covering an area of over 3,296 sq km across the Nallamala forests in Andhra Pradesh and Telangana, is the largest tiger reserve in India.",
+        "**Q: Under the NGT Act 2010, the National Green Tribunal is statutorily mandated to make an endeavor to dispose of environmental applications within what timeframe?**\n* (a) 30 days\n* (b) 90 days\n* (c) 6 months\n* (d) 1 year\n* **Answer: (c)**\n* *Explanation:* Section 18(3) of the National Green Tribunal Act 2010 mandates that the Tribunal shall make an endeavor for final disposal of applications or appeals within six months of their filing.",
+        "**Q: Which landmark 1996 Supreme Court judgement had broadened the definition of 'forest' under the Forest Conservation Act 1980 to include all areas conforming to the dictionary meaning?**\n* (a) M.C. Mehta v. Union of India\n* (b) T.N. Godavarman Thirumulpad v. Union of India\n* (c) Vellore Citizens Welfare Forum case\n* (d) Subhash Kumar v. State of Bihar\n* **Answer: (b)**\n* *Explanation:* In T.N. Godavarman Thirumulpad v. Union of India (1996), the Supreme Court ruled that 'forest' must be understood in accordance with its dictionary meaning, covering all statutorily recognized forests irrespective of ownership."
+      ]
+    }
+  ],
+  "word_count": 541,
+  "estimated_read_time_mins": 4,
+  "file_name": "08_environmental_conservation_and_biodiversity_acts.json",
+  "folder": "07_Science_Technology_Environment"
+}

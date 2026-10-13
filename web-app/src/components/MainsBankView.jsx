@@ -4,12 +4,8 @@ import {
   BookOpen, 
   ChevronDown, 
   ChevronUp, 
-  Lightbulb, 
   Search, 
-  Filter, 
-  FileText, 
-  Award,
-  Layers
+  Filter
 } from 'lucide-react';
 
 export default function MainsBankView({ mainsBank, onSelectTopic }) {
@@ -61,28 +57,27 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
   };
 
   return (
-    <div className="flex-1 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fade-in">
+    <div className="flex-1 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Header */}
-      <div className="pb-6 mb-8 border-b border-[#2d2f3c]">
-        <span className="badge badge-cyan mb-2">Mains Examination Repository</span>
-        <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-          APPSC Group-1 Mains Analytical Question Bank
+      <div className="pb-5 mb-7 border-b border-[#303036]">
+        <h1 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">
+          Mains Analytical Questions
         </h1>
-        <p className="text-xs sm:text-sm text-slate-400 mt-1">
-          141 descriptive and analytical questions spanning Paper-II, Paper-III, Paper-IV, and Paper-V, equipped with structural model approaches, mark distributions, and evaluator blueprints.
+        <p className="text-xs sm:text-sm text-zinc-400 mt-1">
+          {parsedList.length} Descriptive questions with structured model answer frameworks and evaluation guidelines.
         </p>
       </div>
 
       {/* Search and Filters */}
-      <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 mb-6 bg-[#181920] p-3 rounded-xl border border-[#2b2d39]">
+      <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 mb-6 bg-[#212125] p-2.5 rounded-lg border border-[#303036]">
         <div className="relative flex-1">
-          <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
+          <Search size={13} className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-400" />
           <input
             type="text"
-            placeholder="Search questions or keywords..."
+            placeholder="Search questions..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full pl-9 pr-3 py-1.5 bg-[#20222d] border border-[#2e3140] rounded-lg text-xs text-white placeholder-slate-500 focus:outline-none focus:border-sky-400"
+            className="w-full pl-8 pr-3 py-1 bg-[#18181b] border border-[#333338] rounded text-xs text-white placeholder-zinc-500 focus:outline-none focus:border-zinc-400"
           />
         </div>
 
@@ -90,7 +85,7 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
           <select
             value={selectedSubject}
             onChange={(e) => setSelectedSubject(e.target.value)}
-            className="bg-[#20222d] border border-[#2e3140] text-xs text-white rounded-lg px-2.5 py-1.5 focus:outline-none focus:border-sky-400"
+            className="bg-[#18181b] border border-[#333338] text-xs text-white rounded px-2.5 py-1 focus:outline-none focus:border-zinc-400"
           >
             {subjects.map((s, idx) => (
               <option key={idx} value={s}>
@@ -101,13 +96,13 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
 
           <button
             onClick={expandAll}
-            className="px-2.5 py-1.5 bg-[#242633] hover:bg-[#2c2f3f] text-slate-300 text-xs font-medium rounded-lg transition-colors shrink-0"
+            className="px-2 py-1 bg-[#28282d] hover:bg-[#323238] text-zinc-300 text-xs rounded transition-colors shrink-0"
           >
             Expand All
           </button>
           <button
             onClick={collapseAll}
-            className="px-2.5 py-1.5 bg-[#242633] hover:bg-[#2c2f3f] text-slate-300 text-xs font-medium rounded-lg transition-colors shrink-0"
+            className="px-2 py-1 bg-[#28282d] hover:bg-[#323238] text-zinc-300 text-xs rounded transition-colors shrink-0"
           >
             Collapse All
           </button>
@@ -115,8 +110,8 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
       </div>
 
       {/* Question Counter */}
-      <div className="text-xs text-slate-400 mb-4 flex items-center justify-between">
-        <span>Showing {filteredList.length} of {parsedList.length} Mains Questions</span>
+      <div className="text-xs text-zinc-400 mb-3 flex items-center justify-between">
+        <span>Showing {filteredList.length} of {parsedList.length} questions</span>
       </div>
 
       {/* List of Questions */}
@@ -128,27 +123,22 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
           return (
             <div
               key={item.id}
-              className="bg-[#1b1c24] border border-[#2d2f3c] rounded-xl p-5 shadow-md hover:border-[#3d4052] transition-colors"
+              className="bg-[#222226] border border-[#303036] rounded-lg p-5 hover:border-[#404048] transition-colors"
             >
-              <div className="flex flex-wrap items-center justify-between gap-2 mb-2.5">
-                <div className="flex items-center gap-2">
-                  <span className="text-[11px] font-mono text-sky-400 font-semibold">
-                    #{index + 1} • {item.topic_id}
-                  </span>
-                  <span className="badge badge-cyan text-[10px]">
-                    10 Marks
-                  </span>
-                </div>
+              <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
+                <span className="text-[11px] font-mono text-zinc-500">
+                  #{index + 1} • {item.topic_id}
+                </span>
                 <button
                   onClick={() => onSelectTopic(item.topic_id)}
-                  className="text-xs text-slate-400 hover:text-sky-300 flex items-center gap-1 transition-colors"
+                  className="text-xs text-zinc-400 hover:text-white flex items-center gap-1 transition-colors"
                 >
-                  <BookOpen size={12} />
+                  <BookOpen size={11} />
                   <span>Topic: <MathText text={item.topic_title} /></span>
                 </button>
               </div>
 
-              <h3 className="text-base sm:text-lg font-semibold text-white leading-snug mb-3">
+              <h3 className="text-base font-medium text-white leading-snug mb-3">
                 <MathText text={question} />
               </h3>
 
@@ -156,21 +146,18 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
                 <div>
                   <button
                     onClick={() => toggleExpand(item.id)}
-                    className="w-full mt-1 p-2.5 bg-[#22242e] hover:bg-[#282a36] text-sky-400 rounded-lg text-xs font-medium flex items-center justify-between transition-colors"
+                    className="w-full mt-2 p-2 bg-[#2a2a2f] hover:bg-[#323238] text-zinc-300 rounded text-xs font-medium flex items-center justify-between transition-colors"
                   >
-                    <span className="flex items-center gap-2">
-                      <Lightbulb size={14} />
-                      {isExpanded ? 'Hide Model Answer Approach' : 'View Model Answer Approach & Structural Blueprint'}
-                    </span>
-                    {isExpanded ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+                    <span>{isExpanded ? 'Hide Model Approach' : 'View Model Answer Approach'}</span>
+                    <span className="text-zinc-400">{isExpanded ? <ChevronUp size={14} /> : <ChevronDown size={14} />}</span>
                   </button>
 
                   {isExpanded && (
-                    <div className="mt-3 p-4 bg-[#14151b] border border-sky-950/60 rounded-lg text-xs sm:text-sm leading-relaxed text-slate-300 animate-fade-in">
-                      <div className="font-bold text-sky-400 mb-1.5 flex items-center gap-1.5 uppercase tracking-wide text-xs">
-                        <Award size={14} /> Answer Structuring Strategy:
+                    <div className="mt-3 p-3.5 bg-[#1a1a1d] border border-[#333338] rounded text-xs sm:text-sm leading-relaxed text-zinc-300">
+                      <div className="font-semibold text-white mb-1.5 text-xs uppercase tracking-wide">
+                        Approach:
                       </div>
-                      <div className="whitespace-pre-line text-slate-200">
+                      <div className="whitespace-pre-line text-zinc-300">
                         <MathText text={approach} />
                       </div>
                     </div>
@@ -182,7 +169,7 @@ export default function MainsBankView({ mainsBank, onSelectTopic }) {
         })}
 
         {filteredList.length === 0 && (
-          <div className="p-12 text-center text-slate-500 bg-[#16171f] rounded-xl border border-[#2b2d39]">
+          <div className="p-12 text-center text-zinc-500 bg-[#212125] rounded-lg border border-[#303036]">
             <p>No Mains questions found matching your filter criteria.</p>
           </div>
         )}

@@ -1,0 +1,121 @@
+{
+  "topic_id": "APPSC-G1-STE-07",
+  "subject_code": "07_Science_Technology_Environment",
+  "subject_title": "Science, Technology & Environment",
+  "paper": "Mains Paper-V & Screening Paper-II",
+  "topic_title": "Biotechnology, Genetic Engineering & Modern Healthcare",
+  "syllabus_mapping": "Science, Technology & Environment: Department of Biotechnology (DBT), Recombinant DNA Technology, CRISPR-Cas9 Gene Editing, Genetically Modified (GM) Crops & Regulatory Framework (GEAC), Stem Cell Therapy, Vaccines (mRNA, DNA), Neglected Tropical Diseases, and Antimicrobial Resistance (AMR).",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Biotechnology, Genetic Engineering & Modern Healthcare"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biotechnology and genetic engineering have revolutionized medicine, agriculture, and industrial manufacturing. Spearheaded by the Department of Biotechnology (DBT) and research councils like ICMR and CSIR, India's bio-economy exceeded $130 billion in 2024. From pioneering indigenous DNA vaccines during the COVID-19 pandemic to advancing CRISPR-Cas9 genome editing for sickle cell anemia and regulating Genetically Modified (GM) crops via the Genetic Engineering Appraisal Committee (GEAC), biotechnology plays a transformative role in national health and food security."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/DNA_Double_Helix_Model.jpg",
+      "caption": "Double-helix model of DNA, the basis of modern recombinant genetics, CRISPR editing, and vaccine biotechnology.",
+      "alt_text": "DNA Double Helix structure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Scientific, Technological & Legal Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "Frontier Biotechnology Applications & Indian Regulatory Oversight",
+      "headers": [
+        "Biotech Domain",
+        "Underlying Scientific Platform",
+        "Key Breakthroughs & Indian Products",
+        "Statutory Regulator / Framework"
+      ],
+      "rows": [
+        [
+          "CRISPR-Cas9 Gene Editing",
+          "Clustered Regularly Interspaced Short Palindromic Repeats; Cas9 molecular scissors",
+          "Sickle-cell anemia therapies; indigenous CRISPR diagnostics (FELUDA test by CSIR-IGIB)",
+          "National Guidelines for Stem Cell Research & Gene Therapy (ICMR/DBT)"
+        ],
+        [
+          "Agricultural GMOs",
+          "Recombinant DNA insertion of alien genes (e.g., Cry1Ac endotoxin from Bacillus thuringiensis)",
+          "Bt Cotton (only commercial GM crop); GM Mustard DMH-11 (GEAC environmental release approval)",
+          "Genetic Engineering Appraisal Committee (GEAC) under MoEFCC (EPA 1986 Rules 1989)"
+        ],
+        [
+          "Vaccine Platforms",
+          "Plasmids (DNA), Synthetic mRNA, Inactivated viral vectors, Protein sub-units",
+          "ZyCoV-D (World's first DNA vaccine by Zydus); Covaxin (inactivated); GEMCOVAC-19 (mRNA)",
+          "Central Drugs Standard Control Organisation (CDSCO) under Drugs and Cosmetics Act"
+        ],
+        [
+          "Stem Cell Therapy",
+          "Pluripotent & Hematopoietic stem cell differentiation",
+          "Bone marrow transplants; regenerative treatments for corneal damage (LV Prasad Eye Institute AP/TS)",
+          "Prohibits commercial embryonic stem cell therapies; restricts to approved hematological indications"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Key Policy Dimensions & Analytical Insights"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "CRISPR-Cas9 Genome Editing Revolution: Discovered by Emmanuelle Charpentier and Jennifer Doudna (Nobel Prize 2020), this targeted molecular scalpel allows precise deletion or insertion of genetic code. CSIR-IGIB developed 'FELUDA' (FnCas9 Editor Linked Uniform Detection Assay) for low-cost pathogen detection.",
+        "GM Crop Regulatory Architecture: Functioning under the Environment (Protection) Act 1986 Rules 1989, the multi-tier biosafety system comprises: 1. Institutional Biosafety Committee (IBSC); 2. Review Committee on Genetic Manipulation (RCGM) under DBT; 3. Genetic Engineering Appraisal Committee (GEAC) under MoEFCC as the apex statutory authority approving field trials and commercial release.",
+        "GM Mustard (Dhara Mustard Hybrid-11 / DMH-11): Developed by Delhi University using the 'barnase-barstar' gene system from soil bacterium Bacillus amyloliquefaciens to induce male sterility for high-yielding hybrid mustard seeds. Received GEAC environmental release recommendation in October 2022.",
+        "Antimicrobial Resistance (AMR) & National Action Plan: India is combating the silent pandemic of multidrug-resistant 'superbugs' caused by antibiotic misuse in human health and livestock farming through the National Action Plan on AMR (NAP-AMR), Schedule H1 red-line antibiotic packaging, and surveillance via ICMR's AMR surveillance network.",
+        "Sickle Cell Anemia Elimination Mission 2047: Launched to eliminate sickle cell disease among tribal populations across 17 high-prevalence states, deploying universal point-of-care genetic screening, pre-marital genetic counseling, and indigenous hydroxyurea/CRISPR treatment access."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Explain the scientific mechanism of CRISPR-Cas9 genome editing technology. Discuss its clinical potential in eradicating genetic disorders like Sickle Cell Disease and Thalassemia in India. (250 Words, 15 Marks)",
+        "Critically evaluate the environmental and biosecurity debates surrounding the commercial release of Genetically Modified (GM) food crops in India, with specific reference to GM Mustard (DMH-11). (200 Words, 10 Marks)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "**Q: Which statutory apex authority under the Ministry of Environment, Forest and Climate Change (MoEFCC) is empowered to approve environmental release and commercial cultivation of Genetically Modified (GM) organisms in India?**\n* (a) Review Committee on Genetic Manipulation (RCGM)\n* (b) Genetic Engineering Appraisal Committee (GEAC)\n* (c) Department of Biotechnology (DBT)\n* (d) Food Safety and Standards Authority of India (FSSAI)\n* **Answer: (b)**\n* *Explanation:* The Genetic Engineering Appraisal Committee (GEAC), constituted under the Rules 1989 of the Environment (Protection) Act 1986, is the apex statutory body for approval of activities involving large-scale use of hazardous microorganisms and environmental release of GM organisms.",
+        "**Q: Which is the only Genetically Modified (GM) crop currently approved for commercial commercial cultivation by farmers in India?**\n* (a) Bt Brinjal\n* (b) Bt Cotton\n* (c) DMH-11 Mustard\n* (d) Golden Rice\n* **Answer: (b)**\n* *Explanation:* Bt Cotton is the only genetically modified crop officially approved for commercial cultivation in India, approved by GEAC in 2002.",
+        "**Q: Which Indian company developed ZyCoV-D, the world's first needle-free plasmid DNA vaccine approved for emergency human use against COVID-19?**\n* (a) Bharat Biotech\n* (b) Serum Institute of India\n* (c) Zydus Cadila\n* (d) Biological E\n* **Answer: (c)**\n* *Explanation:* ZyCoV-D, developed by Zydus Cadila in partnership with the Department of Biotechnology, was the world's first plasmid DNA vaccine approved for emergency human immunization.",
+        "**Q: What bacterial gene system was utilized by Delhi University scientists to develop the hybrid Genetically Modified mustard DMH-11?**\n* (a) Cry1Ac and Cry2Ab genes\n* (b) Barnase and Barstar gene system\n* (c) Cas9 and sgRNA system\n* (d) nif gene complex\n* **Answer: (b)**\n* *Explanation:* DMH-11 was created using the 'barnase-barstar' gene system derived from the soil bacterium Bacillus amyloliquefaciens to facilitate outcrossing and hybrid seed production in self-pollinating mustard.",
+        "**Q: By which year does the National Sickle Cell Anemia Elimination Mission aim to eliminate Sickle Cell Disease from India's tribal and vulnerable populations?**\n* (a) 2030\n* (b) 2035\n* (c) 2040\n* (d) 2047\n* **Answer: (d)**\n* *Explanation:* The National Sickle Cell Anemia Elimination Mission, launched from Madhya Pradesh in 2023, specifically targets eliminating Sickle Cell Disease by the year 2047."
+      ]
+    }
+  ],
+  "word_count": 518,
+  "estimated_read_time_mins": 4,
+  "file_name": "07_biotechnology_genetic_engineering_and_healthcare.json",
+  "folder": "07_Science_Technology_Environment"
+}

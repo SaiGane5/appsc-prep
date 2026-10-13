@@ -1,0 +1,95 @@
+# Number System, Divisibility Rules & Order of Magnitude
+
+**Topic ID:**  | **Subject:** General Mental and Psychological Abilities | **Paper:** Screening Paper-II (Section A)
+
+**Syllabus Mapping:** Number system and order of Magnitude - Classification of Real Numbers, Prime and Composite Numbers, Tests of Divisibility, Unit Digit Determination, Remainder Theorem, Factors and Multiples, Orders of Magnitude and Scientific Notation.
+
+---
+
+
+# Number Systems, Divisibility Mechanics, Unit Digit Cycles, and Orders of Magnitude
+
+
+The number system forms the foundation of all quantitative aptitude. Mastery over prime factorization, modular divisibility tests, cyclical patterns in unit digits of large powers, and powers of ten (orders of magnitude) is crucial for mental calculation speed.
+
+
+## 1. Divisibility Rules and Modular Tests
+
+
+### Table: Standard Divisibility Rules in Elementary Number Theory
+
+| Divisor | Divisibility Condition | Illustrative Example & Shortcut |
+| --- | --- | --- |
+| 2, 4, 8, 16 | Last 1, 2, 3, or 4 digits respectively must be divisible by $2^n$. | 54,736 is divisible by 16 because 4,736 is divisible by 16 (4,736 / 16 = 296). |
+| 3 and 9 | Sum of digits must be divisible by 3 or 9 respectively. | 87,642 -> 8+7+6+4+2 = 27 (divisible by 9 and 3). |
+| 7 | Double the last digit and subtract from the remaining truncated number; result must be divisible by 7. | 343 -> 34 - 2(3) = 28 (divisible by 7). |
+| 11 | Difference between sum of digits at odd places and sum of digits at even places must be 0 or a multiple of 11. | 85,976 -> (8+9+6) - (5+7) = 23 - 12 = 11 (divisible by 11). |
+| Composite $k = a \times b$ | Number must be simultaneously divisible by co-prime factors $a$ and $b$ (e.g., 72 requires 8 and 9). | To test 72: check last 3 digits for 8, and digit sum for 9. |
+
+
+
+## 2. Cyclicity and Unit Digit Calculations
+
+
+The unit digit of $x^n$ repeats cyclically in periods of 1, 2, or 4:
+
+
+### Table: Unit Digit Cyclicity Table for Base Digits
+
+| Base Unit Digit | Cyclicity Period | Cycle of Unit Digits ($n=1, 2, 3, 4$) | Calculation Shortcut |
+| --- | --- | --- | --- |
+| 0, 1, 5, 6 | 1 (No change) | Always 0, 1, 5, 6 for any positive power $n$. | Unit digit is identical to base digit. |
+| 4, 9 | 2 | 4: Odd power = 4, Even power = 6. 9: Odd power = 9, Even power = 1. | Check whether exponent is odd or even. |
+| 2, 3, 7, 8 | 4 | 2: (2, 4, 8, 6); 3: (3, 9, 7, 1); 7: (7, 9, 3, 1); 8: (8, 4, 2, 6). | Divide exponent by 4: use remainder $r$ as power (if $r=0$, use power 4). |
+
+
+
+## Previous Years Questions (PYQs) - APPSC Group-1
+
+
+### Part A: Analytical Descriptive Number Theory
+
+1. A 9-digit number 785x3678y is completely divisible by 72. Find the values of x and y (where y is the largest possible single digit), and calculate the value of (5x - 3y). Formulate the modular steps. (APPSC Group-1 Mains Analytical, 10 Marks)
+-> Model Approach: Divisibility by 72 requires divisibility by co-prime factors 8 and 9. 1. Divisibility by 8: Last three digits '78y' must be divisible by 8. 78y / 8: 780/8 = 97 rem 4, so 784/8 = 98 (rem 0). Thus y must be 4 (y=4 is unique single digit). 2. Divisibility by 9: Sum of digits must be divisible by 9. Sum = 7 + 8 + 5 + x + 3 + 6 + 7 + 8 + y = 44 + x + 4 = 48 + x. For 48 + x to be divisible by 9, x must be 6 (since 48 + 6 = 54). Therefore, x = 6 and y = 4. 3. Evaluation: (5x - 3y) = 5(6) - 3(4) = 30 - 12 = 18.
+
+
+
+
+### Part B: Screening / Prelims Objective Questions
+
+* Q1. What is the unit digit in the expansion of (7^95 - 3^58)?
+(a) 0
+(b) 4
+(c) 6
+(d) 7
+Correct Answer: (b) 4 [Explanation: 1. For 7^95: Cyclicity of 7 is 4. 95 mod 4 = 3, so unit digit of 7^95 is 7^3 = 343 -> 3. 2. For 3^58: Cyclicity of 3 is 4. 58 mod 4 = 2, so unit digit of 3^58 is 3^2 = 9. 3. Unit digit difference = (3 - 9): borrow 10, so 13 - 9 = 4.]
+
+* Q2. What is the remainder when (17^200) is divided by 18?
+(a) 1
+(b) 2
+(c) 16
+(d) 17
+Correct Answer: (a) 1 [Explanation: Using modular arithmetic: 17 ≡ -1 (mod 18). Therefore, 17^200 ≡ (-1)^200 (mod 18) ≡ 1 (mod 18). The remainder is 1.]
+
+* Q3. How many prime numbers exist between 1 and 100?
+(a) 21
+(b) 24
+(c) 25
+(d) 26
+Correct Answer: (c) 25 [Explanation: There are exactly 25 prime numbers between 1 and 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.]
+
+* Q4. If a number N is divided by 56, the remainder is 29. If the same number N is divided by 8, what will be the remainder?
+(a) 3
+(b) 4
+(c) 5
+(d) 7
+Correct Answer: (c) 5 [Explanation: N = 56k + 29. Since 56 is completely divisible by 8 (56 = 8*7), the remainder when dividing N by 8 is simply the remainder of dividing 29 by 8: 29 = 8*3 + 5. Remainder is 5.]
+
+* Q5. An order of magnitude comparison: How many times larger is 10^12 (Tera) compared to 10^6 (Mega)?
+(a) 10^2 times
+(b) 10^4 times
+(c) 10^6 times
+(d) 10^8 times
+Correct Answer: (c) 10^6 times [Explanation: 10^12 / 10^6 = 10^(12-6) = 10^6 (one million times larger).]
+
+

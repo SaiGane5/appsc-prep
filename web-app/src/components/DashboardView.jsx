@@ -1,16 +1,10 @@
 import React from 'react';
 import { 
   CheckCircle2, 
-  Circle, 
   Star, 
-  BookOpen, 
-  Award, 
-  TrendingUp, 
-  Clock, 
+  HelpCircle, 
   FileText, 
-  HelpCircle,
-  ArrowRight,
-  Sparkles
+  ArrowRight
 } from 'lucide-react';
 
 export default function DashboardView({
@@ -27,100 +21,97 @@ export default function DashboardView({
   const bookmarkCount = Object.values(bookmarks).filter(Boolean).length;
 
   const totalWords = allNotes.reduce((acc, n) => acc + (n.word_count || 0), 0);
-  const totalReadHours = Math.round((totalWords / 180) / 60);
 
   // Bookmarked notes
   const bookmarkedNotes = allNotes.filter(n => bookmarks[n.topic_id]);
 
   return (
-    <div className="flex-1 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fade-in">
+    <div className="flex-1 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Header */}
-      <div className="pb-6 mb-8 border-b border-[#2d2f3c]">
-        <span className="badge badge-emerald mb-2">Preparation Analytics</span>
-        <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-          Syllabus Mastery & Progress Dashboard
+      <div className="pb-5 mb-7 border-b border-[#303036]">
+        <h1 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">
+          Syllabus Progress & Overview
         </h1>
-        <p className="text-xs sm:text-sm text-slate-400 mt-1">
-          Track syllabus coverage across all 7 subject domains for APPSC Group-1 Services 2026–2027.
+        <p className="text-xs sm:text-sm text-zinc-400 mt-1">
+          Coverage tracking across all {manifest?.subjects?.length || 8} subjects and {totalTopics} topics.
         </p>
       </div>
 
-      {/* Top Stat Cards Grid */}
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
-        <div className="bg-[#1b1c24] border border-[#2d2f3c] p-5 rounded-2xl shadow-md">
-          <div className="flex items-center justify-between text-slate-400 text-xs mb-2">
-            <span>Syllabus Coverage</span>
-            <CheckCircle2 size={16} className="text-emerald-400" />
+      {/* Top Stat Cards Grid - Clean Monochrome */}
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-3.5 mb-7">
+        <div className="bg-[#222226] border border-[#303036] p-4 rounded-lg">
+          <div className="flex items-center justify-between text-zinc-400 text-xs mb-1.5">
+            <span>Syllabus Covered</span>
+            <CheckCircle2 size={14} className="text-zinc-400" />
           </div>
-          <div className="text-3xl font-extrabold text-white font-mono">{completionPercent}%</div>
-          <div className="text-[11px] text-slate-400 mt-1">
-            {completedCount} of {totalTopics} topics marked complete
+          <div className="text-2xl font-bold text-white font-mono">{completionPercent}%</div>
+          <div className="text-[11px] text-zinc-500 mt-1">
+            {completedCount} of {totalTopics} completed
           </div>
-          <div className="w-full bg-[#252733] h-1.5 rounded-full mt-3 overflow-hidden">
+          <div className="w-full bg-[#18181b] h-1.5 rounded-full mt-2.5 overflow-hidden">
             <div 
-              className="bg-emerald-400 h-full rounded-full transition-all duration-500" 
+              className="bg-zinc-300 h-full rounded-full transition-all duration-300" 
               style={{ width: `${completionPercent}%` }}
             />
           </div>
         </div>
 
-        <div className="bg-[#1b1c24] border border-[#2d2f3c] p-5 rounded-2xl shadow-md">
-          <div className="flex items-center justify-between text-slate-400 text-xs mb-2">
-            <span>MCQ Practice Bank</span>
-            <HelpCircle size={16} className="text-amber-400" />
+        <div className="bg-[#222226] border border-[#303036] p-4 rounded-lg">
+          <div className="flex items-center justify-between text-zinc-400 text-xs mb-1.5">
+            <span>MCQ Practice</span>
+            <HelpCircle size={14} className="text-zinc-400" />
           </div>
-          <div className="text-3xl font-extrabold text-amber-400 font-mono">200</div>
-          <div className="text-[11px] text-slate-400 mt-1">
-            Prelims screening questions & keys
+          <div className="text-2xl font-bold text-white font-mono">545</div>
+          <div className="text-[11px] text-zinc-500 mt-1">
+            Preliminary MCQs
           </div>
           <button
             onClick={() => onSwitchMode('mcqs')}
-            className="text-[11px] text-sky-400 hover:text-sky-300 font-medium flex items-center gap-1 mt-3"
+            className="text-[11px] text-zinc-300 hover:text-white font-medium flex items-center gap-1 mt-2.5"
           >
-            Start Practice Quiz <ArrowRight size={12} />
+            Practice Questions <ArrowRight size={11} />
           </button>
         </div>
 
-        <div className="bg-[#1b1c24] border border-[#2d2f3c] p-5 rounded-2xl shadow-md">
-          <div className="flex items-center justify-between text-slate-400 text-xs mb-2">
-            <span>Mains Question Bank</span>
-            <FileText size={16} className="text-sky-400" />
+        <div className="bg-[#222226] border border-[#303036] p-4 rounded-lg">
+          <div className="flex items-center justify-between text-zinc-400 text-xs mb-1.5">
+            <span>Mains Repository</span>
+            <FileText size={14} className="text-zinc-400" />
           </div>
-          <div className="text-3xl font-extrabold text-sky-400 font-mono">121</div>
-          <div className="text-[11px] text-slate-400 mt-1">
-            Analytical questions with models
+          <div className="text-2xl font-bold text-white font-mono">134</div>
+          <div className="text-[11px] text-zinc-500 mt-1">
+            Analytical questions
           </div>
           <button
             onClick={() => onSwitchMode('mains')}
-            className="text-[11px] text-sky-400 hover:text-sky-300 font-medium flex items-center gap-1 mt-3"
+            className="text-[11px] text-zinc-300 hover:text-white font-medium flex items-center gap-1 mt-2.5"
           >
-            Explore Mains Bank <ArrowRight size={12} />
+            Explore Questions <ArrowRight size={11} />
           </button>
         </div>
 
-        <div className="bg-[#1b1c24] border border-[#2d2f3c] p-5 rounded-2xl shadow-md">
-          <div className="flex items-center justify-between text-slate-400 text-xs mb-2">
-            <span>Bookmarked Topics</span>
-            <Star size={16} className="text-amber-400" />
+        <div className="bg-[#222226] border border-[#303036] p-4 rounded-lg">
+          <div className="flex items-center justify-between text-zinc-400 text-xs mb-1.5">
+            <span>Saved Topics</span>
+            <Star size={14} className="text-zinc-400" />
           </div>
-          <div className="text-3xl font-extrabold text-white font-mono">{bookmarkCount}</div>
-          <div className="text-[11px] text-slate-400 mt-1">
-            Topics saved for quick revision
+          <div className="text-2xl font-bold text-white font-mono">{bookmarkCount}</div>
+          <div className="text-[11px] text-zinc-500 mt-1">
+            Marked for quick review
           </div>
-          <div className="text-[11px] text-slate-500 mt-3 font-mono">
-            ~{totalWords.toLocaleString()} curated words
+          <div className="text-[11px] text-zinc-500 mt-2.5 font-mono">
+            ~{totalWords.toLocaleString()} words
           </div>
         </div>
       </div>
 
       {/* Subject-Wise Progress Breakdown */}
-      <div className="bg-[#181921] border border-[#2b2d39] rounded-2xl p-6 mb-8 shadow-lg">
-        <h2 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
-          <TrendingUp size={18} className="text-sky-400" />
-          Subject-Wise Completion Breakdown
+      <div className="bg-[#222226] border border-[#303036] rounded-lg p-5 mb-7">
+        <h2 className="text-base font-semibold text-white mb-4">
+          Subject Completion Breakdown
         </h2>
 
-        <div className="space-y-4">
+        <div className="space-y-3">
           {manifest?.subjects?.map(subject => {
             const subjectNotes = allNotes.filter(n => n.folder === subject.folder);
             const total = subjectNotes.length;
@@ -128,17 +119,17 @@ export default function DashboardView({
             const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
 
             return (
-              <div key={subject.folder} className="bg-[#1f2029] border border-[#2d2f3d] p-4 rounded-xl">
-                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-2">
+              <div key={subject.folder} className="bg-[#1c1c1f] border border-[#2e2e34] p-3.5 rounded-md">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-1.5 mb-2">
                   <div>
-                    <h3 className="text-sm font-semibold text-white">
+                    <h3 className="text-xs sm:text-sm font-medium text-white">
                       {subject.folder.replace(/^\d+_/, '').replace(/_/g, ' ')}
                     </h3>
-                    <div className="text-xs text-slate-400">{subject.paper}</div>
+                    <div className="text-[11px] text-zinc-400">{subject.paper}</div>
                   </div>
                   <div className="flex items-center gap-3 shrink-0">
-                    <span className="text-xs font-mono font-bold text-slate-300">
-                      {completed} / {total} Topics ({pct}%)
+                    <span className="text-xs font-mono text-zinc-400">
+                      {completed}/{total} ({pct}%)
                     </span>
                     {subjectNotes.length > 0 && (
                       <button
@@ -146,7 +137,7 @@ export default function DashboardView({
                           onSelectTopic(subjectNotes[0].topic_id);
                           onSwitchMode('notes');
                         }}
-                        className="px-2.5 py-1 text-xs bg-[#292c3a] hover:bg-[#34384a] text-sky-400 hover:text-white rounded-lg transition-colors"
+                        className="px-2 py-0.5 text-xs bg-[#28282d] hover:bg-[#323238] text-zinc-300 hover:text-white rounded transition-colors"
                       >
                         Read
                       </button>
@@ -154,9 +145,9 @@ export default function DashboardView({
                   </div>
                 </div>
 
-                <div className="w-full bg-[#13141a] h-2 rounded-full overflow-hidden">
+                <div className="w-full bg-[#141416] h-1.5 rounded-full overflow-hidden">
                   <div 
-                    className="bg-gradient-to-r from-sky-500 to-emerald-400 h-full rounded-full transition-all duration-500"
+                    className="bg-zinc-400 h-full rounded-full transition-all duration-300"
                     style={{ width: `${pct}%` }}
                   />
                 </div>
@@ -168,13 +159,12 @@ export default function DashboardView({
 
       {/* Bookmarked Topics Section */}
       {bookmarkedNotes.length > 0 && (
-        <div className="bg-[#181921] border border-[#2b2d39] rounded-2xl p-6 shadow-lg">
-          <h2 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
-            <Star size={18} className="text-amber-400" />
-            Your Saved Bookmarks ({bookmarkedNotes.length})
+        <div className="bg-[#222226] border border-[#303036] rounded-lg p-5">
+          <h2 className="text-base font-semibold text-white mb-3">
+            Bookmarked Topics ({bookmarkedNotes.length})
           </h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5">
             {bookmarkedNotes.map(note => (
               <div
                 key={note.topic_id}
@@ -182,16 +172,16 @@ export default function DashboardView({
                   onSelectTopic(note.topic_id);
                   onSwitchMode('notes');
                 }}
-                className="p-3.5 bg-[#1f2029] border border-[#2d2f3d] hover:border-amber-400/40 rounded-xl cursor-pointer transition-all hover:bg-[#252733] flex items-start justify-between gap-3 group"
+                className="p-3 bg-[#1c1c1f] border border-[#2e2e34] hover:border-zinc-500 rounded-md cursor-pointer transition-colors flex items-start justify-between gap-3 group"
               >
                 <div className="min-w-0">
-                  <div className="text-[10px] font-mono text-amber-400 font-semibold uppercase">{note.topic_id}</div>
-                  <div className="text-xs font-semibold text-white truncate group-hover:text-amber-300 transition-colors">
+                  <div className="text-[10px] font-mono text-zinc-500 uppercase">{note.topic_id}</div>
+                  <div className="text-xs font-medium text-white truncate group-hover:text-zinc-200">
                     {note.topic_title}
                   </div>
-                  <div className="text-[11px] text-slate-400 truncate mt-0.5">{note.subject_title}</div>
+                  <div className="text-[11px] text-zinc-400 truncate mt-0.5">{note.subject_title}</div>
                 </div>
-                <ArrowRight size={15} className="text-slate-500 group-hover:text-amber-400 shrink-0 mt-1 transition-colors" />
+                <ArrowRight size={13} className="text-zinc-500 group-hover:text-white shrink-0 mt-1 transition-colors" />
               </div>
             ))}
           </div>

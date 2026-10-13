@@ -6,15 +6,11 @@ import {
   Circle, 
   Star, 
   Clock, 
-  FileText, 
   Printer, 
   ArrowLeft, 
   ArrowRight, 
   ChevronDown, 
-  ChevronUp, 
-  BookMarked,
-  Share2,
-  Bookmark
+  ChevronUp
 } from 'lucide-react';
 
 export default function TopicView({
@@ -32,7 +28,7 @@ export default function TopicView({
 
   if (!note) {
     return (
-      <div className="flex-1 flex items-center justify-center p-12 text-slate-500">
+      <div className="flex-1 flex items-center justify-center p-12 text-zinc-500">
         <p>Select a topic from the syllabus index to begin reading.</p>
       </div>
     );
@@ -57,103 +53,101 @@ export default function TopicView({
   };
 
   return (
-    <article className="flex-1 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 animate-fade-in">
-      {/* Top Meta Bar */}
-      <div className="flex flex-wrap items-center justify-between gap-3 pb-4 mb-6 border-b border-[#2d2f3c] text-xs">
-        <div className="flex flex-wrap items-center gap-2">
-          <span className="badge badge-indigo">
-            {note.subject_title}
+    <article className="flex-1 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      {/* Top Meta Bar - Clean Monochrome */}
+      <div className="flex flex-wrap items-center justify-between gap-3 pb-3 mb-6 border-b border-[#303036] text-xs">
+        <div className="flex flex-wrap items-center gap-2 text-zinc-400">
+          <span className="font-medium text-zinc-300">{note.subject_title}</span>
+          <span className="text-zinc-600">•</span>
+          <span>{note.paper}</span>
+          <span className="text-zinc-600">•</span>
+          <span className="flex items-center gap-1">
+            <Clock size={12} className="text-zinc-400" /> {note.estimated_read_time_mins} min read
           </span>
-          <span className="badge badge-cyan">
-            {note.paper}
-          </span>
-          <span className="text-slate-400 flex items-center gap-1">
-            <Clock size={13} /> {note.estimated_read_time_mins} min read
-          </span>
-          <span className="text-slate-500 hidden sm:inline">
-            • {note.word_count?.toLocaleString()} words
+          <span className="text-zinc-600 hidden sm:inline">•</span>
+          <span className="hidden sm:inline">
+            {note.word_count?.toLocaleString()} words
           </span>
         </div>
 
-        {/* Action Controls */}
+        {/* Minimal Action Controls */}
         <div className="flex items-center gap-2">
           <button
             onClick={() => onToggleBookmark(note.topic_id)}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-medium transition-colors ${
+            className={`flex items-center gap-1.5 px-2.5 py-1 rounded border text-xs font-medium transition-colors ${
               isBookmarked 
-                ? 'bg-amber-500/15 border-amber-500/40 text-amber-300' 
-                : 'bg-[#1e202a] border-[#313342] text-slate-300 hover:text-white hover:bg-[#262835]'
+                ? 'bg-[#2a2a30] border-zinc-500 text-white' 
+                : 'bg-[#222226] border-[#333338] text-zinc-400 hover:text-white hover:bg-[#28282e]'
             }`}
           >
-            <Star size={13} fill={isBookmarked ? 'currentColor' : 'none'} />
-            <span className="hidden sm:inline">{isBookmarked ? 'Bookmarked' : 'Bookmark'}</span>
+            <Star size={12} fill={isBookmarked ? 'currentColor' : 'none'} />
+            <span className="hidden sm:inline">{isBookmarked ? 'Saved' : 'Bookmark'}</span>
           </button>
 
           <button
             onClick={() => onToggleComplete(note.topic_id)}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-medium transition-colors ${
+            className={`flex items-center gap-1.5 px-2.5 py-1 rounded border text-xs font-medium transition-colors ${
               isCompleted 
-                ? 'bg-emerald-500/15 border-emerald-500/40 text-emerald-300' 
-                : 'bg-[#1e202a] border-[#313342] text-slate-300 hover:text-white hover:bg-[#262835]'
+                ? 'bg-[#2a2a30] border-zinc-500 text-white' 
+                : 'bg-[#222226] border-[#333338] text-zinc-400 hover:text-white hover:bg-[#28282e]'
             }`}
           >
-            {isCompleted ? <CheckCircle size={13} /> : <Circle size={13} />}
+            {isCompleted ? <CheckCircle size={12} /> : <Circle size={12} />}
             <span className="hidden sm:inline">{isCompleted ? 'Completed' : 'Mark Done'}</span>
           </button>
 
           <button
             onClick={handlePrint}
-            className="p-1.5 text-slate-400 hover:text-white rounded-lg bg-[#1e202a] border border-[#313342] hover:bg-[#262835] transition-colors"
+            className="p-1 text-zinc-400 hover:text-white rounded bg-[#222226] border border-[#333338] hover:bg-[#28282e] transition-colors"
             title="Print or Save PDF"
           >
-            <Printer size={15} />
+            <Printer size={13} />
           </button>
         </div>
       </div>
 
       {/* Main Title */}
       <header className="mb-6">
-        <div className="text-xs font-mono font-semibold text-sky-400 tracking-wider uppercase mb-1">
+        <div className="text-[11px] font-mono text-zinc-500 uppercase tracking-wider mb-1.5">
           {note.topic_id}
         </div>
-        <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight leading-tight">
+        <h1 className="text-2xl sm:text-3xl font-bold text-white tracking-tight leading-snug">
           <MathText text={note.topic_title} />
         </h1>
       </header>
 
-      {/* Syllabus Mapping Card */}
+      {/* Syllabus Mapping - Clean Understated Dropdown */}
       {note.syllabus_mapping && (
-        <div className="mb-8 bg-[#181a22] border border-[#2b2d39] rounded-xl overflow-hidden shadow-sm">
+        <div className="mb-7 bg-[#212125] border border-[#303036] rounded-md overflow-hidden">
           <button
             onClick={() => setSyllabusExpanded(!syllabusExpanded)}
-            className="w-full px-4 py-3 bg-[#20222d] flex items-center justify-between text-left text-xs font-semibold text-slate-200 hover:text-white transition-colors"
+            className="w-full px-3.5 py-2 flex items-center justify-between text-left text-xs font-medium text-zinc-300 hover:text-white transition-colors"
           >
-            <span className="flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-sky-400"></span>
-              Official APPSC Syllabus Mapping
+            <span>Syllabus Mapping: {note.syllabus_mapping.slice(0, 80)}...</span>
+            <span className="text-zinc-400 shrink-0 ml-2">
+              {syllabusExpanded ? <ChevronUp size={14} /> : <ChevronDown size={14} />}
             </span>
-            {syllabusExpanded ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
           {syllabusExpanded && (
-            <div className="p-4 text-xs sm:text-sm text-slate-300 leading-relaxed border-t border-[#2b2d39] bg-[#16171f]">
+            <div className="px-3.5 py-2.5 text-xs text-zinc-300 leading-relaxed border-t border-[#2d2d33] bg-[#1a1a1d]">
               <MathText text={note.syllabus_mapping} />
             </div>
           )}
         </div>
       )}
 
-      {/* Quick Jump Anchors (Table of Contents) */}
+      {/* Quick Navigation Anchors - Minimal Horizontal Bar */}
       {headings.length > 2 && (
-        <div className="mb-8 p-4 bg-[#1a1b23] border border-[#2a2c38] rounded-xl">
-          <div className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2.5">
-            Quick Navigation:
+        <div className="mb-8 p-3 bg-[#202024] border border-[#2e2e34] rounded-md">
+          <div className="text-[11px] font-medium text-zinc-400 uppercase tracking-wide mb-2">
+            Contents:
           </div>
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap gap-1.5">
             {headings.filter(h => h.level <= 2).map((h, i) => (
               <a
                 key={i}
                 href={`#${h.id}`}
-                className="text-xs px-2.5 py-1 rounded-md bg-[#242633] text-slate-300 hover:text-white hover:bg-sky-500/20 hover:border-sky-500/40 border border-transparent transition-all truncate max-w-xs"
+                className="text-xs px-2 py-0.5 rounded bg-[#27272c] text-zinc-300 hover:text-white hover:bg-[#323238] border border-[#333338] transition-colors truncate max-w-xs"
               >
                 <MathText text={h.text} />
               </a>
@@ -171,17 +165,17 @@ export default function TopicView({
         />
       </main>
 
-      {/* Bottom Prev / Next Nav */}
-      <footer className="mt-16 pt-6 border-t border-[#2d2f3c] flex flex-col sm:flex-row items-center justify-between gap-4">
+      {/* Bottom Prev / Next Nav - Minimal Monochrome */}
+      <footer className="mt-14 pt-6 border-t border-[#303036] flex flex-col sm:flex-row items-center justify-between gap-4">
         {prevTopic ? (
           <button
             onClick={() => onSelectTopic(prevTopic.topic_id)}
-            className="w-full sm:w-auto text-left p-3.5 rounded-xl bg-[#1a1b23] border border-[#2b2d39] hover:border-sky-500/40 hover:bg-[#222430] transition-all group flex items-center gap-3"
+            className="w-full sm:w-auto text-left p-3 rounded-lg bg-[#222226] border border-[#303036] hover:border-zinc-500 hover:bg-[#28282e] transition-colors group flex items-center gap-2.5"
           >
-            <ArrowLeft size={16} className="text-slate-400 group-hover:text-sky-400 transition-colors shrink-0" />
+            <ArrowLeft size={14} className="text-zinc-400 group-hover:text-white transition-colors shrink-0" />
             <div className="min-w-0">
-              <div className="text-[10px] uppercase font-bold text-slate-500 tracking-wider">Previous Topic</div>
-              <div className="text-xs font-semibold text-white truncate max-w-xs">{prevTopic.topic_title}</div>
+              <div className="text-[10px] uppercase text-zinc-500">Previous</div>
+              <div className="text-xs font-medium text-zinc-200 group-hover:text-white truncate max-w-xs">{prevTopic.topic_title}</div>
             </div>
           </button>
         ) : <div />}
@@ -189,13 +183,13 @@ export default function TopicView({
         {nextTopic && (
           <button
             onClick={() => onSelectTopic(nextTopic.topic_id)}
-            className="w-full sm:w-auto text-right p-3.5 rounded-xl bg-[#1a1b23] border border-[#2b2d39] hover:border-sky-500/40 hover:bg-[#222430] transition-all group flex items-center justify-end gap-3"
+            className="w-full sm:w-auto text-right p-3 rounded-lg bg-[#222226] border border-[#303036] hover:border-zinc-500 hover:bg-[#28282e] transition-colors group flex items-center justify-end gap-2.5"
           >
             <div className="min-w-0">
-              <div className="text-[10px] uppercase font-bold text-slate-500 tracking-wider">Next Topic</div>
-              <div className="text-xs font-semibold text-white truncate max-w-xs">{nextTopic.topic_title}</div>
+              <div className="text-[10px] uppercase text-zinc-500">Next</div>
+              <div className="text-xs font-medium text-zinc-200 group-hover:text-white truncate max-w-xs">{nextTopic.topic_title}</div>
             </div>
-            <ArrowRight size={16} className="text-slate-400 group-hover:text-sky-400 transition-colors shrink-0" />
+            <ArrowRight size={14} className="text-zinc-400 group-hover:text-white transition-colors shrink-0" />
           </button>
         )}
       </footer>

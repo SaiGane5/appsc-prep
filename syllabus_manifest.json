@@ -4,403 +4,946 @@
   "screening_date": "24/01/2027",
   "structure": {
     "total_subjects": 8,
-    "total_topics": 58,
-    "completed_topics": 58,
-    "progress_percentage": "100.0%"
+    "total_topics": 109,
+    "completed_topics": 109,
+    "progress_percentage": "100.0%",
+    "total_word_count": 71002,
+    "total_mcqs": 545,
+    "total_mains_questions": 134
   },
   "subjects": [
     {
       "folder": "01_History_and_Culture_India",
+      "title": "History and Culture of India",
       "paper": "Mains Paper-II (Section A) & Screening Paper-I (Section A)",
+      "topics_count": 30,
       "topics": [
         {
           "order": 1,
-          "file": "01_ancient_india_ivc_vedic_mauryas_guptas.json",
-          "title": "Indus Valley, Vedic Age, Mahajanapadas, Magadha, Mauryas, Foreign Invasions, Kushans, Satavahanas, Sangam Age, Sungas & Guptas",
+          "topic_id": "APPSC-G1-HIST-01",
+          "file": "01_indus_valley_civilization.json",
+          "title": "Indus Valley Civilization: Urban Planning, Society, Trade & Religion",
+          "word_count": 759,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_kanauj_and_south_indian_dynasties.json",
-          "title": "Kanauj & Post-Gupta Era, South Indian Dynasties: Badami & Eastern Chalukyas, Rashtrakutas, Kalyani Chalukyas, Cholas, Hoysalas, Yadavas, Kakatiyas & Reddis",
+          "topic_id": "APPSC-G1-HIST-02",
+          "file": "02_vedic_age_and_culture.json",
+          "title": "Vedic Age: Early & Later Vedic Polity, Economy, Society & Literature",
+          "word_count": 732,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_delhi_sultanate_vijaynagar_mughals_bhakti_sufi.json",
-          "title": "Delhi Sultanate, Vijayanagar Empire, Mughal Empire, Bhakti Movement & Sufism",
+          "topic_id": "APPSC-G1-HIST-03",
+          "file": "03_mahajanapadas_and_heterodox_religions.json",
+          "title": "Second Urbanization, 16 Mahajanapadas, Jainism & Buddhism",
+          "word_count": 745,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_european_trading_companies_supremacy_viceroys.json",
-          "title": "European Trading Companies, Struggle for Colonial Supremacy & Governor-Generals and Viceroys",
+          "topic_id": "APPSC-G1-HIST-04",
+          "file": "04_rise_of_magadha_and_pre_mauryan_dynasties.json",
+          "title": "Imperial Ascendancy of Magadha: Haryankas, Shishunagas & Nandas",
+          "word_count": 764,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_1857_revolt_social_reforms_freedom_movement_revolutionaries.json",
-          "title": "1857 Revolt, 19th Century Socio-Religious Reforms, Freedom Movement & Revolutionaries in India and Abroad",
+          "topic_id": "APPSC-G1-HIST-05",
+          "file": "05_mauryan_empire_administration_and_ashoka.json",
+          "title": "Mauryan Empire: Centralized Administration, Arthashastra & Ashoka's Dhamma",
+          "word_count": 764,
           "status": "completed"
         },
         {
           "order": 6,
-          "file": "06_gandhi_patel_bose_ambedkar_constitution_reorganization.json",
-          "title": "Mahatma Gandhi, Sardar Patel, Subash Chandra Bose, Dr. B.R. Ambedkar, Constitution Making & States Reorganization",
+          "topic_id": "APPSC-G1-HIST-06",
+          "file": "06_post_mauryan_foreign_invasions.json",
+          "title": "Post-Mauryan Invasions: Indo-Greeks, Sakas & Parthians",
+          "word_count": 663,
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "topic_id": "APPSC-G1-HIST-07",
+          "file": "07_kushan_empire_and_kanishka.json",
+          "title": "The Kushan Empire: Kanishka, Silk Route, Gandhara & Mathura Art",
+          "word_count": 702,
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "topic_id": "APPSC-G1-HIST-08",
+          "file": "08_sungas_kanvas_and_chedis.json",
+          "title": "Post-Mauryan Indigenous Dynasties: Sungas, Kanvas & Chedis",
+          "word_count": 686,
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "topic_id": "APPSC-G1-HIST-09",
+          "file": "09_satavahana_empire.json",
+          "title": "The Satavahana Empire: Polity, Society, Trade & Amaravati Art",
+          "word_count": 753,
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "topic_id": "APPSC-G1-HIST-10",
+          "file": "10_sangam_age_in_south_india.json",
+          "title": "The Sangam Age: Polity, Society, Trade & Classical Tamil Literature",
+          "word_count": 712,
+          "status": "completed"
+        },
+        {
+          "order": 11,
+          "topic_id": "APPSC-G1-HIST-11",
+          "file": "11_gupta_empire_golden_age_and_culture.json",
+          "title": "The Gupta Empire: Classical Age, Administration, Art & Science",
+          "word_count": 784,
+          "status": "completed"
+        },
+        {
+          "order": 12,
+          "topic_id": "APPSC-G1-HIST-12",
+          "file": "12_harsha_vardhana_and_post_gupta_dynasties.json",
+          "title": "Harsha Vardhana, Kanauj Assembly & Post-Gupta Formations",
+          "word_count": 763,
+          "status": "completed"
+        },
+        {
+          "order": 13,
+          "topic_id": "APPSC-G1-HIST-13",
+          "file": "13_early_medieval_south_india_chalukyas_and_rashtrakutas.json",
+          "title": "Early Medieval South India: Badami Chalukyas, Eastern Chalukyas & Rashtrakutas",
+          "word_count": 773,
+          "status": "completed"
+        },
+        {
+          "order": 14,
+          "topic_id": "APPSC-G1-HIST-14",
+          "file": "14_imperial_cholas_administration_and_navy.json",
+          "title": "Imperial Cholas: Administration, Uttaramerur Inscription & Maritime Navy",
+          "word_count": 837,
+          "status": "completed"
+        },
+        {
+          "order": 15,
+          "topic_id": "APPSC-G1-HIST-15",
+          "file": "15_delhi_sultanate_administration_and_reforms.json",
+          "title": "Delhi Sultanate: Administration, Agrarian & Market Reforms",
+          "word_count": 850,
+          "status": "completed"
+        },
+        {
+          "order": 16,
+          "topic_id": "APPSC-G1-HIST-16",
+          "file": "16_vijayanagar_and_bahmani_kingdoms.json",
+          "title": "Vijayanagar Empire: Administration, Nayankara System & Architecture",
+          "word_count": 843,
+          "status": "completed"
+        },
+        {
+          "order": 17,
+          "topic_id": "APPSC-G1-HIST-17",
+          "file": "17_mughal_empire_administration_and_art.json",
+          "title": "Mughal Empire: Administration, Mansabdari System, Art & Architecture",
+          "word_count": 816,
+          "status": "completed"
+        },
+        {
+          "order": 18,
+          "topic_id": "APPSC-G1-HIST-18",
+          "file": "18_bhakti_and_sufi_movements.json",
+          "title": "Bhakti & Sufi Movements: Philosophies, Saints & Cultural Synthesis",
+          "word_count": 823,
+          "status": "completed"
+        },
+        {
+          "order": 19,
+          "topic_id": "APPSC-G1-HIST-19",
+          "file": "19_european_trading_companies_and_rivalries.json",
+          "title": "European Advent: Commercial Rivalries, Carnatic Wars & Plassey",
+          "word_count": 1040,
+          "status": "completed"
+        },
+        {
+          "order": 20,
+          "topic_id": "APPSC-G1-HIST-20",
+          "file": "20_british_expansion_and_paramountcy_policies.json",
+          "title": "British Imperial Expansion: Marathas, Mysore, Sikhs & Paramountcy Policies",
+          "word_count": 862,
+          "status": "completed"
+        },
+        {
+          "order": 21,
+          "topic_id": "APPSC-G1-HIST-21",
+          "file": "21_colonial_land_revenue_systems_and_economic_drain.json",
+          "title": "Colonial Economy: Land Revenue Systems & Drain of Wealth",
+          "word_count": 898,
+          "status": "completed"
+        },
+        {
+          "order": 22,
+          "topic_id": "APPSC-G1-HIST-22",
+          "file": "22_1857_revolt_causes_leaders_and_consequences.json",
+          "title": "The Revolt of 1857: Causes, Key Leaders, Suppression & Aftermath",
+          "word_count": 933,
+          "status": "completed"
+        },
+        {
+          "order": 23,
+          "topic_id": "APPSC-G1-HIST-23",
+          "file": "23_socio_religious_reform_movements.json",
+          "title": "19th Century Socio-Religious Reform Movements: Bengal, West & South India",
+          "word_count": 909,
+          "status": "completed"
+        },
+        {
+          "order": 24,
+          "topic_id": "APPSC-G1-HIST-24",
+          "file": "24_early_nationalism_inc_and_swadeshi_movement.json",
+          "title": "Early Nationalism: Foundation of INC, Moderates, Extremists & Swadeshi",
+          "word_count": 890,
+          "status": "completed"
+        },
+        {
+          "order": 25,
+          "topic_id": "APPSC-G1-HIST-25",
+          "file": "25_revolutionary_movement_for_freedom.json",
+          "title": "Revolutionary Movement for Freedom: Ghadar, HSRA, Bhagat Singh & Surya Sen",
+          "word_count": 1007,
+          "status": "completed"
+        },
+        {
+          "order": 26,
+          "topic_id": "APPSC-G1-HIST-26",
+          "file": "26_gandhian_era_early_experiments_and_non_cooperation.json",
+          "title": "Gandhian Era: Early Satyagrahas, Khilafat & Non-Cooperation Movement",
+          "word_count": 1019,
+          "status": "completed"
+        },
+        {
+          "order": 27,
+          "topic_id": "APPSC-G1-HIST-27",
+          "file": "27_civil_disobedience_movement_and_round_table_conferences.json",
+          "title": "Civil Disobedience: Dandi March, Round Table Conferences & Poona Pact",
+          "word_count": 1092,
+          "status": "completed"
+        },
+        {
+          "order": 28,
+          "topic_id": "APPSC-G1-HIST-28",
+          "file": "28_quit_india_ina_and_transfer_of_power.json",
+          "title": "Quit India Movement, Subhas Chandra Bose & Transfer of Power",
+          "word_count": 1020,
+          "status": "completed"
+        },
+        {
+          "order": 29,
+          "topic_id": "APPSC-G1-HIST-29",
+          "file": "29_integration_of_princely_states_and_constitution.json",
+          "title": "Integration of Princely States & The Making of the Indian Constitution",
+          "word_count": 967,
+          "status": "completed"
+        },
+        {
+          "order": 30,
+          "topic_id": "APPSC-G1-HIST-30",
+          "file": "30_post_independence_consolidation_and_states_reorganisation.json",
+          "title": "Post-Independence Consolidation: Linguistic Reorganisation & Foreign Enclaves",
+          "word_count": 1024,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "02_History_and_Culture_AP",
-      "paper": "Mains Paper-II (Section B)",
+      "title": "History and Culture of Andhra Pradesh",
+      "paper": "Mains Paper-II (Section B) & Screening Paper-I (Section B)",
+      "topics_count": 12,
       "topics": [
         {
           "order": 1,
-          "file": "01_ancient_andhra_dynasties.json",
-          "title": "Satavahanas, Ikshvakus, Salankayanas, Vishnukundins, Pallavas, Buddhism & Jainism in Andhra",
+          "topic_id": "APPSC-G1-APHC-01",
+          "file": "01_satavahanas_in_andhra_and_amaravati_art.json",
+          "title": "Satavahanas in Andhra: Administration, Society, Economy & Amaravati Stupa",
+          "word_count": 718,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_medieval_andhra_kakatiyas_vijayanagara_qutubshahis.json",
-          "title": "Eastern Chalukyas, Kakatiyas, Reddis, Vijayanagara Empire & Qutub Shahis; Telugu Language & Literature",
+          "topic_id": "APPSC-G1-APHC-02",
+          "file": "02_ikshvakus_vishnukundins_and_salankayanas.json",
+          "title": "Post-Satavahana Andhra: Ikshvakus of Vijayapuri & Vishnukundins",
+          "word_count": 770,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_modern_andhra_company_rule_reformers.json",
-          "title": "European Settlements, Company Rule, Zamindari/Poligar System, Social Reformers (Veeresalingam, Gurajada, Raghupati)",
+          "topic_id": "APPSC-G1-APHC-03",
+          "file": "03_eastern_chalukyas_of_vengi_and_telugu_language_evolution.json",
+          "title": "Eastern Chalukyas of Vengi: Telugu Language Evolution & Temple Architecture",
+          "word_count": 844,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_nationalist_movement_in_andhra.json",
-          "title": "Freedom Movement in AP, Alluri Sitarama Raju, Andhra Mahasabha, Formation of Andhra State (1953) & AP (1956)",
+          "topic_id": "APPSC-G1-APHC-04",
+          "file": "04_kakatiyas_of_warangal_administration_tanks_and_temples.json",
+          "title": "Kakatiyas of Warangal: Administration, Tank Irrigation & Temple Architecture",
+          "word_count": 825,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_andhra_pradesh_bifurcation_2014.json",
-          "title": "Bifurcation of AP 2014: Administrative, Economic, Capital Building, Resource Loss, and AP Reorganisation Act Provisions",
+          "topic_id": "APPSC-G1-APHC-05",
+          "file": "05_musunuri_nayakas_and_reddis_of_kondavidu.json",
+          "title": "Musunuri Nayakas & Reddis of Kondavidu: Telugu Liberation & Golden Age of Poetry",
+          "word_count": 827,
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "topic_id": "APPSC-G1-APHC-06",
+          "file": "06_vijayanagara_empire_in_andhra_and_lepakshi_art.json",
+          "title": "Vijayanagara in Andhra: Rayalaseema Zenith, Lepakshi Art & Telugu Literature",
+          "word_count": 865,
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "topic_id": "APPSC-G1-APHC-07",
+          "file": "07_qutub_shahis_of_golconda_and_composite_culture.json",
+          "title": "Qutub Shahis of Golconda: Administration, Telugu Literature & Kuchipudi",
+          "word_count": 898,
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "topic_id": "APPSC-G1-APHC-08",
+          "file": "08_modern_andhra_under_company_rule_and_sir_arthur_cotton.json",
+          "title": "Modern Andhra under Company Rule: Northern Circars & Sir Arthur Cotton",
+          "word_count": 954,
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "topic_id": "APPSC-G1-APHC-09",
+          "file": "09_social_reform_movement_veeresalingam_and_gurazada.json",
+          "title": "Social Reform Movement in Andhra: Veeresalingam, Gurazada & Gidugu",
+          "word_count": 852,
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "topic_id": "APPSC-G1-APHC-10",
+          "file": "10_freedom_struggle_in_andhra_vandemataram_to_salt_satyagraha.json",
+          "title": "Freedom Movement in Andhra: Vandemataram to Salt Satyagraha",
+          "word_count": 994,
+          "status": "completed"
+        },
+        {
+          "order": 11,
+          "topic_id": "APPSC-G1-APHC-11",
+          "file": "11_alluri_sitarama_raju_and_rampa_rebellion.json",
+          "title": "Alluri Sitarama Raju & The Rampa Tribal Rebellion (1922–1924)",
+          "word_count": 973,
+          "status": "completed"
+        },
+        {
+          "order": 12,
+          "topic_id": "APPSC-G1-APHC-12",
+          "file": "12_andhra_movement_formation_of_andhra_and_bifurcation_2014.json",
+          "title": "Andhra Movement, Linguistic Statehood (1953/1956) & Bifurcation 2014",
+          "word_count": 1041,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "03_Geography_India_and_AP",
-      "paper": "Mains Paper-II (Section C) & Screening Paper-I (Section D)",
+      "title": "Geography - India & Andhra Pradesh",
+      "paper": "Mains Paper-II (Section C) & Screening Paper-I (Section C)",
+      "topics_count": 10,
       "topics": [
         {
           "order": 1,
-          "file": "01_general_and_physical_geography.json",
-          "title": "General & Physical Geography: Earth, Climate, Oceans, Landforms, Rivers and Geology of India & AP",
+          "topic_id": "APPSC-G1-GEOG-01",
+          "file": "01_physiography_and_geomorphology_of_india.json",
+          "title": "Physiography of India & Andhra Pradesh: Structural Divisions & Geomorphology",
+          "word_count": 725,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_economic_geography.json",
-          "title": "Economic Geography: Agriculture, Livestock, Mining, Industries, Transport and Trade",
+          "topic_id": "APPSC-G1-GEOG-02",
+          "file": "02_river_systems_and_drainage_india_and_ap.json",
+          "title": "Drainage Systems of India & Andhra Pradesh: Rivers, Deltas & Interlinking",
+          "word_count": 797,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_social_geography_demographics.json",
-          "title": "Social Geography: Population Distribution, Density, Literacy, Urbanization, Tribes & Migration",
+          "topic_id": "APPSC-G1-GEOG-03",
+          "file": "03_climate_monsoons_and_el_nino_mechanics.json",
+          "title": "Climate of India & AP: Monsoon Mechanism, El Niño & Cyclones",
+          "word_count": 842,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_fauna_floral_geography.json",
-          "title": "Faunal and Floral Geography: Forest Types, Wildlife, Biodiversity Parks & Sanctuaries",
+          "topic_id": "APPSC-G1-GEOG-04",
+          "file": "04_soils_and_natural_vegetation_india_and_ap.json",
+          "title": "Soils & Natural Vegetation of India & AP: Forests & Red Sanders",
+          "word_count": 876,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_environmental_geography_disasters.json",
-          "title": "Environmental Geography: Natural Hazards, Cyclones, Floods, Disaster Management & Pollution",
+          "topic_id": "APPSC-G1-GEOG-05",
+          "file": "05_agriculture_cropping_patterns_and_irrigation_ap.json",
+          "title": "Agriculture & Irrigation in Andhra Pradesh: Cropping Systems & Agrarian Economy",
+          "word_count": 774,
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "topic_id": "APPSC-G1-GEOG-06",
+          "file": "06_mineral_and_energy_resources_india_and_ap.json",
+          "title": "Mineral & Energy Resources of India & AP: Barytes, Bauxite, Uranium & KG Basin",
+          "word_count": 798,
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "topic_id": "APPSC-G1-GEOG-07",
+          "file": "07_industrial_regions_and_infrastructure_corridors.json",
+          "title": "Industrial Regions & Corridors of AP: VCIC, CBIC & Major Ports",
+          "word_count": 745,
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "topic_id": "APPSC-G1-GEOG-08",
+          "file": "08_population_demographics_and_urbanization_ap.json",
+          "title": "Demographic Profile & Tribal Communities of Andhra Pradesh",
+          "word_count": 760,
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "topic_id": "APPSC-G1-GEOG-09",
+          "file": "09_biodiversity_forests_and_protected_areas_ap.json",
+          "title": "Biodiversity, Forests & Protected Areas of AP: Wetlands & Biosphere Reserves",
+          "word_count": 790,
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "topic_id": "APPSC-G1-GEOG-10",
+          "file": "10_natural_hazards_disaster_management_and_cyclones_ap.json",
+          "title": "Natural Hazards & Disaster Management in AP: Cyclones & Coastal Resilience",
+          "word_count": 829,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "04_Polity_Constitution_Governance",
-      "paper": "Mains Paper-III (Sections A & B) & Screening Paper-I (Section B)",
+      "title": "Polity, Constitution, Governance, Law & Ethics",
+      "paper": "Mains Paper-III (Section A) & Screening Paper-I (Section D)",
+      "topics_count": 12,
       "topics": [
         {
           "order": 1,
-          "file": "01_constitutional_framework_fundamental_rights.json",
-          "title": "Indian Constitution: Preamble, Fundamental Rights, Duties, DPSP, Basic Structure & Amendments",
+          "topic_id": "APPSC-G1-POL-01",
+          "file": "01_constitutional_evolution_preamble_and_basic_features.json",
+          "title": "Constitutional Evolution, Preamble & Basic Structure Doctrine",
+          "word_count": 877,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_federal_structure_union_state_relations.json",
-          "title": "Federalism: Union-State Relations, Governor's Role, Legislative Lists and Devolution Challenges",
+          "topic_id": "APPSC-G1-POL-02",
+          "file": "02_fundamental_rights_dpsp_and_fundamental_duties.json",
+          "title": "Fundamental Rights, Directive Principles (DPSP) & Fundamental Duties",
+          "word_count": 946,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_local_governance_73rd_74th_amendments.json",
-          "title": "Panchayati Raj & Urban Local Governance (73rd & 74th Amendments), Constitutional Authorities",
+          "topic_id": "APPSC-G1-POL-03",
+          "file": "03_union_executive_president_prime_minister_com.json",
+          "title": "Union Executive: President, Prime Minister & Council of Ministers",
+          "word_count": 1023,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_parliament_and_state_legislatures.json",
-          "title": "Union Parliament & State Legislatures: Structure, Powers, Procedures, and Privileges",
+          "topic_id": "APPSC-G1-POL-04",
+          "file": "04_parliament_of_india_structure_lawmaking_committees.json",
+          "title": "Parliament of India: Legislative Procedures, Privileges & Committees",
+          "word_count": 927,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_judiciary_and_constitutional_provisions.json",
-          "title": "Judicial System: Structure, Judicial Review, PIL, Emergency Provisions and Judicial Activism",
+          "topic_id": "APPSC-G1-POL-05",
+          "file": "05_state_executive_and_state_legislature.json",
+          "title": "State Executive & State Legislature: Governor, CM & Legislative Council",
+          "word_count": 960,
           "status": "completed"
         },
         {
           "order": 6,
-          "file": "06_public_administration_evolution.json",
-          "title": "Public Administration: Meaning, Kautilya's Arthashastra, Mughal Administration & British Legacy",
+          "topic_id": "APPSC-G1-POL-06",
+          "file": "06_indian_judiciary_supreme_court_high_courts_pil.json",
+          "title": "Indian Judiciary: Supreme Court, High Courts, Collegium & PIL",
+          "word_count": 1031,
           "status": "completed"
         },
         {
           "order": 7,
-          "file": "07_civil_society_and_statutory_bodies.json",
-          "title": "Civil Society, NGOs, Statutory, Regulatory & Quasi-Judicial Bodies, Role of Civil Services",
+          "topic_id": "APPSC-G1-POL-07",
+          "file": "07_federal_structure_and_centre_state_relations.json",
+          "title": "Federal Structure of India: Centre-State Relations & Emergency Provisions",
+          "word_count": 902,
           "status": "completed"
         },
         {
           "order": 8,
-          "file": "08_good_governance_and_egovernance.json",
-          "title": "Good Governance: E-Governance, Citizen's Charter, RTI Act, Public Service Act, Social Audit",
+          "topic_id": "APPSC-G1-POL-08",
+          "file": "08_local_governance_73rd_and_74th_amendments_pesa.json",
+          "title": "Local Self-Government: 73rd & 74th Amendments & PESA Act 1996",
+          "word_count": 875,
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "topic_id": "APPSC-G1-POL-09",
+          "file": "09_constitutional_bodies_ec_upsc_cag_finance_commission.json",
+          "title": "Constitutional Bodies: ECI, UPSC, CAG & Finance Commission",
+          "word_count": 940,
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "topic_id": "APPSC-G1-POL-10",
+          "file": "10_statutory_and_regulatory_bodies_niti_aayog_nhrc_lokpal.json",
+          "title": "Statutory & Regulatory Bodies: NITI Aayog, NHRC, Lokpal & CVC",
+          "word_count": 887,
+          "status": "completed"
+        },
+        {
+          "order": 11,
+          "topic_id": "APPSC-G1-POL-11",
+          "file": "11_good_governance_citizens_charter_and_rti_act.json",
+          "title": "Good Governance: Citizen's Charter, Sevottam Model & RTI Act 2005",
+          "word_count": 903,
+          "status": "completed"
+        },
+        {
+          "order": 12,
+          "topic_id": "APPSC-G1-POL-12",
+          "file": "12_e_governance_initiatives_and_administrative_reforms.json",
+          "title": "E-Governance Initiatives & Civil Service Reforms: 2nd ARC & Digital India",
+          "word_count": 838,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "05_Ethics_and_Law",
-      "paper": "Mains Paper-III (Section C)",
+      "title": "Ethics and Law",
+      "paper": "Mains Paper-III (Section B) & Screening Paper-I (Section D)",
+      "topics_count": 8,
       "topics": [
         {
           "order": 1,
-          "file": "01_ethics_human_interface_values.json",
-          "title": "Ethics & Human Interface: Essence, Determinants, Dimensions, Private vs Public Ethics",
+          "topic_id": "APPSC-G1-ETH-01",
+          "file": "01_ethics_and_human_interface_essence_and_consequences.json",
+          "title": "Ethics & Human Interface: Essence, Determinants & Ethical Dilemmas",
+          "word_count": 773,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_human_values_attitude_emotional_intelligence.json",
-          "title": "Human Values, Attitude, Social Persuasion, Emotional Intelligence in Administration",
+          "topic_id": "APPSC-G1-ETH-02",
+          "file": "02_human_values_attitude_and_moral_thinkers.json",
+          "title": "Attitude, Moral Thinkers & Philosophical Traditions: Indian & Western",
+          "word_count": 800,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_public_service_ethics_codes_conduct_anticorruption.json",
-          "title": "Codes of Conduct, Codes of Ethics, Work Culture, Lokpal, Lokayukta and Anti-Corruption",
+          "topic_id": "APPSC-G1-ETH-03",
+          "file": "03_emotional_intelligence_concepts_and_administrative_utility.json",
+          "title": "Emotional Intelligence: Dimensions, Utilities & Administrative Applications",
+          "word_count": 735,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_basic_knowledge_civil_criminal_labour_laws.json",
-          "title": "Civil & Criminal Laws, Substantive vs Procedural Laws, Court Hierarchy, Nirbhaya Act, Labour Laws",
+          "topic_id": "APPSC-G1-ETH-04",
+          "file": "04_public_service_values_and_ethics_in_administration.json",
+          "title": "Public Service Values & Ethics in Administration: Dilemmas & Codes",
+          "word_count": 989,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_cyber_and_tax_laws.json",
-          "title": "Cyber Laws (IT Act, Cyber Security), Tax Laws (Direct Taxes, Corporate Tax, GST Framework)",
+          "topic_id": "APPSC-G1-ETH-05",
+          "file": "05_probity_in_governance_anti_corruption_mechanisms.json",
+          "title": "Probity in Governance, Transparency & Anti-Corruption Framework",
+          "word_count": 578,
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "topic_id": "APPSC-G1-ETH-06",
+          "file": "06_basic_knowledge_of_criminal_laws_bns_bnss_bsa.json",
+          "title": "New Criminal Law Framework: BNS, BNSS & BSA 2023",
+          "word_count": 563,
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "topic_id": "APPSC-G1-ETH-07",
+          "file": "07_civil_and_labour_laws_wage_codes_and_social_security.json",
+          "title": "Civil & Labour Laws: CPC, 4 Labour Codes & Social Security",
+          "word_count": 582,
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "topic_id": "APPSC-G1-ETH-08",
+          "file": "08_cyber_laws_and_taxation_framework.json",
+          "title": "Cyber Laws, Data Privacy & Taxation Framework",
+          "word_count": 583,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "06_Economy_India_and_AP",
-      "paper": "Mains Paper-IV & Screening Paper-I (Section C)",
+      "title": "Economy - India & AP",
+      "paper": "Mains Paper-IV & Screening Paper-II",
+      "topics_count": 10,
       "topics": [
         {
           "order": 1,
-          "file": "01_challenges_of_indian_economy.json",
-          "title": "Major Challenges: Low Growth, Inflation, CAD, Rupee Depreciation, NPAs, Black Money & Inclusive Growth",
+          "topic_id": "APPSC-G1-ECO-01",
+          "file": "01_structure_and_growth_trends_of_indian_economy.json",
+          "title": "Structure & Growth Trends of the Indian Economy",
+          "word_count": 511,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_resource_mobilization_monetary_fiscal_policy.json",
-          "title": "Resource Mobilization: Tax/Non-Tax Revenue, Public Debt, FDI/FII, RBI Monetary & Fiscal Policy",
+          "topic_id": "APPSC-G1-ECO-02",
+          "file": "02_monetary_policy_rbi_and_banking_sector_reforms.json",
+          "title": "Monetary Policy, RBI & Banking Sector Reforms",
+          "word_count": 561,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_government_budgeting_finance_commissions.json",
-          "title": "Government Budgeting: Deficits, Federal Finance, GST Impact, 16th Finance Commission Devolution",
+          "topic_id": "APPSC-G1-ECO-03",
+          "file": "03_fiscal_policy_public_debt_and_frbm_act.json",
+          "title": "Fiscal Policy, Public Debt & FRBM Framework",
+          "word_count": 511,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_inclusive_growth_social_welfare.json",
-          "title": "Inclusive Growth: Poverty Eradication, Food Security, PDS, Financial Inclusion, DWCRA & AP Schemes",
+          "topic_id": "APPSC-G1-ECO-04",
+          "file": "04_government_budgeting_taxation_and_gst_council.json",
+          "title": "Budgeting, Taxation Architecture & Finance Commissions",
+          "word_count": 517,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_agriculture_and_rural_development_india_ap.json",
-          "title": "Agriculture Development: MSP, Swaminathan Commission, Rainbow Revolution, AP Cropping Patterns & Irrigation",
+          "topic_id": "APPSC-G1-ECO-05",
+          "file": "05_inclusive_growth_poverty_unemployment_and_sdgs.json",
+          "title": "Inclusive Growth, Poverty, Unemployment & SDGs",
+          "word_count": 480,
           "status": "completed"
         },
         {
           "order": 6,
-          "file": "06_industrial_development_infrastructure_india_ap.json",
-          "title": "Industrial Development & Infrastructure: 1991 Reforms, Make in India, MSMEs, AP Industrial Policy, SEZs & Corridors",
+          "topic_id": "APPSC-G1-ECO-06",
+          "file": "06_agriculture_msp_food_security_and_pm_kisan.json",
+          "title": "Agriculture, MSP Framework, Food Security & PM-KISAN",
+          "word_count": 537,
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "topic_id": "APPSC-G1-ECO-07",
+          "file": "07_industrial_policy_manufacturing_pli_and_msmes.json",
+          "title": "Industrial Policy, Manufacturing, PLI & MSME Sector",
+          "word_count": 524,
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "topic_id": "APPSC-G1-ECO-08",
+          "file": "08_foreign_trade_balance_of_payments_and_fdi_trends.json",
+          "title": "Foreign Trade, Balance of Payments & FDI Trends",
+          "word_count": 523,
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "topic_id": "APPSC-G1-ECO-09",
+          "file": "09_andhra_pradesh_state_economy_gsdp_and_fiscal_health.json",
+          "title": "Andhra Pradesh State Economy, GSDP & Fiscal Health",
+          "word_count": 579,
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "topic_id": "APPSC-G1-ECO-10",
+          "file": "10_agriculture_ports_and_industrial_corridors_in_ap.json",
+          "title": "Agriculture, Ports & Industrial Corridors in Andhra Pradesh",
+          "word_count": 478,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "07_Science_Technology_Environment",
-      "paper": "Mains Paper-V & Screening Paper-II (Section B)",
+      "title": "Science, Technology & Environment",
+      "paper": "Mains Paper-V & Screening Paper-II",
+      "topics_count": 10,
       "topics": [
         {
           "order": 1,
-          "file": "01_national_policies_science_institutes.json",
-          "title": "STI Policies, Major Research Institutes in AP & India, Contributions of Indian Scientists",
+          "topic_id": "APPSC-G1-STE-01",
+          "file": "01_national_science_policies_and_apex_research_institutes.json",
+          "title": "National Science Policies & Apex Research Architecture",
+          "word_count": 516,
           "status": "completed"
         },
         {
           "order": 2,
-          "file": "02_ict_egovernance_cybersecurity.json",
-          "title": "Information & Communication Technology (ICT), E-Governance Systems, Cyber Crime Policy",
+          "topic_id": "APPSC-G1-STE-02",
+          "file": "02_information_technology_5g_ai_and_semiconductors.json",
+          "title": "Information Technology: 5G, Artificial Intelligence & Semiconductors",
+          "word_count": 490,
           "status": "completed"
         },
         {
           "order": 3,
-          "file": "03_space_programme_isro_drdo.json",
-          "title": "Indian Space Programme (ISRO Missions, IRNSS/NavIC, Remote Sensing) & DRDO Defense Technologies",
+          "topic_id": "APPSC-G1-STE-03",
+          "file": "03_space_programme_isro_missions_and_launch_vehicles.json",
+          "title": "Space Programme, ISRO Missions & Space Sector Reforms",
+          "word_count": 493,
           "status": "completed"
         },
         {
           "order": 4,
-          "file": "04_energy_resources_nuclear_policy.json",
-          "title": "Energy Policy: Renewable Energy (Solar, Wind), Nuclear Energy Programme and India's Nuclear Doctrine",
+          "topic_id": "APPSC-G1-STE-04",
+          "file": "04_defense_technology_drdo_missiles_and_indigenisation.json",
+          "title": "Defense Technology: DRDO, Missiles & Indigenisation",
+          "word_count": 504,
           "status": "completed"
         },
         {
           "order": 5,
-          "file": "05_environmental_conservation_climate_change.json",
-          "title": "Environment & Climate Change: UNFCCC, Paris Agreement, Environmental Acts, Pollution Control & Waste Management",
+          "topic_id": "APPSC-G1-STE-05",
+          "file": "05_nuclear_energy_three_stage_program_and_safety.json",
+          "title": "Nuclear Energy: Three-Stage Program, Safety & Treaties",
+          "word_count": 511,
           "status": "completed"
         },
         {
           "order": 6,
-          "file": "06_biotechnology_nanotechnology_health.json",
-          "title": "Biotechnology, Nanotechnology, Genetic Engineering, Vaccines, Human Microbial Diseases & IPR",
+          "topic_id": "APPSC-G1-STE-06",
+          "file": "06_renewable_energy_solar_green_hydrogen_and_transition.json",
+          "title": "Renewable Energy: Solar, Green Hydrogen & Clean Transition",
+          "word_count": 500,
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "topic_id": "APPSC-G1-STE-07",
+          "file": "07_biotechnology_genetic_engineering_and_healthcare.json",
+          "title": "Biotechnology, Genetic Engineering & Modern Healthcare",
+          "word_count": 518,
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "topic_id": "APPSC-G1-STE-08",
+          "file": "08_environmental_conservation_and_biodiversity_acts.json",
+          "title": "Environmental Conservation & Biodiversity Legislation",
+          "word_count": 541,
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "topic_id": "APPSC-G1-STE-09",
+          "file": "09_climate_change_unfccc_cop_summits_and_net_zero_2070.json",
+          "title": "Climate Change, UNFCCC, COP Summits & Net Zero 2070",
+          "word_count": 513,
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "topic_id": "APPSC-G1-STE-10",
+          "file": "10_pollution_control_waste_management_and_coastal_regulation.json",
+          "title": "Pollution Control, Waste Management & Coastal Regulation",
+          "word_count": 556,
           "status": "completed"
         }
       ]
     },
     {
       "folder": "08_General_Mental_and_Psychological_Abilities",
-      "paper": "Screening Paper-II (Section A)",
+      "title": "General Mental and Psychological Abilities",
+      "paper": "Screening Paper-II (Section B)",
+      "topics_count": 17,
       "topics": [
         {
           "order": 1,
+          "topic_id": "APPSC-G1-GMA-01",
           "file": "01_logical_reasoning_and_analytical_ability.json",
           "title": "Logical Reasoning, Analytical Ability, Syllogisms & Seating Arrangements",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 2,
+          "topic_id": "APPSC-G1-GMA-02",
           "file": "02_number_series_coding_decoding.json",
           "title": "Number Series, Letter Series & Coding-Decoding",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 3,
+          "topic_id": "APPSC-G1-GMA-03",
           "file": "03_problems_related_to_relations.json",
           "title": "Problems Related to Blood Relations & Family Tree Modelling",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 4,
+          "topic_id": "APPSC-G1-GMA-04",
           "file": "04_shapes_venn_diagrams.json",
           "title": "Geometric Shapes, Sub-sections, Counting of Figures & Venn Diagrams",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 5,
+          "topic_id": "APPSC-G1-GMA-05",
           "file": "05_clocks_calendar_age_problems.json",
           "title": "Problems on Clocks, Calendars & Quantitative Age Calculations",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 6,
+          "topic_id": "APPSC-G1-GMA-06",
           "file": "06_number_system_order_of_magnitude.json",
           "title": "Number System, Divisibility Rules & Order of Magnitude",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 7,
+          "topic_id": "APPSC-G1-GMA-07",
           "file": "07_ratio_proportion_variation.json",
           "title": "Ratio, Proportion, Direct/Inverse Variation & Mixtures",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 8,
+          "topic_id": "APPSC-G1-GMA-08",
           "file": "08_central_tendencies_mean_median_mode.json",
           "title": "Central Tendencies: Mean, Median, Mode & Weighted Averages",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 9,
+          "topic_id": "APPSC-G1-GMA-09",
           "file": "09_powers_roots_hcf_lcm.json",
           "title": "Powers & Exponents, Roots, HCF & LCM Algorithms",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 10,
+          "topic_id": "APPSC-G1-GMA-10",
           "file": "10_percentages_interest_profit_loss.json",
           "title": "Percentages, Simple & Compound Interest, Profit, Loss & Discount",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 11,
+          "topic_id": "APPSC-G1-GMA-11",
           "file": "11_time_work_time_speed_distance.json",
           "title": "Time & Work, Pipes & Cisterns, Speed, Distance & Relative Motion",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 12,
+          "topic_id": "APPSC-G1-GMA-12",
           "file": "12_mensuration_area_perimeter_volume.json",
           "title": "Mensuration: Area, Perimeter, Surface Area & Volume of Solids",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 13,
+          "topic_id": "APPSC-G1-GMA-13",
           "file": "13_geometry_lines_angles_polygons.json",
           "title": "Geometry: Lines, Angles, Triangles & Quadrilateral Properties",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 14,
+          "topic_id": "APPSC-G1-GMA-14",
           "file": "14_algebra_bodmas_simplification.json",
           "title": "Algebra Fundamentals: BODMAS, Identities & Operator Simplifications",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 15,
+          "topic_id": "APPSC-G1-GMA-15",
           "file": "15_data_interpretation_sufficiency_probability.json",
           "title": "Data Interpretation, Data Sufficiency & Elementary Probability",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 16,
+          "topic_id": "APPSC-G1-GMA-16",
           "file": "16_emotional_intelligence_stress_coping.json",
           "title": "Emotional Intelligence: Dimensions, Empathy & Stress Coping",
+          "word_count": 0,
           "status": "completed"
         },
         {
           "order": 17,
+          "topic_id": "APPSC-G1-GMA-17",
           "file": "17_social_intelligence_decision_making_personality.json",
           "title": "Social Intelligence, Decision Making, Critical Thinking & Personality Assessment",
+          "word_count": 0,
           "status": "completed"
         }
       ]

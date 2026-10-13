@@ -1,0 +1,115 @@
+{
+  "topic_id": "APPSC-G1-ECO-07",
+  "subject_code": "06_Economy_India_and_AP",
+  "subject_title": "Economy - India & AP",
+  "paper": "Mains Paper-IV & Screening Paper-II",
+  "topic_title": "Industrial Policy, Manufacturing, PLI & MSME Sector",
+  "syllabus_mapping": "Economy - India & AP: Industrial Policies (1948 to Post-1991), National Manufacturing Policy, Production Linked Incentive (PLI) Schemes, MSME Classification Criteria 2020, PM Gati Shakti, Logistics Performance, and Start-up Ecosystem.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Industrial Policy, Manufacturing, PLI & MSME Sector"
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrialization drives value addition, technology absorption, and productive labor reallocation in emerging economies. India's industrial trajectory has evolved from inward-oriented import substitution under the 1956 Industrial Policy Resolution to market-driven liberalization post-1991. Contemporary industrial policy focuses on deep manufacturing competitiveness through Production Linked Incentive (PLI) schemes across 14 frontier sectors, revised composite MSME frameworks, and multimodal connectivity via PM Gati Shakti."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Manufacturing_India_automobile.jpg",
+      "caption": "High-tech automotive and manufacturing facility in India, supported by the Production Linked Incentive (PLI) scheme.",
+      "alt_text": "Automobile manufacturing in India"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Macroeconomic Framework & Indicators"
+    },
+    {
+      "type": "table",
+      "caption": "Composite MSME Classification Criteria (Notified July 1, 2020)",
+      "headers": [
+        "Enterprise Category",
+        "Investment in Plant & Machinery / Equipment",
+        "Annual Turnover Limit (Excluding Exports)",
+        "Key Regulatory & Credit Privileges"
+      ],
+      "rows": [
+        [
+          "Micro Enterprise",
+          "Not more than Rs 1 Crore",
+          "Not more than Rs 5 Crore",
+          "Priority Sector Lending (PSL); access to collateral-free CGTMSE loans"
+        ],
+        [
+          "Small Enterprise",
+          "Not more than Rs 10 Crore",
+          "Not more than Rs 50 Crore",
+          "Mandatory 25% public procurement quota by CPSEs; TReDS bill discounting"
+        ],
+        [
+          "Medium Enterprise",
+          "Not more than Rs 50 Crore",
+          "Not more than Rs 250 Crore",
+          "Eligible for technology upgradation subsidies; exclusion of export turnover"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Key Policy Dimensions & Analytical Insights"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Revised Composite MSME Criteria: Effective July 1, 2020, the classification eliminated the distinction between manufacturing and services sectors, introducing a composite formula based on both 'Investment in Plant & Machinery' and 'Annual Turnover'. Export turnover is explicitly excluded when computing enterprise limits.",
+        "Production Linked Incentive (PLI) Schemes: Rolled out with an aggregate outlay exceeding Rs 1.97 lakh crore across 14 champion sectors (including mobile phones, pharmaceuticals, automobiles, advanced chemistry cell batteries, and textiles) offering 4% to 6% incentives on incremental sales over base years.",
+        "PM Gati Shakti National Master Plan: A digital GIS-based platform integrating infrastructure planning across 16 central ministries (Railways, Roadways, Ports, Aviation) to eliminate departmental silos, streamline right-of-way approvals, and lower India's logistics cost from ~13% of GDP toward global benchmarks (~8%).",
+        "National Logistics Policy (NLP 2022): Complements PM Gati Shakti by establishing the Unified Logistics Interface Platform (ULIP) and Ease of Logistics (ELOG) to integrate freight visibility across rail, road, and maritime transit.",
+        "Startup India & Angel Tax Abolition: With over 130,000 DPIIT-recognized startups and 110+ unicorns, India hosts the third-largest startup ecosystem globally. The abolition of Angel Tax (Section 56(2)(viib) of the Income Tax Act) in Union Budget 2024 eliminates tax uncertainty on venture capital investments."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically evaluate the Production Linked Incentive (PLI) scheme as an instrument of strategic industrial policy. Has it successfully transformed India into a global manufacturing export hub? (250 Words, 15 Marks)",
+        "Discuss the significance of the revised composite criteria for classifying Micro, Small, and Medium Enterprises (MSMEs). What structural challenges continue to hinder MSME access to formal credit and global supply chains? (200 Words, 10 Marks)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "**Q: Under the revised composite classification effective July 2020, what are the investment and turnover limits for a 'Small Enterprise'?**\n* (a) Investment <= Rs 1 Cr and Turnover <= Rs 5 Cr\n* (b) Investment <= Rs 10 Cr and Turnover <= Rs 50 Cr\n* (c) Investment <= Rs 50 Cr and Turnover <= Rs 250 Cr\n* (d) Investment <= Rs 20 Cr and Turnover <= Rs 100 Cr\n* **Answer: (b)**\n* *Explanation:* A Small Enterprise is defined as an enterprise where investment in plant and machinery does not exceed Rs 10 crore and turnover does not exceed Rs 50 crore.",
+        "**Q: Across how many champion manufacturing sectors were the Production Linked Incentive (PLI) schemes rolled out by the Government of India?**\n* (a) 8 sectors\n* (b) 10 sectors\n* (c) 14 sectors\n* (d) 20 sectors\n* **Answer: (c)**\n* *Explanation:* The Government of India rolled out Production Linked Incentive (PLI) schemes across 14 key manufacturing sectors with an announced outlay of ~Rs 1.97 lakh crore.",
+        "**Q: When calculating the annual turnover limit for MSME classification under the 2020 guidelines, which component is explicitly excluded?**\n* (a) Revenue from online sales\n* (b) Export turnover\n* (c) Subsidies received from government\n* (d) Inter-state sales turnover\n* **Answer: (b)**\n* *Explanation:* Under the notification dated June 26, 2020, export turnover of goods or services or both is strictly excluded when calculating the turnover of any enterprise for MSME classification purposes.",
+        "**Q: What is the primary technological platform utilized by the PM Gati Shakti National Master Plan for multimodal infrastructure coordination?**\n* (a) Blockchain ledger\n* (b) GIS-based spatial planning platform developed by BISAG-N\n* (c) Artificial intelligence facial recognition portal\n* (d) Centralized quantum communication network\n* **Answer: (b)**\n* *Explanation:* PM Gati Shakti operates on a dynamic GIS-based spatial planning portal developed by BISAG-N (Bhaskaracharya National Institute for Space Applications and Geo-informatics), integrating layered spatial maps of all infrastructure ministries.",
+        "**Q: Under Public Procurement Policy for MSEs, what mandatory minimum percentage of annual purchases must Central Ministries and CPSEs procure from Micro and Small Enterprises?**\n* (a) 10%\n* (b) 15%\n* (c) 20%\n* (d) 25%\n* **Answer: (d)**\n* *Explanation:* Under the Public Procurement Policy for MSEs Order 2018, it is mandatory for Central Ministries, Departments, and Central Public Sector Enterprises (CPSEs) to procure a minimum of 25% of their total annual purchases from Micro and Small Enterprises (with sub-targets of 4% from SC/ST MSEs and 3% from Women MSEs)."
+      ]
+    }
+  ],
+  "word_count": 524,
+  "estimated_read_time_mins": 4,
+  "file_name": "07_industrial_policy_manufacturing_pli_and_msmes.json",
+  "folder": "06_Economy_India_and_AP"
+}

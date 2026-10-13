@@ -1,0 +1,137 @@
+{
+  "topic_id": "APPSC-G1-ETH-04",
+  "subject_code": "05_Ethics_and_Law",
+  "subject_title": "Ethics and Law",
+  "paper": "Mains Paper-III (Section B) & Screening Paper-I (Section D)",
+  "topic_title": "Public Service Values & Ethics in Administration: Dilemmas & Codes",
+  "syllabus_mapping": "Ethics and Law: Administrative Ethics - Status and Problems, Ethical Dilemmas in Governance, Laws, Rules and Conscience as Sources of Ethical Guidance, Accountability, Nolan Committee Principles, Codes of Conduct vs Codes of Ethics.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Public Service Values & Ethics in Administration: Dilemmas & Codes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Public service ethics defines the moral obligations, institutional integrity, and fiduciary duty of civil servants toward the republic. Public administrators constantly confront ethical dilemmas—reconciling administrative secrecy with public transparency, political loyalty with bureaucratic neutrality, and utilitarian development with human rights. Resolving these challenges requires internalizing core public service values, formalized in the Nolan Principles and enforceable civil service codes."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Nolan_principles.png",
+      "caption": "The Seven Principles of Public Life formulated by the Nolan Committee (1995).",
+      "alt_text": "Seven Principles of Public Life diagram"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "The Seven Principles of Public Life (Nolan Committee Standards, 1995)",
+      "headers": [
+        "Nolan Principle",
+        "Ethical Definition",
+        "Administrative Context & Behavior",
+        "Violations / Breaches"
+      ],
+      "rows": [
+        [
+          "1. Selflessness",
+          "Holders of public office should act solely in terms of the public interest.",
+          "Never taking decisions to gain financial or material benefits for self, family, or friends.",
+          "Crony capitalism, nepotism in recruitment."
+        ],
+        [
+          "2. Integrity",
+          "Avoid placing oneself under financial or other obligation to outside individuals/organizations.",
+          "Refusing gifts, hospitality, or post-retirement corporate favors that might compromise official duty.",
+          "Accepting kickbacks, post-retirement quid pro quo."
+        ],
+        [
+          "3. Objectivity",
+          "Decisions must be taken impartially, fairly, and on merit without discrimination.",
+          "Allocating contracts, tenders, and subsidies using clear, transparent, objective criteria.",
+          "Favoritism, regional bias, political partisanship."
+        ],
+        [
+          "4. Accountability",
+          "Holders of public office are accountable for their decisions to the public.",
+          "Submitting to whatever scrutiny is appropriate to their office (CAG, PAC, RTI, media).",
+          "Evasion of audit queries, shredding official records."
+        ],
+        [
+          "5. Openness",
+          "Act and take decisions in an open and transparent manner.",
+          "Giving reasons for decisions and restricting information only when the wider public interest clearly demands.",
+          "Excessive classification of documents under Official Secrets Act."
+        ],
+        [
+          "6. Honesty",
+          "Duty to declare any private interests relating to public duties.",
+          "Resolving any conflict of interest immediately in a way that protects the public interest.",
+          "Concealing shares in companies bidding for department tenders."
+        ],
+        [
+          "7. Leadership",
+          "Exhibit and support these principles by leadership and personal example.",
+          "Leading by personal ethical conduct; fostering an organizational culture of zero tolerance for corruption.",
+          "Turning a blind eye to institutional malpractice."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Code of Conduct vs Code of Ethics: A Code of Ethics is a broad statement of philosophical values and aspirations (integrity, empathy, dedication); A Code of Conduct is a legally enforceable, specific set of behavioral dos and don'ts (bar on accepting expensive gifts, bar on political canvassing under Central Civil Services Conduct Rules 1964).",
+        "Sources of Ethical Guidance: 1. Positive Laws, Acts and Statutory Regulations; 2. Institutional Rules and Precedents; 3. Conscience and Moral Intuition (Antaratma) when laws are silent or ambiguous.",
+        "Civil Service Neutrality & Anonymity: Neutrality requires civil servants to execute policy loyally regardless of the political party in power; Anonymity (Masterman Committee) ensures ministers take parliamentary praise or blame while civil servants work behind the scenes.",
+        "Conflict of Interest: Situations where personal pecuniary or familial interests clash with official duties; resolved through transparent recusal, blind trusts, and mandatory asset declarations."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Analyze the Seven Principles of Public Life formulated by the Nolan Committee. Examine the classic ethical dilemmas confronted by civil servants in balancing political neutrality with executive compliance. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Detail the Nolan Committee (1995) principles: Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty, Leadership; analyze classic ethical dilemmas in governance: 1. Discretion vs Rule-bound compliance (letter of the law vs spirit of justice), 2. Secrecy vs Transparency (whistleblowing vs Official Secrets Act), 3. Political Neutrality vs Committed Bureaucracy (resisting illegal verbal orders from political bosses vs risk of punitive transfer); propose institutional safeguards: statutory Civil Services Boards protecting tenure, recording verbal orders in writing per Supreme Court guidelines (T.S.R. Subramanian 2013), and creating independent ethics commissioners."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which historic committee in the United Kingdom formulated the celebrated 'Seven Principles of Public Life' (including Selflessness and Integrity) in 1995?\n(a) Masterman Committee\n(b) Nolan Committee (Committee on Standards in Public Life)\n(c) Fulton Committee\n(d) Northcote-Trevelyan Committee\nCorrect Answer: (b) Nolan Committee (Committee on Standards in Public Life) [Explanation: Chaired by Lord Nolan, the Committee on Standards in Public Life (1995) established the seven foundational ethical principles for holders of public office.]",
+        "Q2. The administrative convention of 'Civil Service Anonymity', where the minister takes parliamentary responsibility while officials work behind the scenes, is rooted in the:\n(a) Westminster Model\n(b) Presidential System\n(c) French Prefect System\n(d) Soviet Nomenklatura\nCorrect Answer: (a) Westminster Model [Explanation: The British Westminster parliamentary system institutionalized civil service neutrality and anonymity to safeguard civil servants from political targeting.]",
+        "Q3. In which landmark 2013 judgment did the Supreme Court mandate fixed tenures for civil servants and require all oral administrative orders to be recorded in writing?\n(a) Prakash Singh Case\n(b) T.S.R. Subramanian v. Union of India\n(c) Vineet Narain Case\n(d) Lily Thomas Case\nCorrect Answer: (b) T.S.R. Subramanian v. Union of India [Explanation: In T.S.R. Subramanian (2013), the Supreme Court directed the Centre and States to set up Civil Services Boards and mandated that all verbal directions must be recorded in writing.]",
+        "Q4. What is the fundamental difference between a 'Code of Ethics' and a 'Code of Conduct' in public administration?\n(a) Code of Ethics is legally enforceable while Code of Conduct is voluntary\n(b) Code of Ethics outlines broad aspirational values while Code of Conduct specifies enforceable behavioral rules\n(c) Code of Conduct applies only to ministers while Code of Ethics applies to judges\n(d) There is no legal or conceptual difference\nCorrect Answer: (b) Code of Ethics outlines broad aspirational values while Code of Conduct specifies enforceable behavioral rules [Explanation: A Code of Ethics provides normative aspirational principles (e.g. empathy, justice), whereas a Code of Conduct details specific enforceable rules (e.g. gift limits).]",
+        "Q5. When a public official's private personal, familial, or financial interests clash with their official public duties, this ethical dilemma is termed:\n(a) Moral Dissonance\n(b) Conflict of Interest\n(c) Bureaucratic Inertia\n(d) Arbitrary Discretion\nCorrect Answer: (b) Conflict of Interest [Explanation: Conflict of interest occurs when an official's personal interest threatens the objectivity or impartiality of public decision-making, requiring recusal.]"
+      ]
+    }
+  ],
+  "word_count": 989,
+  "estimated_read_time_mins": 6,
+  "file_name": "04_public_service_values_and_ethics_in_administration.json",
+  "folder": "05_Ethics_and_Law"
+}

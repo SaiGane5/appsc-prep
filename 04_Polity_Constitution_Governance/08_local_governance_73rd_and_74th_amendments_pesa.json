@@ -1,0 +1,119 @@
+{
+  "topic_id": "APPSC-G1-POL-08",
+  "subject_code": "04_Polity_Constitution_Governance",
+  "subject_title": "Polity, Constitution & Governance",
+  "paper": "Mains Paper-III (Section A) & Screening Paper-I (Section C)",
+  "topic_title": "Local Self-Government: 73rd & 74th Amendments & PESA Act 1996",
+  "syllabus_mapping": "Polity, Constitution & Governance: Grassroots Decentralization - 73rd and 74th Constitutional Amendment Acts (1992), Three-Tier Panchayati Raj, Municipalities, Eleventh and Twelfth Schedules, State Finance Commission, PESA Act 1996 in Scheduled Areas.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Local Self-Government: 73rd & 74th Amendments & PESA Act 1996"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 73rd and 74th Constitutional Amendment Acts of 1992 revolutionized Indian federalism by granting constitutional status to rural (Panchayati Raj) and urban (Municipalities) local self-governments, establishing a three-tier federal architecture. Augmented by the Panchayats (Extension to Scheduled Areas) Act (PESA) 1996 for tribal Fifth Schedule tracts, grassroots democracy empowers Gram Sabhas with participatory planning, social audits, and resource sovereignty."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gram_Sabha_meeting.jpg",
+      "caption": "A democratic Gram Sabha meeting deliberating on rural infrastructure and welfare entitlements.",
+      "alt_text": "Gram Sabha village gathering"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Constitutional Comparison: 73rd vs 74th Amendment Acts (1992)",
+      "headers": [
+        "Constitutional Dimension",
+        "Panchayati Raj (73rd Amendment, Part IX)",
+        "Urban Municipalities (74th Amendment, Part IX-A)"
+      ],
+      "rows": [
+        [
+          "Constitutional Articles & Schedule",
+          "Articles 243 to 243-O; Eleventh Schedule (29 functional subjects).",
+          "Articles 243-P to 243-ZG; Twelfth Schedule (18 functional subjects)."
+        ],
+        [
+          "Structural Tiers",
+          "Gram Panchayat (village), Panchayat Samiti (intermediate block), Zilla Parishad (district level).",
+          "Nagar Panchayat (transitional area), Municipal Council (smaller urban area), Municipal Corporation (larger urban area)."
+        ],
+        [
+          "Direct Democracy Foundation",
+          "Gram Sabha (Art 243A): all registered voters of village; supreme social audit organ.",
+          "Ward Committees (Art 243S) in municipalities with population of 300,000 or more."
+        ],
+        [
+          "Mandatory Reservations",
+          "Art 243D: SCs and STs in proportion to population; minimum 1/3rd seats for women (50% in AP, Bihar, etc.).",
+          "Art 243T: SCs, STs, and minimum 1/3rd seats reserved for women across wards and mayoral posts."
+        ],
+        [
+          "Institutional Organs",
+          "State Election Commission (Art 243K) for independent elections; State Finance Commission (Art 243I) for fiscal devolution every 5 years.",
+          "State Election Commission (Art 243ZA) and State Finance Commission (Art 243Y); District Planning Committee (Art 243ZD)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "PESA Act 1996 (Bhuria Committee): Extends Part IX to Fifth Schedule tribal areas in 10 states (including AP); empowers Gram Sabha with absolute ownership of Minor Forest Produce (MFP), mandatory consultation prior to land acquisition or mining leases, control over local money lenders, and power to enforce prohibition.",
+        "Evolutionary Committees: Balwant Rai Mehta (1957 - 3-tier Panchayati Raj and 'Democratic Decentralization'), Ashok Mehta (1977 - 2-tier model), G.V.K. Rao (1985 - 'grass without roots' warning), L.M. Singhvi (1986 - recommended constitutional recognition of PRIs).",
+        "Andhra Pradesh Grama/Ward Sachivalayam System: Groundbreaking decentralization model establishing over 15,000 village/ward secretariats delivering 500+ government services directly at citizen doorsteps through volunteer networks.",
+        "The 3 F's Dilemma: Panchayati Raj institutions across India continue to suffer from inadequate devolution of Funds, Functions, and Functionaries by state governments, undermining true local self-governance."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically evaluate the performance of Panchayati Raj Institutions (PRIs) three decades after the 73rd Constitutional Amendment Act. Examine how the PESA Act of 1996 empowers tribal Gram Sabhas in the Fifth Schedule areas of Andhra Pradesh. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Evaluate 30 years of the 73rd Amendment: historic deepening of democracy, political empowerment of women (over 1.4 million elected women representatives), and institutionalized Gram Sabhas; examine structural bottlenecks: chronic shortfall of fiscal devolution (Funds), reluctance of line departments to surrender subjects (Functions), and lack of bureaucratic capacity (Functionaries); analyze PESA 1996 in AP tribal agency tracts: statutory recognition of customary laws, ownership of minor forest produce, mandatory Gram Sabha consent for bauxite/sand mining; discuss implementation gaps: bureaucratic bypassing of Gram Sabhas, diluted consultation, and conflicts over forest rights (FRA 2006)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which landmark committee appointed in 1957 recommended the establishment of a three-tier system of Panchayati Raj based on 'Democratic Decentralization'?\n(a) Ashok Mehta Committee\n(b) Balwant Rai Mehta Committee\n(c) L.M. Singhvi Committee\n(d) G.V.K. Rao Committee\nCorrect Answer: (b) Balwant Rai Mehta Committee [Explanation: The Balwant Rai Mehta Committee (1957) submitted the foundational report recommending a 3-tier Panchayati Raj system (Gram, Block, and District) to implement the Community Development Programme.]",
+        "Q2. The Eleventh Schedule of the Constitution, added by the 73rd Constitutional Amendment Act 1992, contains how many functional matters entrusted to Panchayats?\n(a) 18 functional items\n(b) 21 functional items\n(c) 29 functional items\n(d) 35 functional items\nCorrect Answer: (c) 29 functional items [Explanation: The Eleventh Schedule (Article 243G) specifies 29 functional items (including agriculture, water management, minor forest produce, rural housing) devolved to Panchayats.]",
+        "Q3. The Panchayats (Extension to Scheduled Areas) Act (PESA), enacted in 1996 to extend grassroots self-governance to Fifth Schedule tribal tracts, was based on the recommendations of:\n(a) Bhuria Committee\n(b) Sarkaria Commission\n(c) Verma Committee\n(d) Kaka Kalelkar Commission\nCorrect Answer: (a) Bhuria Committee [Explanation: The Dileep Singh Bhuria Committee (1994–1995) formulated the framework that became the PESA Act 1996, vesting statutory power in tribal Gram Sabhas.]",
+        "Q4. Under Article 243D of the Constitution, what is the minimum mandatory proportion of total seats reserved for women in Panchayati Raj institutions across India?\n(a) 25%\n(b) 33.33% (One-third)\n(c) 50%\n(d) 15%\nCorrect Answer: (b) 33.33% (One-third) [Explanation: Article 243D(3) mandates that not less than one-third of the total number of seats in every Panchayat must be reserved for women (several states like AP have enhanced this to 50%).]",
+        "Q5. Which constitutional body is constituted every five years by the Governor of a State under Article 243-I to review the financial position of Panchayats and Municipalities?\n(a) State Election Commission\n(b) State Finance Commission\n(c) District Planning Committee\n(d) State Planning Board\nCorrect Answer: (b) State Finance Commission [Explanation: Article 243-I mandates the Governor to appoint a State Finance Commission every 5 years to recommend principles for tax devolution and grants-in-aid to PRIs and ULBs.]"
+      ]
+    }
+  ],
+  "word_count": 875,
+  "estimated_read_time_mins": 5,
+  "file_name": "08_local_governance_73rd_and_74th_amendments_pesa.json",
+  "folder": "04_Polity_Constitution_Governance"
+}

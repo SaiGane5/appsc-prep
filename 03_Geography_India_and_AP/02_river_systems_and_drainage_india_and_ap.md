@@ -1,0 +1,95 @@
+# Drainage Systems of India & Andhra Pradesh: Rivers, Deltas & Interlinking
+
+**Topic ID:** `APPSC-G1-GEOG-02` | **Subject:** Geography of India & Andhra Pradesh | **Paper:** Mains Paper-II (Section C) & Screening Paper-I (Section B)
+
+**Syllabus Mapping:** Geography of India & Andhra Pradesh: Drainage Systems - Himalayan (Ganga, Brahmaputra, Indus) vs Peninsular Rivers, River Basins of AP (Godavari, Krishna, Pennar, Vamsadhara, Nagavali), Polavaram & River Interlinking.
+
+---
+
+
+# Drainage Systems of India & Andhra Pradesh: Rivers, Deltas & Interlinking
+
+
+India's drainage network is divided into perennial antecedent Himalayan river systems and rain-fed graded Peninsular river systems. In Andhra Pradesh, the drainage is dominated by the 'Dakshin Ganga' Godavari, the Krishna, the Pennar, and the north-coastal Vamsadhara and Nagavali rivers, which form fertile agricultural deltas and are central to landmark river-linking initiatives like the Pattiseema Lift Irrigation and the Polavaram Multipurpose Project.
+
+
+![Prakasam Barrage across Krishna River at Vijayawada](https://upload.wikimedia.org/wikipedia/commons/e/ea/Prakasam_Barrage.jpg)
+*Caption: The Prakasam Barrage on the Krishna River at Vijayawada, regulating delta canal irrigation networks.*
+
+
+## 1. Institutional & Structural Framework
+
+
+### Table: Hydrological Matrix of Major River Basins in Andhra Pradesh
+
+| River Basin & Origin | Length & Flow in AP | Key Tributaries | Major Multipurpose Projects in AP |
+| --- | --- | --- | --- |
+| Godavari ('Dakshin Ganga'; Trimbakeshwar, Maharashtra) | 1,465 km total (approx 580 km in AP/TG); drains 312,812 sq km. | Manjira, Pranhita, Indravati, Sabari, Sileru. | Polavaram Multipurpose National Project, Sir Arthur Cotton Barrage (Dowleswaram), Chintalapudi Lift. |
+| Krishna (Mahabaleshwar, Maharashtra) | 1,400 km total (approx 450 km in AP/TG); drains 258,948 sq km. | Koyna, Bhima, Tungabhadra, Ghataprabha, Malaprabha, Musi, Munneru. | Srisailam Dam (hydro-electric), Nagarjuna Sagar (joint with TG), Prakasam Barrage (Vijayawada), Veligonda Project. |
+| Pennar / Pinakini (Nandi Hills, Karnataka) | 597 km total (flows through Anantapur, Kadapa, Nellore). | Jayamangali, Chitravati, Papagni, Cheyyeru, Kundu. | Somasila Reservoir (Nellore), Mylavaram Dam, Gandikota Reservoir. |
+| Vamsadhara & Nagavali (Eastern Ghats, Odisha) | Vamsadhara (254 km), Nagavali (256 km); Srikakulam & Vizianagaram. | Mahendratanaya, Suvarnamukhi, Vegavati. | Gotta Barrage (Vamsadhara Stage II), Thotapalli Barrage on Nagavali. |
+
+
+
+## 2. Salient Dimensions & Critical Analysis
+
+* Polavaram National Irrigation Project: Multipurpose project on Godavari river in Eluru district; includes an Earth-Cum-Rock-Fill (ECRF) dam, 960 MW hydro-power station, Left Canal (supplying water to Visakhapatnam industrial hub), and Right Canal.
+
+* Pattiseema Lift Irrigation Project: India's first operational river-interlinking project (completed in record time in 2015), lifting 80 TMC of surplus Godavari flood waters from Pattiseema into the Polavaram Right Main Canal to discharge into the Krishna delta upstream of Prakasam Barrage.
+
+* Himalayan vs Peninsular Drainage: Himalayan rivers are perennial, antecedent, prone to meandering and shifting courses (Kosi - 'Sorrow of Bihar'); Peninsular rivers are non-perennial, rain-dependent, flow through graded mature fault valleys with fixed channels.
+
+* Deltaic Morphology: Godavari and Krishna form arcuate lobate deltas into the Bay of Bengal, sandwiching the shallow freshwater Kolleru Lake between their alluvium lobes.
+
+
+
+
+## Previous Years Questions (PYQs) - APPSC Group-1
+
+
+### Part A: Mains Analytical & Descriptive Questions
+
+1. Examine the drainage network of Andhra Pradesh with special focus on the Godavari and Krishna basins. Analyze the significance of the Polavaram Project and river-interlinking in resolving Rayalaseema's water crisis. (APPSC Group-1 Mains, 10 Marks)
+-> Model Approach: Map out the major river basins of AP (Godavari, Krishna, Pennar, Vamsadhara); evaluate Godavari's surplus yield vs Krishna's deficit allocation; analyze the strategic significance of the Polavaram National Project (194 TMC capacity) providing drinking water to Vizag, generating 960 MW, and irrigating 7.2 lakh acres; explain the interlinking mechanism: diverting 80 TMC of Godavari water via Polavaram Right Canal to Krishna basin at Vijayawada, thereby releasing equivalent upstream Krishna waters from Srisailam for the drought-prone Rayalaseema region via Pothireddypadu head regulator and Handri-Neeva Sujala Sravanthi (HNSS).
+
+
+
+
+### Part B: Screening / Prelims Objective Questions
+
+* Q1. Which multipurpose project in Andhra Pradesh executed the historic first operational river-linking in India by connecting the Godavari and Krishna rivers in 2015?
+(a) Polavaram Project
+(b) Pattiseema Lift Irrigation Project
+(c) Chintalapudi Project
+(d) Handri-Neeva Project
+Correct Answer: (b) Pattiseema Lift Irrigation Project [Explanation: The Pattiseema Lift Irrigation Scheme on the Godavari lifted surplus waters into the Krishna basin at Ibrahimpatnam, achieving India's first functional river interlinking.]
+
+* Q2. The Somasila Multipurpose Dam, the largest water reservoir constructed on the Pennar River, is located in which district of Andhra Pradesh?
+(a) YSR Kadapa
+(b) SPSR Nellore
+(c) Anantapur
+(d) Prakasam
+Correct Answer: (b) SPSR Nellore [Explanation: The Somasila Dam is built across the Pennar River in Nellore district, storing 78 TMC of water for irrigation and drinking supplies.]
+
+* Q3. Which major left-bank tributary of the Godavari River forms the boundary between Andhra Pradesh, Odisha, and Chhattisgarh before joining near Kunavaram?
+(a) Manjira
+(b) Sabari
+(c) Pranhita
+(d) Indravati
+Correct Answer: (b) Sabari [Explanation: The Sabari River rises in the Sinkaram hills of Odisha and flows through AP, joining the Godavari at Kunavaram alongside its tributary, the Sileru.]
+
+* Q4. Which natural freshwater lake in Andhra Pradesh is geographically sandwiched between the alluvial deltas of the Godavari and Krishna rivers?
+(a) Pulicat Lake
+(b) Kolleru Lake
+(c) Pakhal Lake
+(d) Kondakarla Ava
+Correct Answer: (b) Kolleru Lake [Explanation: Kolleru Lake, designated as a Ramsar wetland, is one of the largest freshwater lakes in India, located between the Godavari and Krishna deltas in Eluru district.]
+
+* Q5. Which river in northern Andhra Pradesh originates in the Eastern Ghats near Thuamul Rampur in Odisha and drains through Srikakulam into the Bay of Bengal?
+(a) Vamsadhara
+(b) Nagavali (Langulya)
+(c) Gosthani
+(d) Sarada
+Correct Answer: (b) Nagavali (Langulya) [Explanation: The Nagavali River (ancient Langulya) originates in Kalahandi district, Odisha, and flows through Vizianagaram and Srikakulam districts, joining the sea at Kalingapatnam.]
+
+

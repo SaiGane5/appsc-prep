@@ -1,0 +1,104 @@
+# National Science Policies & Apex Research Architecture
+
+**Topic ID:** `APPSC-G1-STE-01` | **Subject:** Science, Technology & Environment | **Paper:** Mains Paper-V & Screening Paper-II
+
+**Syllabus Mapping:** Science, Technology & Environment: Evolution of National Science Policies (SPR 1958, TPS 1983, STP 2003, STIP 2013, draft STIP 2020), Anusandhan National Research Foundation (ANRF Act 2023), Apex Research Bodies (CSIR, DST, DBT, DRDO, DAE, ICMR, ICAR), and R&D Expenditure in India.
+
+---
+
+
+# National Science Policies & Apex Research Architecture
+
+
+India's scientific and technological enterprise has evolved through visionary policy declarations and premier institutional networks designed to foster self-reliance, indigenous innovation, and industrial modernization. From Jawaharlal Nehru's Scientific Policy Resolution (SPR 1958) to the statutory enactment of the Anusandhan National Research Foundation (ANRF Act 2023), national science governance seeks to bridge the gap between academic R&D, patent creation, and market translation, targeting an increase in Gross Expenditure on R&D (GERD) above its current ~0.65% of GDP.
+
+
+![CSIR Headquarters New Delhi](https://upload.wikimedia.org/wikipedia/commons/e/e0/CSIR_India_Headquarters.jpg)
+*Caption: Council of Scientific and Industrial Research (CSIR) headquarters in New Delhi, India's premier industrial R&D organisation.*
+
+
+## 1. Scientific, Technological & Legal Architecture
+
+
+### Table: Evolution of National Science & Technology Policies in India
+
+| Policy Landmark | Promulgation Year | Core Philosophical Thrust | Strategic Outcomes & Institutions Spawned |
+| --- | --- | --- | --- |
+| Scientific Policy Resolution (SPR) | 1958 | Pure research, scientific temper, cultivation of basic sciences | Expansion of IITs, National Laboratories, basic institutional funding |
+| Technology Policy Statement (TPS) | 1983 | Technological self-reliance, indigenous capacity, import substitution | Indigenous industrial adaptation, technology absorption mandates |
+| Science & Technology Policy (STP) | 2003 | Integration of S&T with socio-economic sectors, R&D funding boost | Fostered university-industry linkages, increased venture incentives |
+| Science, Technology & Innovation Policy (STIP) | 2013 | Positioning India among top 5 global scientific powers; Innovation ecosystem | Inception of Atal Innovation Mission (AIM), Startup India, patent acceleration |
+| Anusandhan National Research Foundation (ANRF) | 2023 (Act) | Rs 50,000 Cr outlay over 5 years (70% private sector); university research democratization | Repeals SERB Act 2008; governed by Governing Board chaired by the Prime Minister |
+
+
+
+## 2. Key Policy Dimensions & Analytical Insights
+
+* Anusandhan National Research Foundation (ANRF Act 2023): Establishes an apex body to seed, grow, and promote R&D and foster a culture of research and innovation throughout India's universities, colleges, and research institutions. Governed by a Governing Board headed by the Prime Minister and an Executive Council chaired by the Principal Scientific Adviser (PSA).
+
+* CSIR Network: Established in 1942, the Council of Scientific and Industrial Research encompasses 37 national laboratories and 39 outreach centers (e.g., CCMB Hyderabad, NCL Pune, NGRI Hyderabad). CSIR spearheaded landmark developments including Swaraj tractors, indelible voter ink, and generic pharmaceutical syntheses.
+
+* Department of Science and Technology (DST) & DBT: DST coordinates national scientific missions, manages the Survey of India, and funds high-risk research. The Department of Biotechnology (DBT) regulates life sciences and promoted BIRAC (Biotechnology Industry Research Assistance Council) to foster biotech startups.
+
+* GERD Challenge: India's Gross Expenditure on R&D (GERD) hovers at ~0.64% to 0.65% of GDP, notably lower than South Korea (4.8%), USA (3.4%), and China (2.4%). Crucially, the private sector contributes only ~36% of India's GERD compared to >70% in leading OECD economies.
+
+* Deep Tech & Intellectual Property Rights: National IPR Policy 2016 ('Creative India, Innovative India') has dramatically streamlined patent examination timelines, elevating India's rank in the Global Innovation Index (GII) from 81st in 2015 to top 40 in 2023.
+
+
+
+
+## Previous Years Questions (PYQs) - APPSC Group-1
+
+
+### Part A: Mains Analytical & Descriptive Questions
+
+1. Critically analyze how the Anusandhan National Research Foundation (ANRF) Act, 2023 seeks to democratize academic research in state public universities and bridge industry-academia partnerships. (250 Words, 15 Marks)
+
+2. India's Gross Expenditure on R&D (GERD) remains stagnant below 0.7% of GDP with an overwhelmingly public sector funding profile. Discuss the structural factors inhibiting private sector R&D investments in India. (200 Words, 10 Marks)
+
+
+
+
+### Part B: Screening / Prelims Objective Questions
+
+* **Q: Who serves as the ex-officio President of the Governing Board of the Anusandhan National Research Foundation (ANRF) under the ANRF Act 2023?**
+* (a) Union Minister for Science and Technology
+* (b) Principal Scientific Adviser to the Government of India
+* (c) Prime Minister of India
+* (d) President of India
+* **Answer: (c)**
+* *Explanation:* Under Section 5 of the Anusandhan National Research Foundation Act 2023, the Prime Minister of India is the ex-officio President of the Governing Board.
+
+* **Q: Which existing statutory board established under a 2008 Act was repealed and subsumed into the Anusandhan National Research Foundation (ANRF)?**
+* (a) Technology Development Board (TDB)
+* (b) Science and Engineering Research Board (SERB)
+* (c) National Innovation Foundation (NIF)
+* (d) Council of Scientific and Industrial Research (CSIR)
+* **Answer: (b)**
+* *Explanation:* The ANRF Act 2023 repealed the Science and Engineering Research Board Act, 2008 and subsumed SERB into the newly established ANRF.
+
+* **Q: In which city is the premier CSIR institute 'Centre for Cellular and Molecular Biology (CCMB)' located?**
+* (a) Bengaluru
+* (b) New Delhi
+* (c) Hyderabad
+* (d) Pune
+* **Answer: (c)**
+* *Explanation:* The Centre for Cellular and Molecular Biology (CCMB), an apex national research laboratory under CSIR specializing in modern biology and genetics, is situated in Hyderabad, Telangana.
+
+* **Q: Who was the founding Director-General of the Council of Scientific and Industrial Research (CSIR) who worked closely with Jawaharlal Nehru?**
+* (a) Dr. Homi J. Bhabha
+* (b) Dr. Shanti Swaroop Bhatnagar
+* (c) Dr. Vikram Sarabhai
+* (d) Sir C.V. Raman
+* **Answer: (b)**
+* *Explanation:* Dr. Shanti Swaroop Bhatnagar was the founder Director-General of CSIR and is honored annually through India's premier science award, the Shanti Swaroop Bhatnagar Prize.
+
+* **Q: Approximately what percentage of India's Gross Domestic Product (GDP) is currently invested in Gross Expenditure on Research and Development (GERD)?**
+* (a) 0.64% – 0.65%
+* (b) 1.25%
+* (c) 2.10%
+* (d) 3.00%
+* **Answer: (a)**
+* *Explanation:* According to the Economic Survey and DST R&D Statistics, India's GERD currently stands at approximately 0.64% to 0.65% of GDP, with government funding accounting for roughly 60% of total spending.
+
+

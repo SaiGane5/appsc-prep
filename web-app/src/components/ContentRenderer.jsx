@@ -92,11 +92,11 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
   };
 
   const dynamicStyle = {
-    fontSize: `${fontSizeMultiplier * 1}rem`
+    fontSize: `${fontSizeMultiplier * 1.0625}rem`
   };
 
   return (
-    <div className="space-y-6 text-slate-200" style={dynamicStyle}>
+    <div className="space-y-6 text-zinc-300" style={dynamicStyle}>
       {content.map((item, idx) => {
         if (!item || !item.type) return null;
 
@@ -108,9 +108,8 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
               <h1 
                 key={idx} 
                 id={headingId}
-                className="text-2xl md:text-3xl font-bold text-white pt-6 pb-2 border-b border-[#2d2f3c] tracking-tight flex items-center gap-3"
+                className="text-2xl sm:text-3xl font-bold text-white pt-8 pb-3 border-b border-[#303036] tracking-tight leading-snug"
               >
-                <span className="w-1.5 h-8 bg-sky-400 rounded-full inline-block shrink-0"></span>
                 <MathText text={item.text} />
               </h1>
             );
@@ -119,9 +118,8 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
               <h2 
                 key={idx} 
                 id={headingId}
-                className="text-xl md:text-2xl font-semibold text-slate-100 pt-5 pb-1 tracking-tight flex items-center gap-2"
+                className="text-xl sm:text-2xl font-semibold text-zinc-100 pt-7 pb-2 tracking-tight leading-snug"
               >
-                <span className="w-1 h-5 bg-emerald-400 rounded-full inline-block shrink-0"></span>
                 <MathText text={item.text} />
               </h2>
             );
@@ -130,7 +128,7 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
               <h3 
                 key={idx} 
                 id={headingId}
-                className="text-lg md:text-xl font-medium text-amber-300 pt-3 pb-1"
+                className="text-lg font-semibold text-zinc-200 pt-5 pb-1 leading-snug"
               >
                 <MathText text={item.text} />
               </h3>
@@ -141,7 +139,7 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
         // PARAGRAPH
         if (item.type === 'paragraph') {
           return (
-            <p key={idx} className="text-slate-300 leading-relaxed text-[1.03rem] font-normal">
+            <p key={idx} className="text-[#d4d4d8] leading-[1.8] font-normal my-4">
               <MathText text={item.text} />
             </p>
           );
@@ -152,25 +150,24 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
           return (
             <div key={idx} className="image-card my-6">
               <div 
-                className="relative group cursor-pointer overflow-hidden bg-black/40"
+                className="relative group cursor-pointer overflow-hidden bg-black/30"
                 onClick={() => onOpenImage && onOpenImage(item)}
               >
                 <img 
                   src={item.url} 
                   alt={item.alt_text || 'Illustration'} 
                   loading="lazy"
-                  className="w-full max-h-[440px] object-cover transition-transform duration-300 group-hover:scale-[1.01]"
+                  className="w-full max-h-[440px] object-cover transition-opacity duration-200 group-hover:opacity-95"
                 />
-                <div className="absolute inset-0 bg-black/30 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                  <span className="bg-black/75 text-white px-3.5 py-2 rounded-lg text-xs font-medium flex items-center gap-2 backdrop-blur-md">
-                    <ZoomIn size={16} /> Click to View Full Resolution
+                <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                  <span className="bg-[#1e1e22]/90 text-white px-3 py-1.5 rounded-md text-xs font-medium flex items-center gap-1.5 border border-[#38383e]">
+                    <ZoomIn size={14} /> Full Resolution
                   </span>
                 </div>
               </div>
               {item.caption && (
-                <div className="image-caption flex items-start gap-2">
-                  <span className="text-sky-400 font-semibold text-xs uppercase tracking-wide shrink-0 mt-0.5">Caption:</span>
-                  <span><MathText text={item.caption} /></span>
+                <div className="image-caption text-zinc-400">
+                  <MathText text={item.caption} />
                 </div>
               )}
             </div>
@@ -180,10 +177,9 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
         // TABLE
         if (item.type === 'table') {
           return (
-            <div key={idx} className="my-6 rounded-xl border border-[#2d2f3a] bg-[#1a1b20] shadow-lg overflow-hidden">
+            <div key={idx} className="my-6 rounded-lg border border-[#333338] bg-[#222226] overflow-hidden">
               {item.caption && (
                 <div className="table-title-bar">
-                  <span className="w-1.5 h-4 bg-sky-400 rounded-full inline-block shrink-0"></span>
                   <MathText text={item.caption} />
                 </div>
               )}
@@ -231,18 +227,13 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
                   return (
                     <div 
                       key={lIdx} 
-                      className="bg-[#1b1c23] border border-[#2e303d] rounded-xl p-5 my-4 shadow-lg hover:border-[#3d4052] transition-colors"
+                      className="bg-[#232327] border border-[#333338] rounded-lg p-5 my-4 hover:border-[#44444c] transition-colors"
                     >
-                      <div className="flex items-start justify-between gap-3 mb-4">
-                        <div className="font-semibold text-slate-100 text-base leading-snug">
-                          <MathText text={mcq.questionText} />
-                        </div>
-                        <span className="badge badge-amber shrink-0 text-[11px]">
-                          Prelims MCQ
-                        </span>
+                      <div className="font-medium text-white text-base leading-snug mb-4">
+                        <MathText text={mcq.questionText} />
                       </div>
 
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5 mb-3">
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-3">
                         {['a', 'b', 'c', 'd'].map((optKey) => {
                           const optText = mcq.options[optKey];
                           if (!optText) return null;
@@ -264,44 +255,44 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
                               onClick={() => handleSelectOption(qKey, optKey)}
                               className={btnClass}
                             >
-                              <span className="font-mono font-bold uppercase w-6 h-6 rounded-md bg-[#252733] flex items-center justify-center text-xs shrink-0 text-slate-300">
+                              <span className="font-mono font-semibold uppercase w-5 h-5 rounded bg-[#2b2b30] flex items-center justify-center text-xs shrink-0 text-zinc-300">
                                 {optKey}
                               </span>
-                              <span className="flex-1 text-left">
+                              <span className="flex-1 text-left text-sm leading-snug">
                                 <MathText text={optText} />
                               </span>
                               {selected && isThisCorrect && (
-                                <CheckCircle2 size={18} className="text-emerald-400 shrink-0 mt-0.5" />
+                                <CheckCircle2 size={16} className="text-zinc-300 shrink-0 mt-0.5" />
                               )}
                               {selected && isThisSelected && !isCorrect && (
-                                <XCircle size={18} className="text-rose-400 shrink-0 mt-0.5" />
+                                <XCircle size={16} className="text-zinc-400 shrink-0 mt-0.5" />
                               )}
                             </button>
                           );
                         })}
                       </div>
 
-                      <div className="flex items-center justify-between pt-2 border-t border-[#2a2c38]">
+                      <div className="flex items-center justify-between pt-2.5 border-t border-[#2e2e34]">
                         <button
                           onClick={() => toggleExplanation(qKey)}
-                          className="text-xs text-sky-400 hover:text-sky-300 font-medium flex items-center gap-1.5 py-1"
+                          className="text-xs text-zinc-400 hover:text-white font-medium flex items-center gap-1.5 py-0.5 transition-colors"
                         >
-                          <HelpCircle size={14} />
-                          {isRevealed ? 'Hide Explanation' : 'View Correct Answer & Explanation'}
+                          <HelpCircle size={13} />
+                          {isRevealed ? 'Hide Explanation' : 'View Explanation'}
                         </button>
                         {selected && (
-                          <span className={`text-xs font-semibold ${isCorrect ? 'text-emerald-400' : 'text-rose-400'}`}>
-                            {isCorrect ? '✓ Correct Choice!' : `✗ Incorrect (Correct is Option ${mcq.correctKey.toUpperCase()})`}
+                          <span className="text-xs font-medium text-zinc-300">
+                            {isCorrect ? '✓ Correct' : `Option (${mcq.correctKey.toUpperCase()}) is correct`}
                           </span>
                         )}
                       </div>
 
                       {isRevealed && (
-                        <div className="mt-3 p-3.5 bg-[#14151b] border border-[#2d303f] rounded-lg text-xs leading-relaxed text-slate-300 animate-fade-in">
-                          <div className="font-bold text-emerald-400 mb-1 flex items-center gap-1.5">
-                            <Lightbulb size={14} /> Correct Answer: Option ({mcq.correctKey.toUpperCase()})
+                        <div className="mt-3 p-3.5 bg-[#1a1a1d] border border-[#333338] rounded text-xs leading-relaxed text-zinc-300">
+                          <div className="font-semibold text-white mb-1 flex items-center gap-1.5">
+                            <Lightbulb size={13} /> Answer: Option ({mcq.correctKey.toUpperCase()})
                           </div>
-                          <div>
+                          <div className="text-zinc-300">
                             <MathText text={mcq.explanation} />
                           </div>
                         </div>
@@ -319,34 +310,29 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
                   return (
                     <div 
                       key={lIdx} 
-                      className="bg-[#1b1c23] border border-[#2e303d] rounded-xl p-5 my-4 shadow-lg hover:border-[#3d4052] transition-colors"
+                      className="bg-[#232327] border border-[#333338] rounded-lg p-5 my-4 hover:border-[#44444c] transition-colors"
                     >
-                      <div className="flex items-start justify-between gap-3 mb-2">
-                        <div className="font-semibold text-slate-100 text-base leading-snug">
-                          <MathText text={mains.question} />
-                        </div>
-                        <span className="badge badge-cyan shrink-0 text-[11px]">
-                          Mains (10M)
-                        </span>
+                      <div className="font-medium text-white text-base leading-snug mb-3">
+                        <MathText text={mains.question} />
                       </div>
 
                       <button
                         onClick={() => toggleMains(mKey)}
-                        className="w-full mt-3 p-2.5 bg-[#22242e] hover:bg-[#282a36] text-sky-400 rounded-lg text-xs font-medium flex items-center justify-between transition-colors"
+                        className="w-full mt-2 p-2 bg-[#2a2a2f] hover:bg-[#323238] text-zinc-300 rounded text-xs font-medium flex items-center justify-between transition-colors"
                       >
-                        <span className="flex items-center gap-2">
-                          <BookOpen size={14} />
-                          {isExpanded ? 'Collapse Model Answer Framework' : 'Expand Model Answer Approach & Structuring'}
+                        <span className="flex items-center gap-1.5">
+                          <BookOpen size={13} />
+                          {isExpanded ? 'Hide Model Approach' : 'Model Answer Approach & Structure'}
                         </span>
-                        {isExpanded ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+                        {isExpanded ? <ChevronUp size={14} /> : <ChevronDown size={14} />}
                       </button>
 
                       {isExpanded && (
-                        <div className="mt-3 p-4 bg-[#14151b] border border-sky-950/60 rounded-lg text-xs md:text-sm leading-relaxed text-slate-300 animate-fade-in">
-                          <div className="font-bold text-sky-400 mb-1.5 flex items-center gap-1.5 uppercase tracking-wide">
-                            <Lightbulb size={15} /> Evaluator's Blueprint / Model Approach:
+                        <div className="mt-3 p-3.5 bg-[#1a1a1d] border border-[#333338] rounded text-xs sm:text-sm leading-relaxed text-zinc-300">
+                          <div className="font-semibold text-white mb-1.5 text-xs uppercase tracking-wide">
+                            Model Approach:
                           </div>
-                          <div className="whitespace-pre-line text-slate-200">
+                          <div className="whitespace-pre-line text-zinc-300">
                             <MathText text={mains.approach} />
                           </div>
                         </div>
@@ -357,8 +343,8 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
 
                 // Regular List item
                 return (
-                  <div key={lIdx} className="flex items-start gap-3 my-2 text-slate-300 leading-relaxed">
-                    <span className="w-2 h-2 rounded-full bg-sky-400 mt-2.5 shrink-0"></span>
+                  <div key={lIdx} className="flex items-start gap-2.5 my-2.5 text-[#d4d4d8] leading-[1.75]">
+                    <span className="w-1.5 h-1.5 rounded-full bg-zinc-400 mt-2.5 shrink-0"></span>
                     <div className="flex-1">
                       <MathText text={listItem} />
                     </div>

@@ -1,0 +1,131 @@
+{
+  "topic_id": "APPSC-G1-HIST-01",
+  "subject_code": "01_History_and_Culture_India",
+  "subject_title": "History and Culture of India",
+  "paper": "Paper-II (Mains Section A) & Paper-I (Screening Section A)",
+  "topic_title": "Indus Valley Civilization: Urban Planning, Society, Trade & Religion",
+  "syllabus_mapping": "History and Culture of India: Indus Valley Civilization - Features, Major Sites, Urban Morphology, Society, Cultural History, Trade Networks, Art, Religion and Decline Theories.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Indus Valley Civilization: Urban Planning, Society, Trade & Religion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Indus Valley Civilization (c. 2600–1900 BCE Mature Phase) represents South Asia's primary Bronze Age urban threshold. Spanning over 1.3 million sq km across the Indus-Ghaggar-Hakra river basins, it was distinguished by standardized baked brick architecture, municipal drainage systems, long-distance maritime commerce with Mesopotamia (Meluhha), and an undeciphered logo-syllabic script."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Great_bath_view_Mohenjodaro.JPG",
+      "caption": "The Great Bath at Mohenjo-daro, demonstrating waterproof bitumen engineering and ritual cleansing architecture.",
+      "alt_text": "Great Bath ruins at Mohenjo-daro"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Institutional & Structural Framework"
+    },
+    {
+      "type": "table",
+      "caption": "Archaeological Matrix of Key Harappan Sites & Findings",
+      "headers": [
+        "Site & Location",
+        "Excavator & River",
+        "Key Architectural Findings",
+        "Economic / Cultural Significance"
+      ],
+      "rows": [
+        [
+          "Harappa (Punjab, Pakistan)",
+          "Daya Ram Sahni (1921), Ravi",
+          "6 Granaries in two rows, red sandstone torso, workmen quarters.",
+          "First site discovered; citadel and lower town gridiron planning."
+        ],
+        [
+          "Mohenjo-daro (Sindh, Pakistan)",
+          "R.D. Banerjee (1922), Indus",
+          "Great Bath, Great Granary, Bronze Dancing Girl, Priest-King steatite head.",
+          "Metropolitan capital with multi-storeyed houses and individual soak pits."
+        ],
+        [
+          "Dholavira (Kutch, Gujarat)",
+          "R.S. Bisht (1990), Luni basin",
+          "Tripartite division (Citadel, Middle Town, Lower Town), 16 rock-cut reservoirs, 10-sign signboard.",
+          "UNESCO World Heritage Site; world's earliest advanced water conservation system."
+        ],
+        [
+          "Lothal (Saurashtra, Gujarat)",
+          "S.R. Rao (1954), Bhogava",
+          "Tidal dockyard basin, double burial, Persian Gulf button seal, terracotta rice husks.",
+          "Principal maritime port trading with Dilmun (Bahrain) and Makan (Oman)."
+        ],
+        [
+          "Kalibangan (Rajasthan)",
+          "A. Ghosh / B.B. Lal, Ghaggar",
+          "Ploughed field surface (furrow marks), fire altars, camel bones.",
+          "Earliest evidence of ploughed agriculture and pre-Harappan transition."
+        ],
+        [
+          "Rakhigarhi (Haryana)",
+          "Amarendra Nath / Vasant Shinde",
+          "Largest Harappan site (550+ hectares), granary, gold foundry, ancient DNA burials.",
+          "Confirms indigenous genetic continuity without Central Asian steppe admixture in Mature IVC."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Dimensions & Critical Analysis"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Urban Planning & Municipal Sanitation: Strict gridiron plan (chess-board pattern) with streets intersecting at right angles; underground covered drains flanked by inspection traps and soak pits.",
+        "Social Stratification & Crafts: Absence of royal palaces or military barracks; dominance of merchant-artisan guilds; lapidary bead-making at Chanhudaro; shell-working at Balakot.",
+        "Religion & Ritual Practices: Iconography of Proto-Shiva (Pashupati seal flanked by elephant, tiger, rhino, buffalo, and deer beneath the seat), Mother Goddess terracotta figurines, phallic lingam stones, pipal tree veneration, and unicorn motifs.",
+        "Decline Dynamics: Multi-causal transformation rather than abrupt Aryan massacre; drying of Saraswati/Ghaggar system, shifting monsoons, ecological degradation, tectonic river blockages, and collapse of Mesopotamian trade."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Analyze the urban morphology and water management systems of the Indus Valley Civilization. How do archaeological discoveries at Dholavira and Lothal showcase Harappan hydraulic engineering? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Detail gridiron layout, division into citadel and lower town, burnt brick standardization (1:2:4 ratio); explain Dholavira's hydraulic cascade: 16 bunded check-dams and reservoirs carved into bedrock conserving seasonal storm runoffs; examine Lothal's trapezoidal dockyard connected via sluice gate to the tidal Bhogava river, enabling cargo navigation during high tides; conclude on sustainability lessons for 21st-century urban drainage."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which Indus Valley Civilization site features a unique tripartite urban classification consisting of a Citadel, a Middle Town, and a Lower Town?\n(a) Mohenjo-daro\n(b) Kalibangan\n(c) Dholavira\n(d) Banawali\nCorrect Answer: (c) Dholavira [Explanation: Unlike most Harappan settlements divided into two zones, Dholavira in Kutch is divided into three distinct fortified sectors: Citadel, Middle Town, and Lower Town, accompanied by an elaborate water-harvesting reservoir system.]",
+        "Q2. The famous 'Pashupati Seal' discovered at Mohenjo-daro depicts a horned yogic figure surrounded by which group of four animals?\n(a) Elephant, Tiger, Rhinoceros, Buffalo\n(b) Lion, Tiger, Elephant, Bull\n(c) Horse, Elephant, Bull, Rhinoceros\n(d) Tiger, Lion, Horse, Deer\nCorrect Answer: (a) Elephant, Tiger, Rhinoceros, Buffalo [Explanation: The Pashupati (Proto-Shiva) seal shows a three-faced seated deity surrounded by an elephant, tiger, rhinoceros, and water buffalo, with two deer depicted below his stool.]",
+        "Q3. The earliest archaeological evidence of an agricultural field ploughed with criss-cross furrows was discovered at which Harappan site?\n(a) Harappa\n(b) Kalibangan\n(c) Lothal\n(d) Chanhudaro\nCorrect Answer: (b) Kalibangan [Explanation: Excavations at Kalibangan in Rajasthan revealed a pre-Harappan ploughed agricultural field with grid furrow lines showing simultaneous dual-crop cultivation (mustard and gram).]",
+        "Q4. In cuneiform inscriptions of the Akkadian Empire in ancient Mesopotamia, which geographical term was used to denote the Indus Valley region?\n(a) Magan\n(b) Dilmun\n(c) Meluhha\n(d) Punt\nCorrect Answer: (c) Meluhha [Explanation: Akkadian and Sumerian texts refer to maritime commerce with Meluhha (Indus region), Dilmun (Bahrain, trade intermediary), and Magan (Oman peninsula).]",
+        "Q5. At which Harappan site was an exclusive craft workshop for bead manufacturing, devoid of any fortified citadel, excavated?\n(a) Chanhudaro\n(b) Surkotada\n(c) Kot Diji\n(d) Alamgirpur\nCorrect Answer: (a) Chanhudaro [Explanation: Chanhudaro in Sindh was a dedicated industrial and craft township without a protective citadel, specializing in steatite bead-making, seal carving, and shell ornaments.]"
+      ]
+    }
+  ],
+  "word_count": 759,
+  "estimated_read_time_mins": 4,
+  "file_name": "01_indus_valley_civilization.json",
+  "folder": "01_History_and_Culture_India"
+}
