@@ -1,0 +1,177 @@
+{
+  "topic_id": "APPSC-G1-ECON-06",
+  "subject_code": "06_Economy_India_and_AP",
+  "subject_title": "Economy and Development of India and Andhra Pradesh",
+  "paper": "Paper-IV (Mains) & Paper-I Section-C (Screening)",
+  "topic_title": "Industrial Development, 1991 Economic Reforms, MSMEs, Make in India, Industrial Corridors & AP Ports",
+  "syllabus_mapping": "Industrial Development and Infrastructure: Evolution of Industrial Policy in India (1948, 1956, and 1991 New Industrial Policy) - Public Sector Enterprises and Disinvestment policy - Micro, Small and Medium Enterprises (MSMEs): Classification, role, challenges, and government initiatives - Make in India, Production Linked Incentive (PLI) Scheme, National Manufacturing Policy - Infrastructure: National Infrastructure Pipeline (NIP), PM Gati Shakti National Master Plan - Industrial Development in Andhra Pradesh: AP Industrial Development Policy, Ease of Doing Business (EoDB) track record, Visakhapatnam-Chennai Industrial Corridor (VCIC), Chennai-Bengaluru Industrial Corridor (CBIC), Hyderabad-Bengaluru Industrial Corridor (HBIC), Special Economic Zones (SEZs), Ports development (Visakhapatnam Major Port, Krishnapatnam, Gangavaram, Ramayapatnam, Bhavanapadu/Mulapeta).",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Industrial Architecture, Structural Reforms, MSME Resilience, Infrastructure Megaprojects, and Andhra Pradesh's Maritime Corridors"
+    },
+    {
+      "type": "paragraph",
+      "text": "Industrial development serves as the engine of structural transformation, technological innovation, and productive employment absorption. In India, the industrial trajectory underwent a watershed transformation with the 1991 New Industrial Policy (LPG reforms). Andhra Pradesh, gifted with India's second-longest coastline (974 km), is strategically positioned as India's eastern maritime gateway through heavy industrial corridors and port-led development."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/VizagPort.jpg",
+      "caption": "Visakhapatnam Port, one of India's premier major ports handling container, mineral, and petroleum cargo, spearheading Andhra Pradesh's maritime industrialization.",
+      "alt_text": "Visakhapatnam Major Port docks and container cargo handling"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Industrial Policy Evolution: From Licence Raj to 1991 LPG Reforms"
+    },
+    {
+      "type": "table",
+      "caption": "Evolutionary Milestones in Indian Industrial Policies",
+      "headers": [
+        "Industrial Policy Resolution",
+        "Core Philosophy & Institutional Architecture",
+        "Key Economic Outcomes & Structural Distortions"
+      ],
+      "rows": [
+        [
+          "IPR 1948",
+          "Mixed economy framework; state assumed guiding role; divided industries into 4 categories.",
+          "Initiated planned industrialization under state surveillance."
+        ],
+        [
+          "IPR 1956 ('Economic Constitution of India')",
+          "Mahalanobis model prioritizing heavy, capital-goods industries; Schedule A (17 industries under state monopoly), Schedule B (state-led), Schedule C (private sector).",
+          "Created robust heavy industrial base (steel, power, machine tools), but fostered an inefficient Public Sector, technological obsolescence, and the restrictive 'Licence-Permit-Quota Raj'."
+        ],
+        [
+          "New Industrial Policy (NIP) 1991",
+          "Liberalization, Privatization, and Globalization (LPG); abolished Industrial Licensing for almost all sectors (retained only for 4 hazardous/defense industries); opened up FDI up to 100% on automatic route; dismantled MRTP limits; dereserved public sector monopolies (now limited to atomic energy and railway operations).",
+          "Fostered private enterprise, competitive domestic auto and telecom markets, influx of foreign technology and FDI; but saw stagnant manufacturing share in GDP (~15%) and persistent Chinese import dependence."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. MSME Sector: Classification and Policy Interventions"
+    },
+    {
+      "type": "table",
+      "caption": "Revised Composite MSME Classification (Post-2020 Atmanirbhar Bharat)",
+      "headers": [
+        "Enterprise Category",
+        "Investment in Plant & Machinery / Equipment",
+        "Annual Turnover Limit",
+        "Socio-Economic Significance"
+      ],
+      "rows": [
+        [
+          "Micro Enterprise",
+          "Not more than \u20b91 Crore",
+          "Not more than \u20b95 Crore",
+          "Absorbs highest rural/urban unorganized labor; supported via PM Vishwakarma, MUDRA loans (Shishu, Kishore)."
+        ],
+        [
+          "Small Enterprise",
+          "Not more than \u20b910 Crore",
+          "Not more than \u20b950 Crore",
+          "Crucial supplier tier for automotive, garments, pharma, and precision engineering."
+        ],
+        [
+          "Medium Enterprise",
+          "Not more than \u20b950 Crore",
+          "Not more than \u20b9250 Crore",
+          "Drivers of exports and high-tech manufacturing; integrated with global supply chains."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Flagship Manufacturing Programs: PLI Scheme & PM Gati Shakti"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Production Linked Incentive (PLI) Scheme: Financial incentive of 4% to 6% on incremental sales over base year across 14 key sectors (Electronics, Pharma, Telecom, Auto, Solar PV, Batteries) with total outlay exceeding \u20b91.97 lakh crore; successfully catalyzed mobile phone manufacturing exports (Apple iPhone ecosystem in India).",
+        "PM Gati Shakti National Master Plan: A digital GIS-based platform integrating 16 central ministries (Railways, Roadways, Ports, Telecom, Petroleum) for coordinated multimodal infrastructure planning, eliminating bureaucratic silos and project cost overruns.",
+        "National Infrastructure Pipeline (NIP): Joint investment roadmap of \u20b9111 lakh crore across energy, roads, railways, and urban infrastructure funded jointly by Centre (39%), States (40%), and Private sector (21%)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Andhra Pradesh Industrial Landscape: Corridors, Ports & Ease of Doing Business"
+    },
+    {
+      "type": "table",
+      "caption": "Strategic Industrial Infrastructure Assets of Andhra Pradesh",
+      "headers": [
+        "Industrial Infrastructure Pillar",
+        "Geographical Coverage & Node Locations",
+        "Competitive Advantage & Growth Impact"
+      ],
+      "rows": [
+        [
+          "Visakhapatnam-Chennai Industrial Corridor (VCIC)",
+          "First coastal corridor in India funded by Asian Development Bank (ADB); Nodes: Visakhapatnam, Machilipatnam, Donakonda, and Srikalahasti-Yerpedu.",
+          "Integrates coastal ports with petrochemicals, aerospace, defense, textiles, and auto clusters; connects AP into ASEAN supply chains."
+        ],
+        [
+          "Chennai-Bengaluru Industrial Corridor (CBIC) & HBIC",
+          "Krishnapatnam node in Nellore (CBIC); Orvakal node in Kurnool (Hyderabad-Bengaluru Industrial Corridor).",
+          "Capitalizes on proximity to Chennai and Bengaluru mega-markets; designated for electronics, defense aviation, and green hydrogen."
+        ],
+        [
+          "Port-Led Development (Maritime Hub)",
+          "1 Major Port: Visakhapatnam Port; Non-Major Ports: Gangavaram, Krishnapatnam, Kakinada; Greenfield Ports under execution: Ramayapatnam, Machilipatnam, Mulapeta (Bhavanapadu).",
+          "State handles >15% of national cargo traffic; deep-water draft capable of docking Capesize vessels; critical for coal, iron ore, container, and LNG shipments."
+        ],
+        [
+          "Ease of Doing Business (EoDB)",
+          "AP consistently ranked among Top Achievers in Business Reform Action Plan (BRAP) by DPIIT.",
+          "Single-desk portal, deemed approvals, time-bound industrial land allocations via APIIC, and investor-friendly industrial policies."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Evaluate the key pillars of the New Industrial Policy (NIP) of 1991. To what extent did it succeed in making Indian manufacturing globally competitive? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Detail the four pillars of NIP 1991: industrial delicensing, public sector dereservation, automatic FDI approvals, and MRTP abolition; examine achievements: rapid growth in consumer durables, auto component manufacturing, IT software services, and telecom revolution; evaluate limitations: persistent low share of manufacturing in GDP (~15%), high logistics friction (12-14% of GDP), failure to generate mass low-skill employment, and high import dependence on China for active pharmaceutical ingredients (APIs) and solar cells; discuss remedial push through Make in India and PLI schemes.",
+        "Analyze the role of port-led industrialization and coastal economic zones in the economic transformation of Andhra Pradesh. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Highlight AP's 974 km coastline and strategic proximity to Southeast Asian shipping lanes; detail existing port infrastructure (Visakhapatnam, Gangavaram, Krishnapatnam) and greenfield developments (Ramayapatnam, Mulapeta, Machilipatnam); explain the concept of Port-Led Development under the Sagarmala initiative and its synergy with VCIC; analyze economic benefits: reduction in turnaround time, massive cargo export growth, attracting bulk petrochemical, steel, and pharma investments in coastal SEZs; highlight environmental and coastal erosion risks.",
+        "Explain the revised composite classification of Micro, Small, and Medium Enterprises (MSMEs) introduced in 2020. What are the key bottlenecks faced by MSMEs in accessing credit and technology? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define the twin criteria of investment in plant & machinery and annual turnover for Micro, Small, and Medium units; contrast with the earlier separate classification for manufacturing and service units; analyze persistent bottlenecks: delayed payments by large corporate buyers and government agencies (MSME Samadhaan portal), collateral-demanding banking culture, lack of access to equity capital, and technological obsolescence; outline government support: Emergency Credit Line Guarantee Scheme (ECLGS), TReDS discounting platform, and Udyam registration."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Under the revised composite classification of MSMEs effective from 1st July 2020, what is the maximum investment and turnover ceiling for a 'Small Enterprise'?\n(a) Investment up to \u20b95 Crore and Turnover up to \u20b925 Crore\n(b) Investment up to \u20b910 Crore and Turnover up to \u20b950 Crore\n(c) Investment up to \u20b920 Crore and Turnover up to \u20b9100 Crore\n(d) Investment up to \u20b950 Crore and Turnover up to \u20b9250 Crore\nCorrect Answer: (b) Investment up to \u20b910 Crore and Turnover up to \u20b950 Crore [Explanation: A Small Enterprise is defined as having investment in plant and machinery up to \u20b910 crore and annual turnover up to \u20b950 crore.]",
+        "Q2. The Visakhapatnam-Chennai Industrial Corridor (VCIC), India's first coastal industrial corridor, is financially assisted primarily by which international institution?\n(a) World Bank\n(b) Asian Development Bank (ADB)\n(c) Asian Infrastructure Investment Bank (AIIB)\n(d) New Development Bank (NDB)\nCorrect Answer: (b) Asian Development Bank (ADB) [Explanation: The Asian Development Bank (ADB) is the lead multilateral partner providing technical and loan assistance for the Visakhapatnam-Chennai Industrial Corridor (VCIC).]",
+        "Q3. How many industries are currently reserved exclusively for the public sector under the New Industrial Policy?\n(a) None\n(b) Two (Atomic Energy and Railway Operations)\n(c) Four\n(d) Eight\nCorrect Answer: (b) Two (Atomic Energy and Railway Operations) [Explanation: At present, only two industrial sectors remain reserved exclusively for the public sector: Atomic Energy and Railway Operations (specifically core rail operations).]",
+        "Q4. Which greenfield non-major port is being developed by the Government of Andhra Pradesh in Srikakulam district?\n(a) Ramayapatnam Port\n(b) Machilipatnam Port\n(c) Mulapeta (Bhavanapadu) Port\n(d) Gangavaram Port\nCorrect Answer: (c) Mulapeta (Bhavanapadu) Port [Explanation: Mulapeta (formerly known as Bhavanapadu) port is being developed as a greenfield port in Srikakulam district.]",
+        "Q5. PM Gati Shakti National Master Plan was launched in October 2021 primarily to:\n(a) Provide subsidized credit to MSMEs\n(b) Integrate multi-modal infrastructure planning across 16 central ministries using GIS mapping\n(c) Privatize loss-making central public sector enterprises\n(d) Establish special economic zones in backward districts\nCorrect Answer: (b) Integrate multi-modal infrastructure planning across 16 central ministries using GIS mapping [Explanation: PM Gati Shakti is a digital GIS platform integrating 16 infrastructure ministries to coordinate multimodal connectivity and reduce logistics friction.]"
+      ]
+    }
+  ]
+}

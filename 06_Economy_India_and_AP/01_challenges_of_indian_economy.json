@@ -1,0 +1,182 @@
+{
+  "topic_id": "APPSC-G1-ECON-01",
+  "subject_code": "06_Economy_India_and_AP",
+  "subject_title": "Economy and Development of India and Andhra Pradesh",
+  "paper": "Paper-IV (Mains) & Paper-I Section-C (Screening)",
+  "topic_title": "Major Macroeconomic Challenges: Inconsistent Growth, Inflation, CAD, NPAs & Black Money",
+  "syllabus_mapping": "Major Challenges of Indian Economy - Inconsistent growth rate, Low growth rates of agriculture and manufacturing sectors, inflation and oil prices, current account deficit and unfavorable balance of payments, falling rupee value, growing NPAs and capital infusion - money laundering and black money - Insufficient financial resources and deficiency of capital, Lack of Inclusive growth and Sustainable development - Nature, causes, consequences and solutions of these problems.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Macroeconomic Challenges of the Indian Economy: Structural Faultlines, Inflation Dynamics, External Sector Vulnerabilities, and Financial Sector Stress"
+    },
+    {
+      "type": "paragraph",
+      "text": "While India has emerged as the world's fifth-largest economy and the fastest-growing major economy, it confronts deep-seated macroeconomic and structural challenges. These encompass uneven sectoral growth characterized by prematurely de-industrialized manufacturing, persistent food and crude oil inflation, Current Account Deficit (CAD) pressures, banking sector Non-Performing Assets (NPAs), illicit black money flows, and deficient capital formation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Sectoral Growth Disparities & Premature De-industrialization"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike classical structural transformation models (Kuznets-Lewis hypothesis) where labor migrates smoothly from agriculture to manufacturing and then to services, the Indian economy experienced a direct transition from agriculture to services:"
+    },
+    {
+      "type": "table",
+      "caption": "Sectoral Composition of Indian GVA and Employment Shares (2024–2026)",
+      "headers": ["Economic Sector", "Share in National GVA (%)", "Share in Total Employment (%)", "Structural Imbalance / Growth Bottleneck"],
+      "rows": [
+        [
+          "Agriculture & Allied Sector",
+          "~15% – 16%",
+          "~45% – 46%",
+          "Acute disguised unemployment and low labor productivity; subsistence farming vulnerable to climate shocks and monsoon vagaries."
+        ],
+        [
+          "Industry (Manufacturing, Mining, Power, Construction)",
+          "~28% – 29% (Manufacturing alone ~14%–15%)",
+          "~25%",
+          "Stagnant manufacturing GVA share despite 'Make in India' (target was 25% of GDP); hampered by inverted duty structures, logistics costs (~12-14% of GDP), and high cost of capital."
+        ],
+        [
+          "Services Sector",
+          "~54% – 55%",
+          "~29% – 30%",
+          "High-productivity, skill-intensive IT and financial services driving GDP growth, but incapable of absorbing low-skilled rural farm labor."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Inflation Dynamics and Crude Oil Price Vulnerability"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Headline vs. Core Inflation: Headline Consumer Price Index (CPI) inflation is heavily influenced by volatile food and beverages (~45.86% weight in CPI basket) and fuel. Core Inflation (excluding volatile food and fuel) reflects underlying demand pressures.",
+        "Imported Inflation & Crude Oil Dependence: India imports over 85–88% of its domestic crude oil requirements. Every $10/barrel surge in global Brent crude increases India's Current Account Deficit by ~0.4%–0.5% of GDP, stokes domestic transport inflation, depreciates the Rupee, and widens fuel subsidy/fiscal burdens.",
+        "Monetary Policy Framework: Under the 2016 RBI Act amendment, the Monetary Policy Committee (MPC) operates under a flexible inflation targeting mandate of 4% (+/- 2% tolerance band) anchored on CPI Headline inflation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. External Sector Vulnerabilities: CAD, Balance of Payments & Rupee Depreciation"
+    },
+    {
+      "type": "table",
+      "caption": "External Sector Faultlines in the Indian Economy",
+      "headers": ["Macroeconomic Variable", "Structural Mechanism", "Economic Impact & Policy Interventions"],
+      "rows": [
+        [
+          "Current Account Deficit (CAD)",
+          "Merchandise trade deficit (imports heavily exceeding exports of oil, gold, electronics) offset only partially by software services exports and remittances.",
+          "Sustainable CAD threshold is considered ~2.0%–2.5% of GDP. Breaching this threshold strains foreign exchange reserves and triggers exchange rate depreciation."
+        ],
+        [
+          "Rupee Depreciation Against US Dollar",
+          "Driven by US Federal Reserve rate hikes, global capital flight to safe-haven assets, high domestic merchandise deficits, and crude oil import bills.",
+          "Makes imported crude, electronics, and fertilizer more expensive; inflates foreign currency external debt repayments of Indian corporates; enhances competitiveness of IT and textile exports."
+        ],
+        [
+          "Balance of Payments (BoP)",
+          "Autonomous capital inflows (FDI, FPI, External Commercial Borrowings - ECBs) finance the current account deficit.",
+          "High reliance on volatile Foreign Portfolio Investment (FPI / 'hot money') exposes the Indian economy to sudden capital flight risks during global financial tightening."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Banking Sector Stress: Non-Performing Assets (NPAs) & Capital Infusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Indian banking sector, particularly Public Sector Banks (PSBs), endured a prolonged 'Twin Balance Sheet Challenge' (over-leveraged corporate borrowers alongside stressed banks):"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Genesis of NPAs: Aggressive lending during 2004–2008 boom to infrastructure, power, steel, and real estate; followed by project delays, environmental cancellations (coal blocks cancellation in 2014), cost overruns, and aggressive corporate debt restructuring (evergreening of bad loans).",
+        "Asset Quality Review (AQR, 2015): RBI under Raghuram Rajan forced banks to recognize hidden non-performing assets, pushing Gross NPAs of PSBs to a historic peak of 11.5% in 2018.",
+        "Resolution via IBC (Insolvency and Bankruptcy Code, 2016): Created a creditor-in-control, time-bound (330-day) insolvency resolution framework adjudicated by the National Company Law Tribunal (NCLT); dismantled the debtor-friendly regime.",
+        "National Asset Reconstruction Company Ltd (NARCL / 'Bad Bank'): Established in 2021 to aggregate and acquire stressed loan assets above ₹500 crore from commercial banks to expedite resolution.",
+        "Recapitalization & Recovery: Government infused over ₹3.1 lakh crore into PSBs between 2017 and 2022 alongside 4R Strategy (Recognition, Resolution, Recapitalization, and Reforms); successfully brought Gross NPAs down to multi-year lows below 3.0% by 2024–2026."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Illicit Financial Flows: Black Money & Money Laundering"
+    },
+    {
+      "type": "table",
+      "caption": "Institutional Countermeasures Against Black Money and Money Laundering",
+      "headers": ["Legislative / Institutional Measure", "Enacting Statute & Agency", "Operational Mechanism & Global Compliance"],
+      "rows": [
+        [
+          "Prevention of Money Laundering Act (PMLA), 2002",
+          "Enforced by Directorate of Enforcement (ED)",
+          "Confiscates properties derived from scheduled predicate crimes; places burden of proof on the accused (Section 24); stringent twin conditions for bail (Section 45) upheld in Vijay Madanlal Choudhary (2022)."
+        ],
+        [
+          "Black Money (Undisclosed Foreign Income & Assets) Act, 2015",
+          "CBDT / Income Tax Department",
+          "Imposes 30% tax and 90% penalty on undisclosed overseas bank accounts and properties, along with rigorous imprisonment up to 10 years."
+        ],
+        [
+          "Benami Transactions (Prohibition) Amendment Act, 2016",
+          "Income Tax Department / Adjudicating Authority",
+          "Confiscation of benami properties without compensation; rigorous imprisonment up to 7 years."
+        ],
+        [
+          "Financial Action Task Force (FATF) Compliance",
+          "Financial Intelligence Unit - India (FIU-IND)",
+          "Monitors Cash Transaction Reports (CTRs) and Suspicious Transaction Reports (STRs) across banking systems; placed in FATF 'Regular Follow-up' category in 2024."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Explain the phenomenon of 'Premature De-industrialization' in the Indian context. Why has the manufacturing sector failed to absorb surplus rural labor migrating out of agriculture? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define premature de-industrialization as the stagnation of manufacturing share in GDP (~14-16%) at a much lower per-capita income level than historical East Asian economies; explain the missing structural transition directly toward services; analyze root causes: high cost of logistics (12-14% of GDP), land acquisition hurdles, rigid labor regulations (addressed recently via Labour Codes), inverted duty tariffs, and lack of basic vocational skills; suggest strategic remedies: PLI (Production Linked Incentive) scheme expansion, industrial corridors (like VCIC), MSME credit guarantees, and port-led export manufacturing.",
+        "Critically analyze the efficacy of the Insolvency and Bankruptcy Code (IBC), 2016 in resolving the Non-Performing Assets (NPA) crisis in the Indian banking system. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contextualize the failure of previous recovery mechanisms (SARFAESI, DRTs, CDR); detail IBC's paradigm shift to a 'creditor-in-control' model and Corporate Insolvency Resolution Process (CIRP) under NCLT; evaluate achievements: behavioral change among corporate promoters (promoter disqualification under Section 29A), recovery of over ₹3 lakh crore, liquidation of unviable debt; analyze operational deficiencies: severe hair-cuts exceeding 70-80% in many cases, NCLT judicial vacancy backlogs delaying resolution far beyond the statutory 330-day limit; conclude on how IBC alongside NARCL (Bad Bank) rehabilitated bank balance sheets.",
+        "What are the major drivers of the Current Account Deficit (CAD) in India? How do global crude oil price shocks impact the Rupee exchange rate and domestic inflation? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define CAD as the net deficit of merchandise trade, services trade, and unilateral transfers; analyze primary structural components: inelastic demand for imported crude oil (85% dependent), electronic hardware imports from China, and gold consumption; trace the macroeconomic transmission mechanism of a global crude spike: widening merchandise trade deficit -> increased dollar demand depreciating the INR -> imported inflation inflating CPI transport and food baskets -> widening fiscal deficit due to LPG/fertilizer subsidies; discuss long-term resilience strategies: renewable energy transition, ethanol blending (E20), and local currency rupee trade settlements."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Under the Flexible Inflation Targeting framework adopted by the Reserve Bank of India, what is the official target for Consumer Price Index (CPI) Headline Inflation?\n(a) 3% with a tolerance band of +/- 1%\n(b) 4% with a tolerance band of +/- 2%\n(c) 5% with a tolerance band of +/- 1.5%\n(d) 6% with no tolerance band\nCorrect Answer: (b) 4% with a tolerance band of +/- 2% [Explanation: Section 45ZA of the RBI Act fixes the inflation target at 4% with an upper tolerance limit of 6% and a lower tolerance limit of 2%.]",
+        "Q2. What is the statutory time limit prescribed under the Insolvency and Bankruptcy Code (IBC), 2016 for completing the Corporate Insolvency Resolution Process (CIRP), including legal litigation?\n(a) 180 days\n(b) 270 days\n(c) 330 days\n(d) 365 days\nCorrect Answer: (c) 330 days [Explanation: An amendment in 2019 introduced a mandatory overall deadline of 330 days, including time taken in legal proceedings, for the completion of CIRP under the IBC.]",
+        "Q3. The 'Bad Bank' established in India in 2021 to take over and resolve stressed non-performing assets above ₹500 crore from commercial banks is formally named:\n(a) State Asset Reconstruction Agency (SARA)\n(b) National Asset Reconstruction Company Limited (NARCL)\n(c) Bharat Resolution Corporation (BRC)\n(d) Public Sector Asset Trust (PSAT)\nCorrect Answer: (b) National Asset Reconstruction Company Limited (NARCL) [Explanation: NARCL was incorporated in July 2021 as the designated bad bank to aggregate stressed assets above ₹500 crore from public sector banks.]",
+        "Q4. Which central investigative agency is entrusted with the enforcement of the Prevention of Money Laundering Act (PMLA), 2002?\n(a) Central Bureau of Investigation (CBI)\n(b) Directorate of Enforcement (ED)\n(c) Serious Fraud Investigation Office (SFIO)\n(d) National Investigation Agency (NIA)\nCorrect Answer: (b) Directorate of Enforcement (ED) [Explanation: The Directorate of Enforcement (ED) under the Department of Revenue, Ministry of Finance, is the sole specialized financial agency responsible for investigating offenses under PMLA, 2002.]",
+        "Q5. Which economic sector currently contributes the highest share (exceeding 54%) to India's Gross Value Added (GVA)?\n(a) Agriculture & Allied Sector\n(b) Manufacturing Sector\n(c) Services Sector\n(d) Mining and Quarrying\nCorrect Answer: (c) Services Sector [Explanation: The services sector (trade, transport, finance, IT, communication) constitutes the largest component of India's GVA, contributing over 54–55% to national output.]"
+      ]
+    }
+  ]
+}

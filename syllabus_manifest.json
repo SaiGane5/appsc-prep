@@ -1,0 +1,409 @@
+{
+  "exam": "APPSC Group-1 Services 2026-2027",
+  "notification": "Notification No. 07/2026, Dated: 06/10/2026",
+  "screening_date": "24/01/2027",
+  "structure": {
+    "total_subjects": 8,
+    "total_topics": 58,
+    "completed_topics": 58,
+    "progress_percentage": "100.0%"
+  },
+  "subjects": [
+    {
+      "folder": "01_History_and_Culture_India",
+      "paper": "Mains Paper-II (Section A) & Screening Paper-I (Section A)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_ancient_india_ivc_vedic_mauryas_guptas.json",
+          "title": "Indus Valley, Vedic Age, Mahajanapadas, Magadha, Mauryas, Foreign Invasions, Kushans, Satavahanas, Sangam Age, Sungas & Guptas",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_kanauj_and_south_indian_dynasties.json",
+          "title": "Kanauj & Post-Gupta Era, South Indian Dynasties: Badami & Eastern Chalukyas, Rashtrakutas, Kalyani Chalukyas, Cholas, Hoysalas, Yadavas, Kakatiyas & Reddis",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_delhi_sultanate_vijaynagar_mughals_bhakti_sufi.json",
+          "title": "Delhi Sultanate, Vijayanagar Empire, Mughal Empire, Bhakti Movement & Sufism",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_european_trading_companies_supremacy_viceroys.json",
+          "title": "European Trading Companies, Struggle for Colonial Supremacy & Governor-Generals and Viceroys",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_1857_revolt_social_reforms_freedom_movement_revolutionaries.json",
+          "title": "1857 Revolt, 19th Century Socio-Religious Reforms, Freedom Movement & Revolutionaries in India and Abroad",
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "file": "06_gandhi_patel_bose_ambedkar_constitution_reorganization.json",
+          "title": "Mahatma Gandhi, Sardar Patel, Subash Chandra Bose, Dr. B.R. Ambedkar, Constitution Making & States Reorganization",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "02_History_and_Culture_AP",
+      "paper": "Mains Paper-II (Section B)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_ancient_andhra_dynasties.json",
+          "title": "Satavahanas, Ikshvakus, Salankayanas, Vishnukundins, Pallavas, Buddhism & Jainism in Andhra",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_medieval_andhra_kakatiyas_vijayanagara_qutubshahis.json",
+          "title": "Eastern Chalukyas, Kakatiyas, Reddis, Vijayanagara Empire & Qutub Shahis; Telugu Language & Literature",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_modern_andhra_company_rule_reformers.json",
+          "title": "European Settlements, Company Rule, Zamindari/Poligar System, Social Reformers (Veeresalingam, Gurajada, Raghupati)",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_nationalist_movement_in_andhra.json",
+          "title": "Freedom Movement in AP, Alluri Sitarama Raju, Andhra Mahasabha, Formation of Andhra State (1953) & AP (1956)",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_andhra_pradesh_bifurcation_2014.json",
+          "title": "Bifurcation of AP 2014: Administrative, Economic, Capital Building, Resource Loss, and AP Reorganisation Act Provisions",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "03_Geography_India_and_AP",
+      "paper": "Mains Paper-II (Section C) & Screening Paper-I (Section D)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_general_and_physical_geography.json",
+          "title": "General & Physical Geography: Earth, Climate, Oceans, Landforms, Rivers and Geology of India & AP",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_economic_geography.json",
+          "title": "Economic Geography: Agriculture, Livestock, Mining, Industries, Transport and Trade",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_social_geography_demographics.json",
+          "title": "Social Geography: Population Distribution, Density, Literacy, Urbanization, Tribes & Migration",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_fauna_floral_geography.json",
+          "title": "Faunal and Floral Geography: Forest Types, Wildlife, Biodiversity Parks & Sanctuaries",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_environmental_geography_disasters.json",
+          "title": "Environmental Geography: Natural Hazards, Cyclones, Floods, Disaster Management & Pollution",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "04_Polity_Constitution_Governance",
+      "paper": "Mains Paper-III (Sections A & B) & Screening Paper-I (Section B)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_constitutional_framework_fundamental_rights.json",
+          "title": "Indian Constitution: Preamble, Fundamental Rights, Duties, DPSP, Basic Structure & Amendments",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_federal_structure_union_state_relations.json",
+          "title": "Federalism: Union-State Relations, Governor's Role, Legislative Lists and Devolution Challenges",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_local_governance_73rd_74th_amendments.json",
+          "title": "Panchayati Raj & Urban Local Governance (73rd & 74th Amendments), Constitutional Authorities",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_parliament_and_state_legislatures.json",
+          "title": "Union Parliament & State Legislatures: Structure, Powers, Procedures, and Privileges",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_judiciary_and_constitutional_provisions.json",
+          "title": "Judicial System: Structure, Judicial Review, PIL, Emergency Provisions and Judicial Activism",
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "file": "06_public_administration_evolution.json",
+          "title": "Public Administration: Meaning, Kautilya's Arthashastra, Mughal Administration & British Legacy",
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "file": "07_civil_society_and_statutory_bodies.json",
+          "title": "Civil Society, NGOs, Statutory, Regulatory & Quasi-Judicial Bodies, Role of Civil Services",
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "file": "08_good_governance_and_egovernance.json",
+          "title": "Good Governance: E-Governance, Citizen's Charter, RTI Act, Public Service Act, Social Audit",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "05_Ethics_and_Law",
+      "paper": "Mains Paper-III (Section C)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_ethics_human_interface_values.json",
+          "title": "Ethics & Human Interface: Essence, Determinants, Dimensions, Private vs Public Ethics",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_human_values_attitude_emotional_intelligence.json",
+          "title": "Human Values, Attitude, Social Persuasion, Emotional Intelligence in Administration",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_public_service_ethics_codes_conduct_anticorruption.json",
+          "title": "Codes of Conduct, Codes of Ethics, Work Culture, Lokpal, Lokayukta and Anti-Corruption",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_basic_knowledge_civil_criminal_labour_laws.json",
+          "title": "Civil & Criminal Laws, Substantive vs Procedural Laws, Court Hierarchy, Nirbhaya Act, Labour Laws",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_cyber_and_tax_laws.json",
+          "title": "Cyber Laws (IT Act, Cyber Security), Tax Laws (Direct Taxes, Corporate Tax, GST Framework)",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "06_Economy_India_and_AP",
+      "paper": "Mains Paper-IV & Screening Paper-I (Section C)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_challenges_of_indian_economy.json",
+          "title": "Major Challenges: Low Growth, Inflation, CAD, Rupee Depreciation, NPAs, Black Money & Inclusive Growth",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_resource_mobilization_monetary_fiscal_policy.json",
+          "title": "Resource Mobilization: Tax/Non-Tax Revenue, Public Debt, FDI/FII, RBI Monetary & Fiscal Policy",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_government_budgeting_finance_commissions.json",
+          "title": "Government Budgeting: Deficits, Federal Finance, GST Impact, 16th Finance Commission Devolution",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_inclusive_growth_social_welfare.json",
+          "title": "Inclusive Growth: Poverty Eradication, Food Security, PDS, Financial Inclusion, DWCRA & AP Schemes",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_agriculture_and_rural_development_india_ap.json",
+          "title": "Agriculture Development: MSP, Swaminathan Commission, Rainbow Revolution, AP Cropping Patterns & Irrigation",
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "file": "06_industrial_development_infrastructure_india_ap.json",
+          "title": "Industrial Development & Infrastructure: 1991 Reforms, Make in India, MSMEs, AP Industrial Policy, SEZs & Corridors",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "07_Science_Technology_Environment",
+      "paper": "Mains Paper-V & Screening Paper-II (Section B)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_national_policies_science_institutes.json",
+          "title": "STI Policies, Major Research Institutes in AP & India, Contributions of Indian Scientists",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_ict_egovernance_cybersecurity.json",
+          "title": "Information & Communication Technology (ICT), E-Governance Systems, Cyber Crime Policy",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_space_programme_isro_drdo.json",
+          "title": "Indian Space Programme (ISRO Missions, IRNSS/NavIC, Remote Sensing) & DRDO Defense Technologies",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_energy_resources_nuclear_policy.json",
+          "title": "Energy Policy: Renewable Energy (Solar, Wind), Nuclear Energy Programme and India's Nuclear Doctrine",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_environmental_conservation_climate_change.json",
+          "title": "Environment & Climate Change: UNFCCC, Paris Agreement, Environmental Acts, Pollution Control & Waste Management",
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "file": "06_biotechnology_nanotechnology_health.json",
+          "title": "Biotechnology, Nanotechnology, Genetic Engineering, Vaccines, Human Microbial Diseases & IPR",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "folder": "08_General_Mental_and_Psychological_Abilities",
+      "paper": "Screening Paper-II (Section A)",
+      "topics": [
+        {
+          "order": 1,
+          "file": "01_logical_reasoning_and_analytical_ability.json",
+          "title": "Logical Reasoning, Analytical Ability, Syllogisms & Seating Arrangements",
+          "status": "completed"
+        },
+        {
+          "order": 2,
+          "file": "02_number_series_coding_decoding.json",
+          "title": "Number Series, Letter Series & Coding-Decoding",
+          "status": "completed"
+        },
+        {
+          "order": 3,
+          "file": "03_problems_related_to_relations.json",
+          "title": "Problems Related to Blood Relations & Family Tree Modelling",
+          "status": "completed"
+        },
+        {
+          "order": 4,
+          "file": "04_shapes_venn_diagrams.json",
+          "title": "Geometric Shapes, Sub-sections, Counting of Figures & Venn Diagrams",
+          "status": "completed"
+        },
+        {
+          "order": 5,
+          "file": "05_clocks_calendar_age_problems.json",
+          "title": "Problems on Clocks, Calendars & Quantitative Age Calculations",
+          "status": "completed"
+        },
+        {
+          "order": 6,
+          "file": "06_number_system_order_of_magnitude.json",
+          "title": "Number System, Divisibility Rules & Order of Magnitude",
+          "status": "completed"
+        },
+        {
+          "order": 7,
+          "file": "07_ratio_proportion_variation.json",
+          "title": "Ratio, Proportion, Direct/Inverse Variation & Mixtures",
+          "status": "completed"
+        },
+        {
+          "order": 8,
+          "file": "08_central_tendencies_mean_median_mode.json",
+          "title": "Central Tendencies: Mean, Median, Mode & Weighted Averages",
+          "status": "completed"
+        },
+        {
+          "order": 9,
+          "file": "09_powers_roots_hcf_lcm.json",
+          "title": "Powers & Exponents, Roots, HCF & LCM Algorithms",
+          "status": "completed"
+        },
+        {
+          "order": 10,
+          "file": "10_percentages_interest_profit_loss.json",
+          "title": "Percentages, Simple & Compound Interest, Profit, Loss & Discount",
+          "status": "completed"
+        },
+        {
+          "order": 11,
+          "file": "11_time_work_time_speed_distance.json",
+          "title": "Time & Work, Pipes & Cisterns, Speed, Distance & Relative Motion",
+          "status": "completed"
+        },
+        {
+          "order": 12,
+          "file": "12_mensuration_area_perimeter_volume.json",
+          "title": "Mensuration: Area, Perimeter, Surface Area & Volume of Solids",
+          "status": "completed"
+        },
+        {
+          "order": 13,
+          "file": "13_geometry_lines_angles_polygons.json",
+          "title": "Geometry: Lines, Angles, Triangles & Quadrilateral Properties",
+          "status": "completed"
+        },
+        {
+          "order": 14,
+          "file": "14_algebra_bodmas_simplification.json",
+          "title": "Algebra Fundamentals: BODMAS, Identities & Operator Simplifications",
+          "status": "completed"
+        },
+        {
+          "order": 15,
+          "file": "15_data_interpretation_sufficiency_probability.json",
+          "title": "Data Interpretation, Data Sufficiency & Elementary Probability",
+          "status": "completed"
+        },
+        {
+          "order": 16,
+          "file": "16_emotional_intelligence_stress_coping.json",
+          "title": "Emotional Intelligence: Dimensions, Empathy & Stress Coping",
+          "status": "completed"
+        },
+        {
+          "order": 17,
+          "file": "17_social_intelligence_decision_making_personality.json",
+          "title": "Social Intelligence, Decision Making, Critical Thinking & Personality Assessment",
+          "status": "completed"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Reset and Dark Grey Design System */
+:root {
+  --bg-base: #121316;
+  --bg-surface: #1a1b20;
+  --bg-surface-elevated: #22242c;
+  --bg-card: #1f2027;
+  --bg-hover: #2a2c36;
+  --border-subtle: #2d2f3a;
+  --border-strong: #3f4252;
+  --border-accent: #38bdf8;
+  
+  --text-primary: #ffffff;
+  --text-secondary: #e2e4ea;
+  --text-muted: #9ba1b0;
+  --text-dim: #6c7283;
+  
+  --accent-cyan: #38bdf8;
+  --accent-emerald: #34d399;
+  --accent-amber: #fbbf24;
+  --accent-rose: #f87171;
+  --accent-indigo: #818cf8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: var(--bg-base);
+  color: var(--text-secondary);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.7;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #14151a;
+}
+::-webkit-scrollbar-thumb {
+  background: #2e303d;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #414457;
+}
+
+/* Typography Scale */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary);
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: -0.02em;
+}
+
+/* Responsive Table Styling */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.75rem 0;
+  border-radius: 10px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.93rem;
+}
+
+.custom-table th {
+  background: #21232c;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.9rem 1.15rem;
+  border-bottom: 2px solid var(--border-strong);
+  white-space: nowrap;
+}
+
+.custom-table td {
+  padding: 0.85rem 1.15rem;
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+  vertical-align: top;
+  line-height: 1.55;
+}
+
+.custom-table tr:last-child td {
+  border-bottom: none;
+}
+
+.custom-table tr:hover td {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.table-caption {
+  padding: 0.75rem 1.15rem;
+  background: #1c1d25;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent-cyan);
+  border-bottom: 1px solid var(--border-subtle);
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.65rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.badge-cyan {
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--accent-cyan);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+}
+
+.badge-emerald {
+  background: rgba(52, 211, 153, 0.15);
+  color: var(--accent-emerald);
+  border: 1px solid rgba(52, 211, 153, 0.35);
+}
+
+.badge-amber {
+  background: rgba(251, 191, 36, 0.15);
+  color: var(--accent-amber);
+  border: 1px solid rgba(251, 191, 36, 0.35);
+}
+
+.badge-indigo {
+  background: rgba(129, 140, 248, 0.15);
+  color: var(--accent-indigo);
+  border: 1px solid rgba(129, 140, 248, 0.35);
+}
+
+/* Image Card */
+.image-card {
+  margin: 2rem 0;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.image-caption {
+  padding: 0.85rem 1.25rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border-subtle);
+  background: #1c1d25;
+}
+
+/* Interactive MCQ Buttons */
+.mcq-option-btn {
+  width: 100%;
+  text-align: left;
+  padding: 0.85rem 1.15rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.18s ease;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.mcq-option-btn:hover {
+  background: var(--bg-hover);
+  border-color: var(--border-strong);
+  color: var(--text-primary);
+}
+
+.mcq-option-btn.selected-correct {
+  background: rgba(52, 211, 153, 0.15);
+  border-color: var(--accent-emerald);
+  color: #a7f3d0;
+}
+
+.mcq-option-btn.selected-wrong {
+  background: rgba(248, 113, 113, 0.15);
+  border-color: var(--accent-rose);
+  color: #fecaca;
+}
+
+.mcq-option-btn.show-actual-correct {
+  border-color: var(--accent-emerald);
+  background: rgba(52, 211, 153, 0.1);
+}

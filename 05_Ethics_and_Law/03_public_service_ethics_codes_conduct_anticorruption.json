@@ -1,0 +1,156 @@
+{
+  "topic_id": "APPSC-G1-ETH-03",
+  "subject_code": "05_Ethics_and_Law",
+  "subject_title": "Ethics in Public Service and Knowledge of Law",
+  "paper": "Paper-III (Section C - Mains)",
+  "topic_title": "Public Service Ethics: Codes of Conduct, Leadership Ethics, Anti-Corruption, Lokpal & Lokayukta",
+  "syllabus_mapping": "Concept of Public Service, Philosophical basis of Governance, professional Ethics in the light of right understanding and Vision for Holistic Technologies, Codes of Ethics, codes of Conduct, RTI, Public Service Act, Leadership Ethics, Work culture, Ethical principles within an Organizational content. Ethical and moral values in governance, Ethical issues in international relations, corruption, Lokpal, Lokayukta.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Public Service Ethics: Professional Conduct, Organizational Work Culture, and Anti-Corruption Architecture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Public service is a public trust, requiring civil servants to execute authority with undivided loyalty to the constitutional ethos and societal welfare. Institutional integrity requires translating abstract moral ideals into enforceable administrative codes, fostering an ethical workplace culture, and empowering statutory anti-corruption watchdogs including the Central Vigilance Commission (CVC), Central Bureau of Investigation (CBI), Lokpal, and State Lokayuktas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Philosophical Foundations of Governance & Public Service Concept"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Trusteeship Doctrine (Mahatma Gandhi): Public servants and leaders are not owners of state authority or public wealth, but trustees holding power on behalf of the citizenry, obliged to use resources solely for the vulnerable (Sarvodaya and Antyodaya).",
+        "Yogakshema (Kautilya's Arthashastra): Governance exists to ensure the holistic welfare, material security, and spiritual well-being of the populace (Prajasukhe Sukham Rajnah).",
+        "Constitutional Morality (Dr. B.R. Ambedkar): Strict commitment to constitutional principles (liberty, equality, fraternity, due process) over narrow parochial loyalties, sectarian dogmas, or transient populist passions.",
+        "Social Contract Theory (John Locke & Rousseau): Political authority derives its legitimate mandate from the consent of the governed; any breach of public trust forfeits administrative legitimacy."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Code of Ethics vs. Code of Conduct"
+    },
+    {
+      "type": "table",
+      "caption": "Distinction Between Code of Ethics and Code of Conduct in Public Administration",
+      "headers": ["Dimension", "Code of Ethics (Value-Based)", "Code of Conduct (Rule-Based)"],
+      "rows": [
+        [
+          "Nature & Focus",
+          "Broad statement of foundational values, moral aspirations, and guiding ethical principles.",
+          "Specific, codified rules prescribing permissible behaviors and explicitly prohibiting certain actions."
+        ],
+        [
+          "Enforceability",
+          "Qualitative and inspirational; serves as a moral compass during discretionary dilemmas.",
+          "Strictly punitive and legally binding; breaches invite formal disciplinary inquiries and penal action."
+        ],
+        [
+          "Examples in Indian Civil Services",
+          "Nolan Principles: Selflessness, Integrity, Objectivity, Empathy for weaker sections, Public dedication.",
+          "All India Services (Conduct) Rules, 1968: Prohibits private trade, taking gifts over prescribed values, consumption of intoxicants in public, and participation in partisan political activities."
+        ],
+        [
+          "2nd ARC Recommendation",
+          "Recommended enacting a comprehensive 'Civil Services Bill' containing a statutory Code of Ethics alongside existing Conduct Rules.",
+          "Recommends rationalizing conduct rules to punish corruption severely while protecting bona fide administrative risk-taking."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Organizational Work Culture & Leadership Ethics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Work culture denotes the shared values, symbols, practices, and behavioral expectations within an administrative department:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Toxic Work Culture: Characterized by red tape, excessive hierarchy, fear of failure, siloed communication, sycophancy, buck-passing, and deep apathy toward citizen grievances.",
+        "High-Performance Ethical Work Culture: Characterized by transparent communication, meritocratic recognition, decentralized empowerment, psychological safety for innovation, collaborative teamwork, and a citizen-first service orientation.",
+        "Leadership Ethics: True administrative leaders lead by personal example (Lead from the front). They demonstrate ethical fortitude by resisting unlawful political interference, mentoring subordinates, taking personal accountability for departmental failures, and giving credit to the team for successes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Anti-Corruption Architecture: CVC, CBI, Lokpal, and Lokayukta"
+    },
+    {
+      "type": "table",
+      "caption": "Statutory Anti-Corruption Watchdogs in India: Powers, Composition, and Jurisdiction",
+      "headers": ["Anti-Corruption Body", "Statutory Origin & Structure", "Jurisdiction & Key Investigating Powers"],
+      "rows": [
+        [
+          "Central Vigilance Commission (CVC)",
+          "Recommended by Santhanam Committee (1964); statutory status via CVC Act, 2003. Central Vigilance Commissioner + 2 Vigilance Commissioners appointed by President.",
+          "Apex integrity watchdog; exercises superintendence over the Delhi Special Police Establishment (CBI) in Prevention of Corruption Act (PCA) cases; receives whistleblower complaints under PIDPI resolution."
+        ],
+        [
+          "Central Bureau of Investigation (CBI)",
+          "Derives investigative powers from Delhi Special Police Establishment (DSPE) Act, 1946. Works under DoPT (personnel) and CVC (corruption cases).",
+          "Premier federal investigating agency; investigates complex corruption, economic offenses, and organized crime; requires State general consent under Section 6 of DSPE Act."
+        ],
+        [
+          "Lokpal of India",
+          "Enacted under the Lokpal and Lokayuktas Act, 2013 (inaugurated March 2019 under Justice P.C. Ghose). Chairperson (former CJI/SC Judge/eminent person) + up to 8 members.",
+          "Jurisdiction covers Prime Minister (with exceptions on defense/foreign affairs and 2/3rd bench approval), Union Ministers, MPs, and Central Group A, B, C, D officers; possesses own Inquiry and Prosecution wings; power of civil court."
+        ],
+        [
+          "Andhra Pradesh Lokayukta",
+          "Constituted under AP Lokayukta Act, 1983; amended in 2019 to relocate principal seat to Kurnool.",
+          "Investigates complaints of corruption, nepotism, and maladministration against Ministers, legislators, municipal chairpersons, and State public servants; submits annual report to Governor."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Prevention of Corruption (Amendment) Act, 2018: Substantially amended the PCA 1988: (1) Criminalized both bribe-taking (Section 7) and bribe-giving (Section 8) unless reported within 7 days; (2) Introduced Section 17A, requiring prior police approval from the competent authority before initiating an inquiry against a public servant for official decisions, balancing anti-corruption vigilance with protection of honest decision-making."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Distinguish between a 'Code of Ethics' and a 'Code of Conduct'. Why has the 2nd Administrative Reforms Commission (ARC) recommended enacting a statutory Code of Ethics for Indian civil servants? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define Code of Ethics (aspirational, value-oriented guiding philosophy) and Code of Conduct (punitive, rule-oriented prescriptive behavior like AIS Conduct Rules 1968); explain how a rigid Code of Conduct fosters procedural compliance without instilling moral responsibility; analyze 2nd ARC recommendations: enacting a Civil Services Bill to bridge the normative vacuum, inculcating public service values (integrity, empathy, impartiality, objectivity) into daily administrative evaluation; conclude on cultivating internal conscience alongside external discipline.",
+        "Critically evaluate the institutional mandate, powers, and structural limitations of the Lokpal under the Lokpal and Lokayuktas Act, 2013. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Trace anti-corruption movement leading to the 2013 statute; detail institutional structure (Chairperson + 8 members, selection committee including PM, Speaker, Leader of Opposition, CJI); analyze vast jurisdiction (Prime Minister, Ministers, MPs, Group A-D officers); evaluate powers: search, seizure, confiscation of prima facie corrupt assets; examine operational constraints: non-operationalization of independent prosecution machinery, reliance on CBI for investigation, exclusion of suo motu powers, and low disposal rates of complaints; suggest operational reforms.",
+        "What constitutes a positive, ethical work culture in a government department? How can an administrative leader transform bureaucratic apathy into citizen-centric responsiveness? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define work culture as the psychological and normative organizational environment; contrast traditional red-tapism, hierarchy, and risk aversion with a progressive ethical culture (transparency, accountability, empathy, meritocracy); outline transformational leadership strategies: leading by personal integrity, recognizing honest performers, encouraging open horizontal feedback, instituting citizen feedback dashboards (like Spandana), and conducting continuous capacity building through Mission Karmayogi."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Who was appointed as the first Chairperson of the Lokpal of India in March 2019?\n(a) Justice Dipak Misra\n(b) Justice Pinaki Chandra Ghose\n(c) Justice Ranjan Gogoi\n(d) Justice N. Santosh Hegde\nCorrect Answer: (b) Justice Pinaki Chandra Ghose [Explanation: Former Supreme Court judge Justice Pinaki Chandra Ghose was appointed as the first Chairperson of the Lokpal of India in March 2019.]",
+        "Q2. The Central Vigilance Commission (CVC) was originally set up in 1964 following the recommendations of which high-level committee?\n(a) Gorwala Committee\n(b) Santhanam Committee\n(c) Sarkaria Commission\n(d) Kothari Commission\nCorrect Answer: (b) Santhanam Committee [Explanation: The Committee on Prevention of Corruption, chaired by K. Santhanam (1962–1964), recommended the establishment of the Central Vigilance Commission.]",
+        "Q3. Under the Prevention of Corruption (Amendment) Act, 2018, which Section mandates prior government approval before conducting an investigation into an official decision of a public servant?\n(a) Section 7\n(b) Section 13(1)(d)\n(c) Section 17A\n(d) Section 19\nCorrect Answer: (c) Section 17A [Explanation: Section 17A, inserted by the 2018 amendment, provides that no police officer shall conduct any enquiry or investigation into any offence alleged to have been committed by a public servant relating to official recommendations or decisions without prior approval.]",
+        "Q4. Which committee appointed in 1966 first recommended the establishment of a two-tier Ombudsman machinery named 'Lokpal' at the Centre and 'Lokayukta' in the States?\n(a) First Administrative Reforms Commission (1st ARC)\n(b) Second Administrative Reforms Commission (2nd ARC)\n(c) Law Commission of India\n(d) Sarkaria Commission\nCorrect Answer: (a) First Administrative Reforms Commission (1st ARC) [Explanation: The First Administrative Reforms Commission (1966), headed by Morarji Desai and later K. Hanumanthaiah, recommended the creation of Lokpal and Lokayuktas.]",
+        "Q5. The principal seat of the Andhra Pradesh Lokayukta was established in which city pursuant to the 2019 legislative amendment?\n(a) Amaravati\n(b) Visakhapatnam\n(c) Kurnool\n(d) Vijayawada\nCorrect Answer: (c) Kurnool [Explanation: Following the AP Lokayukta (Amendment) Act 2019, the office and principal seat of the Andhra Pradesh Lokayukta was established at Kurnool in Rayalaseema.]"
+      ]
+    }
+  ]
+}

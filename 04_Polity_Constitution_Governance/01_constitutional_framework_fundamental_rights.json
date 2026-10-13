@@ -1,0 +1,206 @@
+{
+  "topic_id": "APPSC-G1-POL-01",
+  "subject_code": "04_Polity_Constitution_Governance",
+  "subject_title": "Indian Polity, Constitution and Governance",
+  "paper": "Paper-III (Section A - Mains) & Paper-I Section-B (Screening)",
+  "topic_title": "Constitutional Framework: Preamble, Fundamental Rights, DPSP, Fundamental Duties & Basic Structure",
+  "syllabus_mapping": "Indian Constitution: Evolution, features, Preamble, Fundamental Rights, Fundamental Duties, Directive Principles of State Policy, Amendments, Significant Provisions and Basic Structure.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Indian Constitutional Framework: Philosophy, Fundamental Rights, Directives, and the Basic Structure Doctrine"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Constitution of India, adopted on 26 November 1949 and coming into full effect on 26 January 1950, stands as the world's longest written national constitution. Originating from historical landmarks such as the Government of India Acts of 1919 and 1935 and drafted by the Constituent Assembly under the chairmanship of Dr. B.R. Ambedkar, it establishes a Sovereign, Socialist, Secular, Democratic Republic committed to Justice, Liberty, Equality, and Fraternity."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. The Preamble: Ideological Compass of the Constitution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on the historic 'Objectives Resolution' introduced by Jawaharlal Nehru on 13 December 1946, the Preamble serves as the preface and guiding philosophy of the constitutional order:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Nature of the Indian State: Sovereign (independent external and internal supremacy), Socialist (democratic democratic-welfare socialism seeking to eliminate poverty and inequality, affirmed in D.S. Nakara v. Union of India), Secular (positive secularism where the state respects and protects all religions equally, affirmed in S.R. Bommai v. Union of India), Democratic (representative parliamentary democracy based on universal adult suffrage under Article 326), and Republic (hereditary monarchy rejected; elected Head of State).",
+        "42nd Constitutional Amendment Act (1976): Added three vital words to the Preamble: 'Socialist', 'Secular', and 'Integrity'.",
+        "Legal Status of the Preamble: In the Berubari Union Case (1960), the Supreme Court initially held that the Preamble is not an integral part of the Constitution. However, in the landmark Kesavananda Bharati v. State of Kerala (1973) judgment, a 13-judge constitutional bench overruled Berubari, holding that the Preamble is an integral part of the Constitution, can be amended under Article 368 without altering the Basic Structure, but is non-justiciable (not directly enforceable in a court of law)."
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SansadBhavan.jpg",
+      "caption": "Samvidhan Sadan (Old Parliament House, New Delhi), where the Constituent Assembly debated and finalized the Constitution of India between December 1946 and January 1950.",
+      "alt_text": "Panoramic view of Samvidhan Sadan (Old Parliament House) in New Delhi"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Fundamental Rights (Part III, Articles 12–35)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Referred to by Dr. Ambedkar as the most criticized part and the 'Conscience of the Constitution', Fundamental Rights guarantee negative injunctions against arbitrary state encroachment, supplemented by positive rights:"
+    },
+    {
+      "type": "table",
+      "caption": "The Six Fundamental Rights Categories and Landmark Jurisprudential Expansions",
+      "headers": ["Right Category", "Constitutional Articles", "Substantive Protections & Landmark Judicial Expansions"],
+      "rows": [
+        [
+          "Right to Equality",
+          "Articles 14 to 18",
+          "Art. 14: Equality before law (British) & equal protection of laws (US); Rule of Law. Art. 15: Prohibition of discrimination; 15(4) & 15(5) affirmative action for SC/ST/OBC; 15(6) 10% EWS quota (103rd Amendment). Art. 16: Equality of opportunity in public employment. Art. 17: Abolition of Untouchability (absolute right). Art. 18: Abolition of titles."
+        ],
+        [
+          "Right to Freedom",
+          "Articles 19 to 22",
+          "Art. 19(1): Six democratic freedoms (speech, assembly, association, movement, residence, profession) subject to reasonable restrictions under 19(2)–19(6). Art. 20: Protection against ex-post facto laws, double jeopardy, and self-incrimination. Art. 21: Protection of life and personal liberty—expanded in Maneka Gandhi v. UOI (1978) to require 'due process of law' (procedure must be just, fair, and reasonable); K.S. Puttaswamy v. UOI (2017) recognized Right to Privacy as an intrinsic facet of Art. 21. Art. 21A: Right to Free and Compulsory Education (86th Amendment 2002). Art. 22: Safeguards against arbitrary arrest and preventive detention."
+        ],
+        [
+          "Right against Exploitation",
+          "Articles 23 & 24",
+          "Art. 23: Prohibition of traffic in human beings, Begar (forced labor), and bonded labor. Art. 24: Prohibition of employment of children below 14 years in factories, mines, or hazardous occupations."
+        ],
+        [
+          "Right to Freedom of Religion",
+          "Articles 25 to 28",
+          "Art. 25: Freedom of conscience, free profession, practice, and propagation of religion (subject to public order, morality, and health). Art. 26: Freedom to manage religious affairs. Art. 27: Freedom from taxation for promoting specific religion. Art. 28: Freedom regarding religious instruction in state-aided educational institutions."
+        ],
+        [
+          "Cultural & Educational Rights",
+          "Articles 29 & 30",
+          "Art. 29: Protection of language, script, or culture of minorities and distinct groups. Art. 30: Right of religious and linguistic minorities to establish and administer educational institutions."
+        ],
+        [
+          "Right to Constitutional Remedies",
+          "Article 32",
+          "Empowers citizens to move the Supreme Court directly for the enforcement of Part III rights. High Courts possess parallel writ jurisdiction under Article 226. Supreme Court issues five prerogative writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto. Dr. Ambedkar called Article 32 the 'Heart and Soul of the Constitution'."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Directive Principles of State Policy (Part IV, Articles 36–51)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Borrowed from the Irish Constitution, the DPSPs embody the ideals of a socio-economic welfare state, directing state policy toward distributive justice. Though non-justiciable under Article 37, they are fundamental in the governance of the country:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Socialistic Directives: Art. 38 (promoting social order characterized by welfare and minimization of inequalities); Art. 39 (securing equitable distribution of material resources to prevent concentration of wealth, equal pay for equal work); Art. 39A (equal justice and free legal aid); Art. 41 (right to work and education); Art. 42 (just and humane working conditions, maternity relief); Art. 43 (living wage for workers); Art. 43A (workers' participation in industrial management).",
+        "Gandhian Directives: Art. 40 (organization of Village Panchayats as units of self-government); Art. 43 (promotion of cottage industries); Art. 43B (promotion of voluntary cooperative societies, 97th Amendment); Art. 46 (educational and economic interests of SCs, STs, and weaker sections); Art. 47 (prohibition of intoxicating drinks and drugs); Art. 48 (prohibition of slaughter of cows, calves, and milch cattle).",
+        "Liberal-Intellectual Directives: Art. 44 (Uniform Civil Code - UCC across the territory of India); Art. 45 (early childhood care and education below age 6); Art. 48A (protection and improvement of environment, forests, and wildlife); Art. 49 (protection of monuments of national importance); Art. 50 (separation of the Judiciary from the Executive); Art. 51 (promotion of international peace and security)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Fundamental Duties (Part IVA, Article 51A)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recommended by the Sardar Swaran Singh Committee during the Emergency, the Fundamental Duties were incorporated via the 42nd Constitutional Amendment Act, 1976 (borrowed from the Soviet Constitution). Initially 10 in number, an 11th duty was added by the 86th Constitutional Amendment Act in 2002:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Abiding by the Constitution, National Flag, and National Anthem (51A(a)).",
+        "Cherishing noble ideals of the national freedom struggle (51A(b)).",
+        "Upholding the sovereignty, unity, and integrity of India (51A(c)).",
+        "Defending the nation and rendering national service when called upon (51A(d)).",
+        "Promoting harmony and the spirit of common brotherhood, renouncing practices derogatory to the dignity of women (51A(e)).",
+        "Valuing and preserving the rich heritage of composite culture (51A(f)).",
+        "Protecting and improving the natural environment including forests, lakes, rivers, and wildlife (51A(g)).",
+        "Developing scientific temper, humanism, and spirit of inquiry and reform (51A(h)).",
+        "Safeguarding public property and abjuring violence (51A(i)).",
+        "Striving toward excellence in all spheres of individual and collective activity (51A(j)).",
+        "Duty of parent/guardian to provide educational opportunities to their child between age 6 and 14 (51A(k) - added in 2002)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Judicial Evolution of the Basic Structure Doctrine"
+    },
+    {
+      "type": "table",
+      "caption": "Evolutionary Constitutional Jurisprudence on Article 368 and Fundamental Rights",
+      "headers": ["Case Law & Year", "Bench Composition", "Constitutional Question & Precedent Established"],
+      "rows": [
+        [
+          "Shankari Prasad v. Union of India (1951)",
+          "5-Judge Constitutional Bench",
+          "Upheld 1st Amendment Act 1951; ruled that Parliament's amending power under Article 368 includes the power to abridge Fundamental Rights; 'Law' in Art. 13(2) applies only to ordinary law, not constituent amendments."
+        ],
+        [
+          "Sajjan Singh v. State of Rajasthan (1965)",
+          "5-Judge Constitutional Bench",
+          "Reiterated Shankari Prasad doctrine; upheld 17th Amendment Act, with dissenting reservations on judicial review by Justice Mudholkar."
+        ],
+        [
+          "I.C. Golaknath v. State of Punjab (1967)",
+          "11-Judge Constitutional Bench (6:5 verdict)",
+          "Overruled Shankari Prasad; held that Fundamental Rights enjoy a transcendental and immutable position; Parliament cannot take away or abridge Part III rights via Article 368."
+        ],
+        [
+          "Kesavananda Bharati v. State of Kerala (1973)",
+          "13-Judge Bench (Largest in Indian History, 7:6 verdict)",
+          "Formulated the Basic Structure Doctrine: Parliament has vast powers under Article 368 to amend any part of the Constitution (including Fundamental Rights), but cannot alter, damage, or destroy the core 'Basic Structure' (e.g., Supremacy of Constitution, Republican democracy, Secularism, Separation of Powers, Judicial Review)."
+        ],
+        [
+          "Minerva Mills v. Union of India (1980)",
+          "5-Judge Constitutional Bench",
+          "Struck down clauses (4) and (5) of Article 368 introduced by 42nd Amendment that claimed unlimited amending power; famously ruled: 'The Indian Constitution is founded on the bedrock of the balance between Parts III and IV; to give absolute primacy to one over the other is to disturb the harmony of the Constitution.'"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Explain the doctrine of Basic Structure as enunciated in the Kesavananda Bharati judgment (1973). How does it reconcile parliamentary sovereignty with constitutional supremacy? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Trace constitutional struggle between Parliament and Judiciary (Shankari Prasad -> Golaknath -> 24th Amendment -> Kesavananda); explain the 7:6 ruling on April 24, 1973; define Basic Structure (inalienable constitutional identity including democracy, secularism, rule of law, judicial review); explain how it harmonizes parliamentary power to amend against arbitrary subversion, establishing constitutional supremacy over legislative supremacy; cite Minerva Mills (1980) and NJAC judgment (2015) as subsequent applications.",
+        "Critically analyze the expansion of the scope of Article 21 of the Indian Constitution from A.K. Gopalan (1950) to Maneka Gandhi (1978) and K.S. Puttaswamy (2017). (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contrast the narrow, literal interpretation of 'procedure established by law' in A.K. Gopalan with the revolutionary 'due process of law' jurisprudence in Maneka Gandhi (procedure must be right, just, and fair, establishing the golden triangle of Articles 14, 19, and 21); detail derivative rights evolved under Article 21 (right to clean environment, livelihood, medical care, speedy trial, dignified death); analyze K.S. Puttaswamy (2017) affirming the Right to Privacy as a fundamental right.",
+        "Discuss the constitutional relationship between Fundamental Rights (Part III) and Directive Principles of State Policy (Part IV). (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Highlight historical tension (Champakam Dorairajan 1951 giving absolute primacy to FRs; 25th Amendment 1971 inserting Art. 31C); evaluate the doctrine of harmonious construction articulated in Minerva Mills (1980)—Part III and Part IV are like two wheels of a chariot; explain how modern judicial interpretation uses DPSPs to expand the ambit of Fundamental Rights (e.g., interpreting Art. 41/45 into Art. 21/21A for Right to Education in Unni Krishnan)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which constitutional amendment added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution?\n(a) 24th Amendment Act, 1971\n(b) 42nd Amendment Act, 1976\n(c) 44th Amendment Act, 1978\n(d) 52nd Amendment Act, 1985\nCorrect Answer: (b) 42nd Amendment Act, 1976 [Explanation: The 42nd Constitutional Amendment Act of 1976 amended the Preamble, adding the three words 'Socialist', 'Secular', and 'Integrity'.]",
+        "Q2. The landmark 9-judge Supreme Court ruling that unanimously declared the 'Right to Privacy' as a Fundamental Right under Article 21 was delivered in:\n(a) Kesavananda Bharati v. State of Kerala (1973)\n(b) Justice K.S. Puttaswamy v. Union of India (2017)\n(c) Maneka Gandhi v. Union of India (1978)\n(d) Shayara Bano v. Union of India (2017)\nCorrect Answer: (b) Justice K.S. Puttaswamy v. Union of India (2017) [Explanation: In August 2017, a 9-judge bench in Justice K.S. Puttaswamy (Retd.) v. Union of India ruled that privacy is an intrinsic part of the right to life and personal liberty under Article 21.]",
+        "Q3. Which Article of the Indian Constitution directs the State to take steps to organize Village Panchayats as units of local self-government?\n(a) Article 39\n(b) Article 40\n(c) Article 44\n(d) Article 48\nCorrect Answer: (b) Article 40 [Explanation: Article 40 (Gandhian Directive) directs the State to organize village panchayats and endow them with powers necessary to function as units of self-government.]",
+        "Q4. Which Fundamental Duty was inserted into Article 51A by the 86th Constitutional Amendment Act, 2002?\n(a) To safeguard public property and abjure violence\n(b) To develop scientific temper and humanism\n(c) To provide educational opportunities to one's child between the ages of 6 and 14 years\n(d) To respect the National Flag and National Anthem\nCorrect Answer: (c) To provide educational opportunities to one's child between the ages of 6 and 14 years [Explanation: The 86th Amendment Act 2002 added sub-clause (k) to Article 51A, making it the duty of every parent/guardian to provide educational opportunities to their child aged 6-14.]",
+        "Q5. Which prerogative writ is issued by the Supreme Court or High Court to quash the illegal appointment of a person to a public office?\n(a) Habeas Corpus\n(b) Mandamus\n(c) Quo-Warranto\n(d) Certiorari\nCorrect Answer: (c) Quo-Warranto [Explanation: Quo-Warranto ('by what authority') is issued by the judiciary to inquire into the legality of the claim which a party asserts to a public office and to oust an unauthorized holder.]"
+      ]
+    }
+  ]
+}

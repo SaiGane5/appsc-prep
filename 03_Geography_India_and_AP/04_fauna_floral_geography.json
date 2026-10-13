@@ -1,0 +1,210 @@
+{
+  "topic_id": "APPSC-G1-GEOG-04",
+  "subject_code": "03_Geography_India_and_AP",
+  "subject_title": "Geography of India and Andhra Pradesh",
+  "paper": "Paper-II (Section C - Mains) & Paper-I Section-D (Screening)",
+  "topic_title": "Faunal and Floral Geography: Forest Types, Endemic Species, Sanctuaries, and Protected Areas of India & AP",
+  "syllabus_mapping": "Fauna and Floral Geography: Wild Animals, Animals, Birds, Reptiles, Mammals, Trees and Plants and others. Forests, Mountains, Hills, Flora and fauna, Plateau Forests, Hill Forests, Vegetation Classification.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Faunal and Floral Geography of Andhra Pradesh: Forest Classifications, Endemism, Wildlife Ecology, and Conservation Networks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Andhra Pradesh encompasses diverse ecological biomes ranging from the moist montane forests of the northern Eastern Ghats to the semi-arid thorn scrub of the Rayalaseema plateau and the expansive littoral mangrove formations along the Godavari and Krishna deltas. The state is globally renowned for rare endemic flora such as Red Sanders (Pterocarpus santalinus) and critically endangered fauna such as Jerdon's Courser and the Great Indian Bustard."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Forest Cover and Botanical Classification (Champion & Seth)"
+    },
+    {
+      "type": "paragraph",
+      "text": "According to the India State of Forest Report (ISFR), the recorded forest area (RFA) of Andhra Pradesh stands at approximately 37,258 sq km, constituting roughly 22.86% of the state's total geographical area:"
+    },
+    {
+      "type": "table",
+      "caption": "Forest Types in Andhra Pradesh: Geographical Distribution and Dominant Floral Species",
+      "headers": ["Forest Classification", "Geographic Terrain & Districts", "Climatic Conditions", "Dominant Tree & Plant Species"],
+      "rows": [
+        [
+          "Tropical Dry Deciduous Forests",
+          "Nallamalas, Erramalas, Seshachalam, Velikonda ranges (~55% of forest area)",
+          "Annual rainfall 750–1000 mm; dry summer season",
+          "Teak (Tectona grandis), Anogeissus latifolia (Chirumanu), Terminalia tomentosa (Nallamaddi), Pterocarpus marsupium (Yegi), Dalbergia latifolia (Rosewood), Boswellia serrata (Anduga)."
+        ],
+        [
+          "Tropical Moist Deciduous Forests",
+          "Northern Eastern Ghats: Araku Valley, Chintapalli, Rampachodavaram (ASR & Parvathipuram districts)",
+          "Annual rainfall >1200 mm; high humidity",
+          "Sal (Shorea robusta - southern natural limit of Sal), Xylia xylocarpa, Terminalia arjuna, Michelia champaca, Giant Bamboo (Dendrocalamus strictus)."
+        ],
+        [
+          "Tropical Thorn / Scrub Forests",
+          "Rayalaseema plateau: Anantapur, Kurnool, Kadapa plains",
+          "Rainfall <600 mm; prolonged semi-arid droughts",
+          "Acacia nilotica (Nalla Thumma), Acacia catechu, Ziziphus mauritiana (Regu), Euphorbia antiquorum, Prosopis cineraria (Jammi Chettu)."
+        ],
+        [
+          "Littoral and Mangrove Forests (Swamp)",
+          "Godavari delta (Coringa estuary) and Krishna delta (Machilipatnam / Nizampatnam)",
+          "Brackish estuarine tidal mudflats",
+          "Avicennia marina (White Mada), Avicennia officinalis, Rhizophora mucronata, Excoecaria agallocha, Bruguiera gymnorrhiza, Sonneratia apetala."
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Coringa_Reserve_Forest_Park_Mangrove_Forest_99.jpg",
+      "caption": "The dense mangrove forest canopy at Coringa Wildlife Sanctuary near Kakinada (Godavari estuary), representing India's second-largest coastal mangrove wetland formation after the Sundarbans.",
+      "alt_text": "Boardwalk amidst mangrove forest at Coringa Reserve Forest"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Endemic and Threatened Flora of Andhra Pradesh"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Red Sanders (Pterocarpus santalinus): Endemic strictly to the dry hilly tracts of the Seshachalam, Palakonda, and Velikonda ranges across Kadapa, Chittoor, Nellore, and Prakasam districts. Prized internationally for its deep red heartwood, santalin dye, acoustic properties in musical instruments, and traditional pharmacology; listed under Appendix II of CITES.",
+        "Cycas beddomei: A critically endangered living fossil gymnosperm endemic exclusively to the rocky quartzite slopes of Tirumala Hills (Seshachalam Biosphere Reserve).",
+        "Shorea tumbuggaia (Thamba): Endemic semi-hardwood tree restricted to the Cuddapah Basin; source of clear medicinal resin (dammar).",
+        "Syzygium alternifolium (Mogi): Endemic wild fruit tree occurring exclusively in the Seshachalam range."
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pterocarpus_santalinus_in_Talakona_forest%2C_AP_W_IMG_8145.jpg",
+      "caption": "A mature Red Sanders (Pterocarpus santalinus) tree in Talakona forest, Seshachalam hill range. Endemic to southern Andhra Pradesh, it is strictly monitored against international timber smuggling.",
+      "alt_text": "Red Sanders tree growing in Talakona forest Andhra Pradesh"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. State Symbols & Faunal Diversity"
+    },
+    {
+      "type": "table",
+      "caption": "Official State Natural Emblems of Andhra Pradesh",
+      "headers": ["Symbol Category", "Common English Name", "Telugu Vernacular Name", "Scientific Taxonomic Binomial"],
+      "rows": [
+        ["State Animal", "Blackbuck Antelope", "Krishna Jinka", "Antilope cervicapra"],
+        ["State Bird", "Rose-ringed Parakeet", "Rama Chiluka", "Psittacula krameri"],
+        ["State Tree", "Neem Tree", "Vepa Chettu", "Azadirachta indica"],
+        ["State Flower", "Common Jasmine", "Malle Puvvu", "Jasminum officinale"]
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Antilope-cervicapra-4.jpg",
+      "caption": "The Blackbuck (Antilope cervicapra / Krishna Jinka), official State Animal of Andhra Pradesh, characterized by spiraled horns in males, inhabiting dry grasslands and open scrub ecosystems.",
+      "alt_text": "Male Blackbuck antelope with spiraling horns"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Protected Area Network: National Parks, Sanctuaries, and Tiger Reserves"
+    },
+    {
+      "type": "table",
+      "caption": "National Parks and Key Wildlife Sanctuaries in Andhra Pradesh",
+      "headers": ["Protected Area", "Legal Status", "Districts / Location", "Key Conserved Wildlife Species & Unique Features"],
+      "rows": [
+        [
+          "Nagarjunsagar-Srisailam Tiger Reserve (NSTR)",
+          "Tiger Reserve (Project Tiger)",
+          "Nandyal, Prakasam, Palnadu (spanning Nallamalas across Krishna river)",
+          "Largest tiger reserve in India (~3,728 sq km in AP portion); core breeding habitat for Bengal Tigers, Leopards, Dhole (wild dog), and Indian Pangolin."
+        ],
+        [
+          "Sri Venkateswara National Park & Biosphere Reserve",
+          "National Park & Biosphere Reserve",
+          "Tirupati and YSR Kadapa districts (Seshachalam Hills)",
+          "Notified as a Biosphere Reserve in 2010; harbors Sloth Bear, Leopard, Golden Gecko, Red Sanders, and Cycas beddomei."
+        ],
+        [
+          "Papikonda National Park",
+          "National Park",
+          "Alluri Sitharama Raju and Eluru districts (Godavari river gorge)",
+          "High floral biodiversity; Indian Gaur (bison), Sambar, Barking Deer, and rare riverine avifauna."
+        ],
+        [
+          "Rajiv Gandhi (Rameswaram) National Park",
+          "National Park",
+          "Proddatur / YSR Kadapa district",
+          "Tropical dry deciduous scrub ecosystem protecting indigenous fauna along the Pennar river basin."
+        ],
+        [
+          "Coringa Wildlife Sanctuary",
+          "Wildlife Sanctuary",
+          "Kakinada District",
+          "Extensive mangrove wetlands; globally significant population of Fishing Cat (Prionailurus viverrinus), Smooth-coated Otter, and 120+ migratory shorebird species."
+        ],
+        [
+          "Rollapadu Wildlife Sanctuary",
+          "Wildlife Sanctuary",
+          "Nandyal District",
+          "Semi-arid open grassland sanctuary established primarily to protect the critically endangered Great Indian Bustard (Ardeotis nigriceps) and Lesser Florican."
+        ],
+        [
+          "Sri Lankamalleswara Wildlife Sanctuary",
+          "Wildlife Sanctuary",
+          "YSR Kadapa District",
+          "Sole known natural habitat of the critically endangered nocturnal Jerdon's Courser (Rhinoptilus bitorquatus / Kalivi Kodi), rediscovered in 1986."
+        ],
+        [
+          "Nelapattu and Pulicat Bird Sanctuaries",
+          "Bird Sanctuaries",
+          "Tirupati District",
+          "Nelapattu is one of Southeast Asia's largest pelican breeding colonies (Spot-billed Pelican); Pulicat Lake lagoon hosts tens of thousands of Greater and Lesser Flamingos."
+        ],
+        [
+          "Koundinya Wildlife Sanctuary",
+          "Elephant Sanctuary",
+          "Chittoor District",
+          "The only sanctuary in Andhra Pradesh harboring a resident population of Asiatic Elephants (Elephas maximus)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Discuss the distribution and ecological significance of mangrove ecosystems in Andhra Pradesh with special reference to Coringa Wildlife Sanctuary. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Introduce mangrove formations along the Godavari and Krishna estuarine deltas; detail Coringa's floral composition (Avicennia, Rhizophora, Sonneratia) and halophytic adaptations (pneumatophores/breathing roots, viviparous germination); examine ecological functions (bio-shield against cyclonic storm surges, coastal erosion mitigation, carbon sequestration/blue carbon, marine nursery for commercial shrimp and finfish); discuss flagship species (Fishing Cat, Smooth-coated Otter); evaluate anthropogenic threats (aquaculture conversion, industrial effluents from Kakinada port, upstream freshwater reduction due to dams).",
+        "Examine the biodiversity hotspots and conservation challenges in the Eastern Ghats of Andhra Pradesh, highlighting the threat to endemic species like Red Sanders. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Frame the Eastern Ghats as an ancient discontinuous ecological corridor rich in endemic biota; explain the habitat specificity of Red Sanders (Pterocarpus santalinus) in the quartzite hills of Seshachalam/Palakonda; analyze threats (illegal logging and smuggling for international illicit markets, forest fires, habitat fragmentation); detail state conservation mechanisms (Anti-Smuggling Task Force, satellite geo-tagging, community joint forest management/VSS).",
+        "Give an account of the Protected Area network in Andhra Pradesh. What measures are needed to resolve human-wildlife conflict in elephant and tiger corridors? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Enumerate the 3 National Parks (Sri Venkateswara, Papikonda, Rajiv Gandhi) and key sanctuaries (NSTR, Rollapadu, Koundinya, Sri Lankamalleswara); examine human-wildlife conflict hotspots (elephant crop-raiding in Koundinya/Chittoor bordering Karnataka/TN, tiger and leopard livestock predation in NSTR buffer villages); recommend mitigation strategies: solar fencing, early warning SMS sirens, habitat corridors restoration, adequate and swift crop compensation schemes, and eco-development committees (EDCs)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which critically endangered bird species, endemic to Andhra Pradesh and rediscovered in 1986, is protected exclusively in Sri Lankamalleswara Wildlife Sanctuary?\n(a) Great Indian Bustard\n(b) Jerdon's Courser (Kalivi Kodi)\n(c) Forest Owlet\n(d) Bengal Florican\nCorrect Answer: (b) Jerdon's Courser (Kalivi Kodi) [Explanation: Jerdon's Courser (Rhinoptilus bitorquatus) is a nocturnal ground-dwelling bird endemic exclusively to the scrub jungle of Kadapa, protected in Sri Lankamalleswara Wildlife Sanctuary.]",
+        "Q2. Which is the largest Tiger Reserve in India by geographical area?\n(a) Jim Corbett Tiger Reserve\n(b) Nagarjunsagar-Srisailam Tiger Reserve (NSTR)\n(c) Bandipur Tiger Reserve\n(d) Manas Tiger Reserve\nCorrect Answer: (b) Nagarjunsagar-Srisailam Tiger Reserve (NSTR) [Explanation: Nagarjunsagar-Srisailam Tiger Reserve, spanning the Nallamala forest ranges across Andhra Pradesh, is the largest tiger reserve in India, covering over 3,700 sq km.]",
+        "Q3. The Seshachalam Hill ranges, known for the endemic growth of Red Sanders, were designated as a Biosphere Reserve in which year?\n(a) 2005\n(b) 2010\n(c) 2014\n(d) 2018\nCorrect Answer: (b) 2010 [Explanation: The Seshachalam Hills covering Tirupati and Kadapa districts were notified as the first Biosphere Reserve in Andhra Pradesh in 2010 by the Ministry of Environment and Forests.]",
+        "Q4. What is the official State Animal of Andhra Pradesh?\n(a) Blackbuck (Krishna Jinka)\n(b) Indian Elephant\n(c) Wild Water Buffalo\n(d) Spotted Deer\nCorrect Answer: (a) Blackbuck (Krishna Jinka) [Explanation: The Blackbuck (Antilope cervicapra / Krishna Jinka) is the official State Animal of Andhra Pradesh.]",
+        "Q5. Coringa Wildlife Sanctuary in Kakinada district hosts a globally significant population of which specialized wetland carnivore?\n(a) Snow Leopard\n(b) Fishing Cat (Prionailurus viverrinus)\n(c) Clouded Leopard\n(d) Red Panda\nCorrect Answer: (b) Fishing Cat (Prionailurus viverrinus) [Explanation: Coringa Wildlife Sanctuary's estuarine mangroves host one of the world's dense populations of the Fishing Cat, an endangered wetland feline that preys primarily on fish and crustaceans.]"
+      ]
+    }
+  ]
+}

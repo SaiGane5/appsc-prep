@@ -1,0 +1,180 @@
+{
+  "topic_id": "APPSC-G1-SCI-06",
+  "subject_code": "07_Science_Technology_Environment",
+  "subject_title": "Science, Technology and Environment",
+  "paper": "Paper-V (Mains) & Paper-II Section-B (Screening)",
+  "topic_title": "Biotechnology, Genetic Engineering, Nanotechnology, Vaccines, Infectious Diseases & Intellectual Property Rights",
+  "syllabus_mapping": "Biotechnology and Genetic Engineering: Recombinant DNA technology, CRISPR-Cas9 gene editing, cloning, stem cell therapy, tissue culture - Applications of Biotechnology: Agriculture (Genetically Modified crops - Bt Cotton, GM Mustard DMH-11 controversy, bio-fertilizers, bio-pesticides), Medicine & Healthcare (insulin production, monoclonal antibodies, gene therapy, DNA fingerprinting), Industrial and Environmental biotechnology (bioremediation, biosensors, biofuels) - Nanotechnology: Principles, nanomaterials (carbon nanotubes, graphene, quantum dots, fullerenes), applications in targeted drug delivery, nano-fertilizers (Nano Urea), electronics, and water purification - Human Microbial Diseases: Bacterial, viral, fungal, protozoan diseases; Tuberculosis, Malaria, Dengue, HIV/AIDS, COVID-19, and emerging zoonoses - Vaccines & Immunology: Vaccine types (whole-inactivated, live-attenuated, mRNA, viral vector), Universal Immunization Programme (UIP), Mission Indradhanush - Intellectual Property Rights (IPR): Patents, Copyrights, Trademarks, Geographical Indications (GI), Trade Secrets, Indian Patents Act 1970 (Section 3(d) non-patentability of incremental variations, Novartis case), TRIPS agreement, Compulsory Licensing under Section 84.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Biotechnology Applications, Genomic Editing, Nanotechnology, Vaccines, Epidemiology, and Intellectual Property Rights"
+    },
+    {
+      "type": "paragraph",
+      "text": "Biotechnology and nanotechnology represent the twin frontiers of 21st-century bio-economy and precision therapeutics. Integrating recombinant DNA methodologies, CRISPR gene editing, and nano-scale material design provides powerful interventions against infectious disease pandemics, agricultural food insecurity, and climate vulnerability, while raising critical legal questions under international intellectual property regimes."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Template_from_Crick_and_Watson%E2%80%99s_DNA_molecular_model%2C_1953._%289660573227%29.jpg",
+      "caption": "Template from Crick and Watson's 1953 DNA molecular model, representing the double-helix foundation of modern molecular biology, recombinant DNA technology, and genetic engineering.",
+      "alt_text": "Original template of the DNA molecular double helix model"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Biotechnology & Genetic Engineering Tools"
+    },
+    {
+      "type": "table",
+      "caption": "Pillars of Modern Biotechnology and Genetic Tools",
+      "headers": [
+        "Biotechnological Tool",
+        "Molecular Mechanism",
+        "Strategic Applications & Regulatory Status in India"
+      ],
+      "rows": [
+        [
+          "Recombinant DNA Technology (rDNA)",
+          "Isolation of target gene, insertion into plasmid vector using restriction enzymes (molecular scissors) and DNA ligase; transformation into host organism.",
+          "Industrial production of human recombinant insulin (Humulin), hepatitis B subunit vaccine, and Golden Rice (beta-carotene enriched)."
+        ],
+        [
+          "CRISPR-Cas9 Gene Editing",
+          "Guide RNA (gRNA) directs Cas9 endonuclease to introduce precise double-stranded cuts in DNA for targeted knock-out or insertion; Nobel Prize in Chemistry 2020.",
+          "Sickle cell anemia gene therapy; Site-Directed Nuclease (SDN-1 and SDN-2) genome-edited crops exempted from transgenic biosafety trials by MoEFCC in 2022."
+        ],
+        [
+          "Genetically Modified (GM) Crops",
+          "Introduction of foreign genes; Bt Cotton incorporates Cry1Ac/Cry2Ab genes from Bacillus thuringiensis providing resistance to Helicoverpa armigera (bollworm).",
+          "Bt Cotton is India's sole commercialized GM crop; GM Mustard (DMH-11 developed by Delhi University using barnase-barstar system) approved by GEAC but subjected to Supreme Court litigation."
+        ],
+        [
+          "DNA Fingerprinting",
+          "Analysis of Variable Number Tandem Repeats (VNTRs) and Short Tandem Repeats (STRs); pioneered in India by Dr. Lalji Singh at CCMB Hyderabad.",
+          "Forensic criminal investigations, paternity dispute resolution, and wildlife poaching tracking."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Nanotechnology Principles & Applications"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Nanoscale Physics: Manipulation of matter at the nanoscale (1 to 100 nanometers); materials exhibit high surface-area-to-volume ratios and quantum confinement effects.",
+        "Key Nanomaterials: Carbon Nanotubes (CNTs: high tensile strength, electrical conductivity), Graphene (single atomic layer of carbon with exceptional thermal/electronic properties), Quantum Dots (semiconductor nanocrystals used in medical imaging), and Liposomes/Dendrimers.",
+        "Targeted Drug Delivery: Functionalized nanoparticles encapsulate cytotoxic chemotherapy drugs, crossing biological barriers (like the blood-brain barrier) and releasing therapeutics specifically inside tumor cells via EPR (Enhanced Permeability and Retention) effect, sparing healthy tissues.",
+        "Agricultural Nanotechnology: IFFCO Nano Urea and Nano DAP liquid fertilizers; ultra-small particles penetrate leaf stomata directly, achieving >80% nutrient use efficiency compared to <30% for conventional bulk granular chemical urea.",
+        "Water Purification: Nanofiltration membranes (nanotube filters and silver nanoparticles) capable of removing heavy metals (arsenic, fluoride), pesticides, and bacterial pathogens."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Vaccines, Immunology & Public Health Epidemiology"
+    },
+    {
+      "type": "table",
+      "caption": "Vaccine Platforms and Key Epidemic Countermeasures",
+      "headers": [
+        "Vaccine Platform",
+        "Immunological Mechanism",
+        "Examples & Operational Features"
+      ],
+      "rows": [
+        [
+          "Whole-Inactivated (Killed) Vaccines",
+          "Pathogen grown and chemically killed (using beta-propiolactone); preserves surface antigens without ability to replicate.",
+          "Covaxin (Bharat Biotech), Inactivated Polio Vaccine (Salk IPV), Hepatitis A vaccine; highly stable."
+        ],
+        [
+          "Live-Attenuated Vaccines",
+          "Weakened live pathogen that replicates without causing severe disease; triggers strong cellular and humoral immunity.",
+          "Oral Polio Vaccine (Sabin OPV), BCG (tuberculosis), MMR, Yellow fever; contraindicated in severely immunocompromised individuals."
+        ],
+        [
+          "Viral Vector Vaccines",
+          "Uses a modified, harmless adenovirus vector to deliver the genetic code of the target antigen into host cells.",
+          "Covishield (Oxford-AstraZeneca / Serum Institute of India using chimpanzee adenovirus ChAdOx1), Sputnik V."
+        ],
+        [
+          "mRNA Vaccines",
+          "Lipid nanoparticle capsules carrying messenger RNA encoding the antigen; host ribosomes synthesize the antigen directly.",
+          "Pfizer-BioNTech, Moderna, GEMCOVAC-19 (Gennova Biopharmaceuticals - India's indigenous thermostable mRNA vaccine)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Intellectual Property Rights (IPR) & Indian Patent Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "Key Dimensions of Intellectual Property Rights in India",
+      "headers": [
+        "IPR Domain",
+        "Statutory Enactment in India",
+        "Key Legal Doctrines & Controversies"
+      ],
+      "rows": [
+        [
+          "Patents (Indian Patents Act, 1970)",
+          "Grants 20-year exclusive monopoly for novel, non-obvious, and industrially applicable inventions.",
+          "Section 3(d): Prohibits 'evergreening' by rejecting patents for mere discovery of a new form of a known substance unless it demonstrates significantly enhanced therapeutic efficacy (upheld in landmark Novartis AG v. Union of India, 2013 regarding Glivec)."
+        ],
+        [
+          "Compulsory Licensing (Section 84)",
+          "Statutory mechanism permitted under WTO TRIPS agreement (Doha Declaration on Public Health).",
+          "Allows domestic generic manufacturers to produce patented drugs without patentee consent if reasonable requirements of the public are not met or the price is prohibitive (e.g., Natco Pharma granted CL for Bayer's anti-cancer drug Nexavar)."
+        ],
+        [
+          "Geographical Indications (GI Act, 1999)",
+          "Protects goods originating from a specific geographical territory possessing distinct qualities or reputation.",
+          "Notable Andhra Pradesh GIs: Tirupati Laddu, Kondapalli Toys, Machilipatnam Kalamkari, Venkatagiri Sarees, Araku Valley Arabica Coffee."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Explain the mechanism of CRISPR-Cas9 gene editing technology. How does the 2022 deregulation of SDN-1 and SDN-2 genome-edited plants impact agricultural biotechnology in India? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define CRISPR-Cas9 as an adaptive bacterial immune defense adapted for precision genome engineering; explain components: guide RNA (gRNA) matching the target sequence and Cas9 endonuclease introducing targeted double-stranded breaks; distinguish between Site-Directed Nuclease types: SDN-1 (small insertions/deletions via non-homologous end joining without foreign DNA), SDN-2 (few base changes using donor template without foreign DNA), and SDN-3 (insertion of large foreign DNA sequences/transgenes); explain the significance of the 2022 MoEFCC notification exempting SDN-1 and SDN-2 from stringent GM regulations under Rules 1989; evaluate outcomes: accelerated development of climate-resilient, pest-resistant crops without prolonged transgenic controversy.",
+        "Critically examine the balance struck by the Indian Patents Act, 1970 between rewarding pharmaceutical innovation and ensuring affordable public healthcare access. Discuss with reference to Section 3(d) and the landmark Novartis ruling. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Trace the historical backdrop: transition from product patents to process patents under the 1970 Act, and return to product patents post-TRIPS (2005 amendment); analyze Section 3(d) designed to curb 'evergreening'\u2014preventing multinational pharmaceutical companies from extending 20-year monopolies by patenting minor crystal, salt, or ester variations of known compounds; detail the Supreme Court's ruling in Novartis AG v. Union of India (2013) which rejected patent protection for the beta-crystalline form of Imatinib Mesylate (Glivec) due to failure to prove enhanced therapeutic efficacy; discuss Compulsory Licensing (Section 84, Natco-Bayer Nexavar case) and its role in protecting India's title as the 'Pharmacy of the Developing World'.",
+        "Explain how nanotechnology is utilized in targeted cancer therapeutics and agricultural fertilizers. What are the potential biosafety and environmental risks associated with non-biodegradable nanoparticles? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Explain targeted drug delivery in oncology: functionalizing nanoparticles with ligands that bind specifically to overexpressed receptors on cancer cells, passive targeting via Enhanced Permeability and Retention (EPR) effect in leaky tumor vasculatures, minimizing systemic cytotoxicity of conventional chemotherapy; explain agricultural nano-fertilizers (Nano Urea/DAP) increasing nutrient absorption through stomata and cutting chemical runoff; analyze biosafety risks: toxicity arising from high chemical reactivity and small size, bioaccumulation across trophic food chains, potential pulmonary inflammation (nanoparticles crossing alveolar barriers), and disruption of beneficial soil microbes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Section 3(d) of the Indian Patents Act, 1970, which was at the centre of the landmark Novartis Glivec judgment, strictly prohibits the patenting of:\n(a) Biological inventions using plant seeds\n(b) Mere discovery of a new form of a known substance that does not enhance therapeutic efficacy (preventing evergreening)\n(c) Inventions related to atomic energy\n(d) Mathematical methods and business software algorithms\nCorrect Answer: (b) Mere discovery of a new form of a known substance that does not enhance therapeutic efficacy (preventing evergreening) [Explanation: Section 3(d) was introduced to prevent evergreening of pharmaceutical patents by requiring proof of significantly improved therapeutic efficacy.]",
+        "Q2. The Nobel Prize in Chemistry 2020 was awarded to Emmanuelle Charpentier and Jennifer A. Doudna for the development of which revolutionary biotechnology method?\n(a) Polymerase Chain Reaction (PCR)\n(b) CRISPR-Cas9 method for genome editing\n(c) Direct DNA sequencing\n(d) Monoclonal antibody production\nCorrect Answer: (b) CRISPR-Cas9 method for genome editing [Explanation: Charpentier and Doudna discovered one of gene technology\u2019s sharpest tools: the CRISPR/Cas9 genetic scissors.]",
+        "Q3. Which was the first Genetically Modified (GM) food crop approved by the Genetic Engineering Appraisal Committee (GEAC) for commercial cultivation in India, currently under Supreme Court scrutiny?\n(a) Bt Brinjal\n(b) Golden Rice\n(c) GM Mustard (DMH-11)\n(d) Flavr Savr Tomato\nCorrect Answer: (c) GM Mustard (DMH-11) [Explanation: Dhara Mustard Hybrid-11 (DMH-11) was approved by GEAC in October 2022 for environmental release, making it the first transgenic food crop to receive such clearance in India.]",
+        "Q4. Which eminent Indian scientist, known as the 'Father of DNA Fingerprinting in India', established the technique at CCMB Hyderabad and assisted in resolving high-profile legal cases?\n(a) Dr. M.S. Swaminathan\n(b) Dr. Lalji Singh\n(c) Dr. Obaid Siddiqi\n(d) Dr. V. Shanta\nCorrect Answer: (b) Dr. Lalji Singh [Explanation: Dr. Lalji Singh developed indigenous DNA fingerprinting probes at CCMB Hyderabad and served as Director of CCMB.]",
+        "Q5. Which famous coffee produced by tribal farmers in the Eastern Ghats of Andhra Pradesh holds a registered Geographical Indication (GI) tag?\n(a) Monsooned Malabar Coffee\n(b) Araku Valley Arabica Coffee\n(c) Coorg Arabica Coffee\n(d) Wayanad Robusta Coffee\nCorrect Answer: (b) Araku Valley Arabica Coffee [Explanation: Araku Valley Arabica Coffee grown in the Visakhapatnam/Alluri Sitharama Raju district of Andhra Pradesh was granted the GI tag in 2019.]"
+      ]
+    }
+  ]
+}

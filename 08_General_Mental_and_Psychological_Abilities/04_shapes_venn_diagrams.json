@@ -1,0 +1,110 @@
+{
+  "topic_id": "APPSC-G1-GMA-04",
+  "subject_code": "08_General_Mental_and_Psychological_Abilities",
+  "subject_title": "General Mental and Psychological Abilities",
+  "paper": "Screening Paper-II (Section A)",
+  "topic_title": "Geometric Shapes, Sub-sections, Counting of Figures & Venn Diagrams",
+  "syllabus_mapping": "Shapes and their Sub-sections, Venn Diagram - Counting of Triangles, Squares, Rectangles and Parallelograms, Embedded Figures, Paper Folding and Cutting, Two-Set and Three-Set Venn Diagrams, Set Theory Formulations.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Spatial Geometry, Counting of Geometric Figures, Sub-sections, and Venn Diagram Set Formulations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Geometric visualization and set-theoretic Venn diagrams evaluate non-verbal spatial aptitude and logical grouping. Counting nested triangles and rectangles requires systematic algebraic formulas rather than manual tallying to prevent omission or double-counting."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Mathematical Formulas for Counting Geometric Figures"
+    },
+    {
+      "type": "table",
+      "caption": "Formulas and Shortcuts for Counting Figures",
+      "headers": [
+        "Figure Type",
+        "Geometric Configuration",
+        "Direct Shortcut Formula",
+        "Example Calculation"
+      ],
+      "rows": [
+        [
+          "Triangles in a Divided Triangle",
+          "Vertical lines from vertex dividing base into $n$ parts.",
+          "Total Triangles = $\\frac{n(n+1)}{2}$",
+          "If base is divided into 4 segments: $\\frac{4 \\times 5}{2} = 10$ triangles."
+        ],
+        [
+          "Triangles inside a Quadrilateral",
+          "Square or rectangle with both diagonals intersecting, divided into $n$ smaller triangles.",
+          "Total Triangles = $2n$",
+          "An 8-part divided square has $2 \\times 8 = 16$ triangles."
+        ],
+        [
+          "Squares in an $m \\times n$ Grid",
+          "Grid of $m$ rows and $n$ columns (where $m \\le n$).",
+          "$\\sum (m \\times n) + (m-1)(n-1) + ...$",
+          "In a $4 \\times 4$ chessboard: $4^2 + 3^2 + 2^2 + 1^2 = 16+9+4+1 = 30$ squares."
+        ],
+        [
+          "Rectangles in an $m \\times n$ Grid",
+          "Grid with $m$ rows and $n$ columns.",
+          "Total Rectangles = $\\left[\\frac{m(m+1)}{2}\\right] \\times \\left[\\frac{n(n+1)}{2}\\right]$",
+          "In a $3 \\times 3$ grid: $\\frac{3 \\times 4}{2} \\times \\frac{3 \\times 4}{2} = 6 \\times 6 = 36$ rectangles (including squares)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Set Theory Formulations for 2-Set and 3-Set Venn Diagrams"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Two-Set Union Formula: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$.",
+        "Only A: $n(A) - n(A \\cap B)$.",
+        "Three-Set Union Formula: $n(A \\cup B \\cup C) = n(A) + n(B) + n(C) - n(A \\cap B) - n(B \\cap C) - n(A \\cap C) + n(A \\cap B \\cap C)$.",
+        "Exactly Two Sets: $[n(A \\cap B) + n(B \\cap C) + n(A \\cap C)] - 3 \\cdot n(A \\cap B \\cap C)$.",
+        "Exactly One Set: $n(A) + n(B) + n(C) - 2[n(A \\cap B) + n(B \\cap C) + n(A \\cap C)] + 3 \\cdot n(A \\cap B \\cap C)$."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Analytical Descriptive Set Formulation"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "In a survey of 500 aspirants preparing for APPSC Group-1: 240 read Newspaper A (The Hindu), 200 read Newspaper B (Eenadu), and 180 read Newspaper C (Indian Express). 70 read both A and B, 60 read both B and C, and 50 read both A and C. 30 read all three newspapers. Determine:\n(i) How many aspirants read exactly one newspaper?\n(ii) How many read at least two newspapers?\n(iii) How many aspirants read none of the three newspapers?\n(APPSC Group-1 Mains Analytical, 10 Marks)\n-> Model Approach: Use set formulations where Total N = 500, n(A)=240, n(B)=200, n(C)=180, n(A\u2229B)=70, n(B\u2229C)=60, n(A\u2229C)=50, and n(A\u2229B\u2229C)=30.\nTotal reading at least one: n(A\u222aB\u222aC) = 240 + 200 + 180 - (70 + 60 + 50) + 30 = 620 - 180 + 30 = 470.\n(i) Exactly one newspaper = n(A\u222aB\u222aC) - [Exactly two + All three] = 470 - [(70-30)+(60-30)+(50-30) + 30] = 470 - [40 + 30 + 20 + 30] = 470 - 120 = 350.\n(ii) At least two newspapers = Exactly two + All three = (40 + 30 + 20) + 30 = 120.\n(iii) None of the three newspapers = Total - n(A\u222aB\u222aC) = 500 - 470 = 30 aspirants."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. How many total triangles are present in a square whose diagonals and medians intersect, dividing the interior into 8 elementary triangular sectors?\n(a) 12\n(b) 14\n(c) 16\n(d) 18\nCorrect Answer: (c) 16 [Explanation: In any quadrilateral with diagonals intersecting, the total number of triangles is 2n, where n is the number of small internal triangles. Here n = 8, so Total = 2 * 8 = 16 triangles.]",
+        "Q2. How many total rectangles (including squares) are present in a standard 8x8 chessboard?\n(a) 204\n(b) 1,296\n(c) 1,024\n(d) 512\nCorrect Answer: (b) 1,296 [Explanation: Total rectangles in an m x n grid is given by [m(m+1)/2] * [n(n+1)/2]. For an 8x8 chessboard: [8*9/2] * [8*9/2] = 36 * 36 = 1,296 rectangles.]",
+        "Q3. In a town of 100 families, 65 families have cars, 45 have motorcycles, and 15 families have neither. How many families have both a car and a motorcycle?\n(a) 20\n(b) 25\n(c) 30\n(d) 35\nCorrect Answer: (b) 25 [Explanation: Families having at least one vehicle = 100 - 15 = 85. Using n(A\u222aB) = n(A) + n(B) - n(A\u2229B): 85 = 65 + 45 - n(A\u2229B) => 85 = 110 - n(A\u2229B) => n(A\u2229B) = 110 - 85 = 25 families.]",
+        "Q4. Which of the following Venn diagrams best represents the relationship between: 'Judges, Thieves, and Criminals'?\n(a) Three disjoint circles\n(b) One circle inside another, with the third circle disjoint\n(c) Two concentric circles intersecting a third circle\n(d) One circle completely containing the other two\nCorrect Answer: (b) One circle inside another, with the third circle disjoint [Explanation: All thieves are criminals (so Thieves is completely inside Criminals). Judges are legally separate and distinct from criminals, forming a disjoint circle.]",
+        "Q5. How many total squares are there in an 8x8 chessboard?\n(a) 64\n(b) 128\n(c) 204\n(d) 1,296\nCorrect Answer: (c) 204 [Explanation: Total squares in an n x n grid is given by sum of squares of first n natural numbers: n(n+1)(2n+1)/6. For n=8: (8 * 9 * 17)/6 = 1,224 / 6 = 204 squares.]"
+      ]
+    }
+  ]
+}

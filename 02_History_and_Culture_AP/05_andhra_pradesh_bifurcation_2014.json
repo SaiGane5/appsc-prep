@@ -1,0 +1,179 @@
+{
+  "topic_id": "APPSC-G1-AP-HIST-05",
+  "subject_code": "02_History_and_Culture_AP",
+  "subject_title": "History and Culture of Andhra Pradesh",
+  "paper": "Paper-II (Section B - Mains) & Paper-I Section-A (Screening)",
+  "topic_title": "Bifurcation of Andhra Pradesh (2014): AP Reorganisation Act, Economic, Administrative, and Riparian Impacts",
+  "syllabus_mapping": "Andhra Pradesh: Bifurcation of Andhra Pradesh and its impact on Administrative, Economic, Social, Political, Cultural and Legal Implications- Loss of Capital City, Building of New Capital and its financial Implications- Division of Employees and their Native Issues- Effect of Bifurcation on Trade& Commerce, Industry – Implication of Financial Resources of State Government. Developmental Opportunities- Socio-Economic, Cultural and Demographic impact of Bifurcation- Impact on River water sharing and other link issues- Andhra Pradesh Reorganization Act.2014- the Arbitrariness of certain provisions.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Bifurcation of Andhra Pradesh (2014): The Reorganisation Act, Structural Challenges, and Post-Bifurcation Realities"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Andhra Pradesh Reorganisation Act, 2014 bifurcated the unified state into the successor states of Andhra Pradesh and Telangana with the 'Appointed Day' designated as June 2, 2014. The partition fundamentally disrupted Andhra Pradesh's fiscal structure, institutional infrastructure, and administrative apparatus due to the sudden loss of Hyderabad, triggering acute fiscal deficits, river water disputes, and long-standing political confrontations over Special Category Status (SCS)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. The Andhra Pradesh Reorganisation Act, 2014: Key Provisions & Anomalies"
+    },
+    {
+      "type": "table",
+      "caption": "Key Statutory Provisions of the AP Reorganisation Act, 2014",
+      "headers": ["Statutory Provision", "Subject Matter", "Mandate & Operational Reality"],
+      "rows": [
+        [
+          "Section 5",
+          "Joint Capital Status",
+          "Hyderabad designated as common capital for both states for a period not exceeding 10 years (until June 2, 2024). AP vacated secretariat buildings earlier, moving governance to the Interim Government Complex at Velagapudi in 2016."
+        ],
+        [
+          "Section 6",
+          "Expert Committee on New Capital",
+          "Constitution of Sivaramakrishnan Committee to suggest alternatives for a new capital. Committee cautioned against super-concentration in a single mega-city and suggested a decentralized polycentric administrative model."
+        ],
+        [
+          "Section 47 & 53",
+          "Apportionment of Assets and Liabilities",
+          "Liabilities (debt) divided strictly on a population ratio basis (58.32% to AP, 41.68% to Telangana as per 2011 Census), while major tax revenues remained in Hyderabad, saddling AP with severe debt servicing burdens."
+        ],
+        [
+          "Section 85",
+          "River Management Boards",
+          "Establishment of Krishna River Management Board (KRMB) and Godavari River Management Board (GRMB) to regulate water release, reservoir operations, and power generation."
+        ],
+        [
+          "Section 90",
+          "Polavaram National Irrigation Project",
+          "Polavaram project declared a Project of National Importance; Central Government took responsibility for execution and financing, transferring 7 submerged mandals of Khammam to AP."
+        ],
+        [
+          "Section 94(1) & (2)",
+          "Fiscal Measures & Industrial Incentives",
+          "Central grants for revenue deficits, development grants for backward districts (7 districts: 4 in Rayalaseema, 3 in North Coastal), and special industrial tax incentives."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Administrative, Economic, and Fiscal Implications"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Immediate Fiscal Deficit: Hyderabad contributed over 50% of the undivided state's Own Tax Revenue (OTR) and commercial taxes. Telangana inherited an immediate fiscal surplus, whereas residual Andhra Pradesh began with a baseline revenue deficit exceeding ₹16,000 crore on the appointed day.",
+        "Loss of Premier Institutions: All central research institutes (CCMB, IICT, DRDO labs), elite tertiary universities (Osmania University, Hyderabad Central University), and healthcare infrastructure (NIMS, major teaching hospitals) were situated in Hyderabad.",
+        "Division of State-Cadre Employees: Overseen by the Kamalanathan Committee (apportioning over 54,000 state-cadre posts based on population ratio, nativity, and options), which took several years to resolve amid regional friction.",
+        "Division of IX and X Schedule Institutions: Governed by the Sheela Bhide Committee. Over 240 public sector undertakings, corporations, and apex institutions (AP State Road Transport Corporation, AP Dairy Development, Singareni Collieries) experienced severe deadlock regarding asset ownership versus headquarters location.",
+        "Building the New Capital at Amaravati: State enacted the AP Capital Region Development Authority (APCRDA) Act in 2014, pooling over 33,000 acres of fertile multi-cropped land across 29 villages via a novel Land Pooling Scheme (LPS). Subsequent political shifts (the 2020 Three Capitals proposal—Amaravati legislative, Visakhapatnam executive, Kurnool judicial—and its quashing by the AP High Court in 2022) created uncertainty until the decisive reinstatement of Amaravati as the single capital."
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Construction_Polavaram.jpg",
+      "caption": "Civil engineering works and spillway construction at the Polavaram Multi-Purpose Irrigation Project across River Godavari, declared a National Project under Section 90 of the AP Reorganisation Act 2014.",
+      "alt_text": "Construction work at Polavaram National Irrigation Project on the Godavari"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Riparian Challenges and Inter-State Water Disputes"
+    },
+    {
+      "type": "paragraph",
+      "text": "River water sharing between AP and Telangana emerged as a major Flashpoint across the Krishna and Godavari basins:"
+    },
+    {
+      "type": "table",
+      "caption": "Riparian Issues and Contested Projects Between Andhra Pradesh and Telangana",
+      "headers": ["Riparian Theater / Project", "River Basin", "Contested Issue & Hydro-Political Conflict"],
+      "rows": [
+        [
+          "Srisailam Reservoir",
+          "Krishna River",
+          "Hydropower generation below minimum drawdown levels (MDDL 854 ft). AP contested Telangana's power generation at Left Bank canal drawing water for Dindi/Palamuru-Ranga Reddy; Telangana challenged AP's Rayalaseema Lift Irrigation Scheme (RLIS) drawing water at 800 ft."
+        ],
+        [
+          "Nagarjuna Sagar Project",
+          "Krishna River",
+          "Dam infrastructure divided across borders (Right Bank canal in AP, Left Bank in Telangana); police standoffs erupted in 2023 over physical control of head regulators until CRPF was deployed under KRMB supervision."
+        ],
+        [
+          "Polavaram Multi-Purpose Project",
+          "Godavari River",
+          "Backwater submergence concerns raised by Odisha and Chhattisgarh; diaphragm wall damage during 2020 floods delayed completion; funding bottlenecks regarding Rehabilitation & Resettlement (R&R) compensation."
+        ],
+        [
+          "KRMB / GRMB Gazette Notifications",
+          "Krishna & Godavari",
+          "Ministry of Jal Shakti issued a historic gazette notification on July 15, 2021, bringing all unapproved and approved projects and outlets under the direct operational jurisdiction of KRMB and GRMB."
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Prakasam_Barrage%2CVijayawada_05.jpg",
+      "caption": "The Prakasam Barrage at Vijayawada on the Krishna River, regulating irrigation waters to the Krishna delta and serving as the confluence point for the Pattiseema Godavari-Krishna river interlinking canal.",
+      "alt_text": "View of Prakasam Barrage across the Krishna River in Vijayawada"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Special Category Status (SCS) Controversy & Unfulfilled Commitments"
+    },
+    {
+      "type": "paragraph",
+      "text": "During the passage of the AP Reorganisation Bill in Rajya Sabha on February 20, 2014, Prime Minister Manmohan Singh pledged Special Category Status (SCS) to the successor state of Andhra Pradesh for a period of 5 years to compensate for the loss of Hyderabad:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "14th & 15th Finance Commission Stance: The Central Government subsequently maintained that the 14th Finance Commission had eliminated the distinction between general category and special category states (except for North-Eastern and 3 Himalayan states), increasing the general tax devolution from 32% to 42%.",
+        "Special Assistance Measure (2016): The Union Government substituted SCS with a 'Special Assistance Measure', agreeing to bridge the 90:10 funding difference in Externally Aided Projects (EAPs) and providing financial support for capital construction and Polavaram irrigation components.",
+        "Unfulfilled Schedule XIII Commitments: Creation of a dedicated South Coast Railway (SCoR) Zone with headquarters at Visakhapatnam; establishment of an integrated steel plant in YSR Kadapa district; construction of a major port at Dugarajapatnam (shifted to Ramayapatnam); petro-chemical industrial corridor along the Vizag-Chennai Industrial Corridor (VCIC)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically examine the economic and fiscal consequences of the bifurcation of Andhra Pradesh in 2014. How far has the successor state coped with the structural loss of Hyderabad? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Highlight baseline conditions (58.32% population vs. loss of Hyderabad's commercial tax base that generated over 50% state revenues); explain debt apportionment disproportion (population-based liabilities vs. geographic asset division); evaluate acute initial revenue deficit (~₹16,000 crore); detail infrastructure constraints (lack of major international airports, healthcare hubs, tier-1 IT clusters); examine economic recovery strategies (ports along 974 km coastline, aquaculture, solar parks, industrial corridors like VCIC and CBIC); conclude on the urgent imperative for central support and capital completion.",
+        "Explain the mandate of the Sivaramakrishnan Committee on the capital city of Andhra Pradesh. Contrast its recommendations with the greenfield development model of Amaravati. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Detail the Sivaramakrishnan Committee mandate (appointed under Section 6 of AP Reorganisation Act); analyze its warnings against creating a single centralized mega-capital replicating Hyderabad; outline its recommendation for decentralized regional administrative clusters across Rayalaseema, Central Coastal, and North Coastal AP; contrast this with the Amaravati Master Plan (33,000-acre greenfield city on fertile Krishna river plains via Land Pooling Scheme); evaluate governance, financial, and legal controversies resulting from shifting capital policies.",
+        "Analyze the riparian conflicts between Andhra Pradesh and Telangana over the sharing of Krishna and Godavari river waters post-bifurcation. Evaluate the role of KRMB and the July 2021 Jal Shakti Gazette notification. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Trace water allocations under Bachawat Tribunal (KWDT-I) and Brijesh Kumar Tribunal (KWDT-II); discuss Flashpoints (hydropower drawdown at Srisailam, control of Nagarjuna Sagar gates, Rayalaseema Lift Irrigation Scheme, Palamuru-Ranga Reddy Lift Scheme); assess Section 85 mechanisms (KRMB/GRMB operational handicaps without enforcement teeth); explain the significance of the July 15, 2021, Ministry of Jal Shakti Gazette notification transferring project outlets to boards; emphasize necessity of telemetry, rule curves, and cooperative federalism."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Under the Andhra Pradesh Reorganisation Act, 2014, what was the statutory 'Appointed Day' on which the bifurcation took effect?\n(a) February 20, 2014\n(b) March 1, 2014\n(c) June 2, 2014\n(d) November 1, 2014\nCorrect Answer: (c) June 2, 2014 [Explanation: As notified by the Ministry of Home Affairs, June 2, 2014 was designated as the Appointed Day for the formation of the successor states of Telangana and Andhra Pradesh.]",
+        "Q2. Which expert committee was constituted under Section 6 of the AP Reorganisation Act, 2014 to study the alternatives for a new capital for Andhra Pradesh?\n(a) Kamalanathan Committee\n(b) Sivaramakrishnan Committee\n(c) Srikrishna Committee\n(d) Sheela Bhide Committee\nCorrect Answer: (b) Sivaramakrishnan Committee [Explanation: The Sivaramakrishnan Committee was constituted by the Union Ministry of Home Affairs under Section 6 to recommend suitable alternatives for the capital city.]",
+        "Q3. Which committee was appointed by the Government of India to supervise the division of state-cadre employees between Andhra Pradesh and Telangana?\n(a) Kamalanathan Committee\n(b) Sheela Bhide Committee\n(c) Justice L. Narasimha Reddy Committee\n(d) C.R. Reddy Committee\nCorrect Answer: (a) Kamalanathan Committee [Explanation: The Kamalanathan Committee oversaw the distribution of over 54,000 state-cadre employees between the two successor states.]",
+        "Q4. Which multipurpose project was declared a 'Project of National Importance' under Section 90 of the Andhra Pradesh Reorganisation Act, 2014?\n(a) Veligonda Project\n(b) Nagarjuna Sagar Project\n(c) Polavaram Multi-Purpose Irrigation Project\n(d) Handri-Neeva Sujala Sravanthi\nCorrect Answer: (c) Polavaram Multi-Purpose Irrigation Project [Explanation: Section 90 declared the Polavaram project as a National Project, with the Union Government committing to execute and finance its completion.]",
+        "Q5. Under the AP Reorganisation Act 2014, how was public debt (liabilities) of the undivided state divided between Andhra Pradesh and Telangana?\n(a) 50:50 equal division\n(b) On the basis of geographical area\n(c) On the basis of population ratio (58.32% to AP and 41.68% to Telangana as per 2011 Census)\n(d) On the basis of revenue generation capacity\nCorrect Answer: (c) On the basis of population ratio (58.32% to AP and 41.68% to Telangana as per 2011 Census) [Explanation: Sections 47 and 53 stipulated that liabilities and public debt be apportioned strictly based on the 2011 Census population ratio of 58.32 : 41.68.]"
+      ]
+    }
+  ]
+}

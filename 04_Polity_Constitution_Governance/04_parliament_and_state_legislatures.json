@@ -1,0 +1,186 @@
+{
+  "topic_id": "APPSC-G1-POL-04",
+  "subject_code": "04_Polity_Constitution_Governance",
+  "subject_title": "Indian Polity, Constitution and Governance",
+  "paper": "Paper-III (Section A - Mains) & Paper-I Section-B (Screening)",
+  "topic_title": "Parliament & State Legislatures: Structure, Powers, Parliamentary Committees, Privileges & Legislative Decline",
+  "syllabus_mapping": "Parliament and State Legislatures - structure, functioning, conduct of business, powers & privileges and issues arising out of these.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Union Parliament and State Legislatures: Constitutional Architecture, Legislative Procedures, Privileges, and Institutional Decline"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Constitution of India adopts the Westminster model of parliamentary democracy, establishing a bicameral Union Parliament (President, Council of States / Rajya Sabha, and House of the People / Lok Sabha under Article 79) and State Legislatures (Governor, Legislative Assembly / Vidhan Sabha, and optional Legislative Council / Vidhan Parishad under Article 168). While envisioned as the premier forum for representative deliberation, executive oversight, and national legislation, contemporary parliamentary functioning faces institutional challenges including declining sitting days, frequent disruptions, and bypass of committee scrutiny."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Structure & Composition: Lok Sabha vs. Rajya Sabha"
+    },
+    {
+      "type": "table",
+      "caption": "Bicameral Structure of the Union Parliament (Articles 80 & 81)",
+      "headers": ["Constitutional Dimension", "Lok Sabha (House of the People)", "Rajya Sabha (Council of States)"],
+      "rows": [
+        [
+          "Composition & Membership",
+          "Maximum strength 550 (originally 552; Anglo-Indian nomination abolished by 104th Amendment 2019); directly elected by universal adult franchise from territorial constituencies.",
+          "Maximum strength 250 (238 elected representatives of States/UTs + 12 nominated by President for expertise in Literature, Science, Art, and Social Service under Art. 80(3))."
+        ],
+        [
+          "Tenure & Dissolution",
+          "5-year normal term from date of first meeting; subject to premature dissolution by President on Council of Ministers' advice; can be extended during National Emergency for 1 year at a time.",
+          "Permanent house; not subject to dissolution; one-third of members retire every second year (staggered 6-year individual tenure)."
+        ],
+        [
+          "Presiding Officers",
+          "Speaker and Deputy Speaker (Article 93), elected by the House from amongst its members.",
+          "Vice-President of India is ex-officio Chairman (Article 89); Deputy Chairman elected by Rajya Sabha from its members."
+        ],
+        [
+          "Exclusive / Special Powers",
+          "Exclusive authority over Money Bills (Article 109); motions of no-confidence against Council of Ministers (Article 75(3)); primacy in voting demands for grants.",
+          "Article 249 (authorizing Parliament to legislate on State List); Article 312 (resolution creating new All-India Services); Article 67 (initiating Vice-President removal)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Legislative Procedures, Bills, and Joint Sittings"
+    },
+    {
+      "type": "table",
+      "caption": "Classification of Bills in Parliament and Passage Mechanisms",
+      "headers": ["Bill Category", "Constitutional Definition", "Introduction & Majority Requirement", "Rajya Sabha Powers & Joint Sitting"],
+      "rows": [
+        [
+          "Ordinary Bill",
+          "Article 107",
+          "Can be introduced in either House by a Minister or Private Member; requires simple majority.",
+          "Rajya Sabha can amend or reject, or delay for up to 6 months; Joint Sitting (Article 108) summoned by President, presided over by Lok Sabha Speaker."
+        ],
+        [
+          "Money Bill",
+          "Article 110 (strictly only taxes, borrowing, Consolidated Fund withdrawals)",
+          "Introduced only in Lok Sabha with prior recommendation of President; certified solely by Speaker (Art. 110(3)).",
+          "Rajya Sabha has strictly limited powers; cannot reject or amend; must return within 14 days with or without recommendations; No Joint Sitting permissible."
+        ],
+        [
+          "Financial Bill (Category I)",
+          "Article 117(1) (contains Article 110 matters + other general matters)",
+          "Introduced only in Lok Sabha with prior recommendation of President; simple majority.",
+          "Once introduced, treated like an Ordinary Bill in all other respects; Rajya Sabha can reject/amend; Joint Sitting applicable under Article 108."
+        ],
+        [
+          "Financial Bill (Category II)",
+          "Article 117(3) (involves expenditure from Consolidated Fund without Art. 110 matters)",
+          "Can be introduced in either House without prior Presidential recommendation; required at consideration stage.",
+          "Treated exactly like an Ordinary Bill by both Houses; Joint Sitting applicable under Article 108."
+        ],
+        [
+          "Constitutional Amendment Bill",
+          "Article 368",
+          "Can be introduced in either House without prior Presidential sanction; requires special majority (majority of total membership + 2/3rd present and voting).",
+          "Rajya Sabha possesses equal power; each House must pass independently; Joint Sitting is NOT permissible under Article 368."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Parliamentary Committees: Financial and Departmental Oversight"
+    },
+    {
+      "type": "paragraph",
+      "text": "Given Parliament's constrained calendar, detailed scrutiny of legislation, budgets, and executive decisions is performed by Parliamentary Standing Committees (PSCs):"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Public Accounts Committee (PAC): Established in 1921 under the Montagu-Chelmsford reforms; comprises 22 members (15 Lok Sabha, 7 Rajya Sabha) elected via proportional representation. Examines the annual audit reports of the Comptroller and Auditor General (CAG); conventionally chaired by an Opposition leader since 1967.",
+        "Estimates Committee: Largest parliamentary financial committee; comprises 30 members exclusively drawn from Lok Sabha (no Rajya Sabha representation); examines budget estimates and suggests economies in public expenditure ('Continuous Economy Committee').",
+        "Committee on Public Undertakings (COPU): Created in 1964 on the recommendation of the Krishna Menon Committee; comprises 22 members (15 LS, 7 RS); examines reports and accounts of central public sector enterprises and CAG commercial audits.",
+        "Departmentally Related Standing Committees (DRSCs): 24 committees (16 under Lok Sabha, 8 under Rajya Sabha) covering all Union ministries. Scrutinize ministerial Demands for Grants, examine introduced Bills referred by the Speaker/Chairman, and review annual ministry reports."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Parliamentary Privileges and Anti-Defection Law"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parliamentary privileges (Article 105 for Parliament, Article 194 for State Legislatures) are special rights, immunities, and exemptions enjoyed by legislators to perform their duties without external obstruction:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Collective Privileges: Right to publish debates and prohibit external publication; right to exclude strangers from proceedings (secret sittings); right to punish members and outsiders for breach of privilege or contempt of the house.",
+        "Individual Privileges: Freedom of speech in Parliament (absolute immunity from court proceedings regarding anything said or vote given under Art. 105(2)); freedom from civil arrest 40 days before, during, and 40 days after parliamentary sessions (does not extend to criminal proceedings or preventive detention); exemption from jury service.",
+        "Tenth Schedule (Anti-Defection Law): Inserted by the 52nd Constitutional Amendment Act, 1985 to curb political horse-trading ('Aaya Ram, Gaya Ram'). Disqualifies members for voluntarily giving up party membership or defying party whip (voting contrary to directions without prior party permission). Exception: Merger of party where at least two-thirds of elected members agree (91st Amendment 2003 deleted the earlier 1/3rd split exemption).",
+        "Kihoto Hollohan v. Zachillhu (1992): The Supreme Court upheld the constitutional validity of the Tenth Schedule, but held that the Speaker's adjudication on disqualification is subject to judicial review on grounds of mala fides, perversity, or violation of constitutional mandates."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Contemporary Challenges & Legislative Decline"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recent decades have seen concerns regarding the institutional erosion of legislative efficacy:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Plummeting Sittings: The Lok Sabha sat for an average of over 120 days annually in the 1950s, which dropped to fewer than 60–70 days in recent decades.",
+        "Bypassing Committee Scrutiny: While over 60–70% of bills were referred to Parliamentary Standing Committees during the 14th and 15th Lok Sabhas, this figure plummeted to below 20% in recent Parliaments.",
+        "Frequent Recourse to Ordinances (Article 123 & 213): Promulgation of executive ordinances bypassing legislative deliberation; censured in D.C. Wadhwa v. State of Bihar (1987) as a 'fraud on the Constitution'.",
+        "Disruptions & Guillotine Budgeting: Indiscriminate walkouts and disruptions lead to passing crucial budgetary Demands for Grants and complex legislative statutes via voice vote without clause-by-clause scrutiny under the Guillotine mechanism."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Discuss the role and functioning of the Public Accounts Committee (PAC) and Departmentally Related Standing Committees (DRSCs) in ensuring executive accountability to the legislature. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Introduce parliamentary committees as the 'mini-parliament' enabling non-partisan, cross-party scrutiny away from public rhetoric; analyze PAC: scrutiny of CAG audit reports on appropriation and financial accounts, convention of Opposition leadership, checking financial impropriety and systemic leakages; analyze DRSCs (24 committees): in-depth examination of ministerial Demands for Grants, reviewing draft bills, holding executive officers accountable; discuss contemporary concerns (non-binding recommendations, bypassing committee referrals for fast-tracked legislation); conclude with recommendations from 2nd ARC and NCRWC.",
+        "Critically examine the working of the Anti-Defection Law (Tenth Schedule) in India. Has it succeeded in checking opportunistic party-hopping, or has it stifled intra-party dissent? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contextualize the 52nd Amendment (1985) and 91st Amendment (2003); evaluate successes (checking unprincipled individual defections, stabilizing executive tenure); analyze operational deficiencies: weaponization of the Speaker's office by delaying decisions or partisan rulings, abuse of resignation loopholes to bypass disqualification, stifling internal debate by penalizing genuine conscience voting on non-money matters; detail Kihoto Hollohan (1992) and Keisham Meghachandra Singh (2020) judgments; propose reforms: transferring disqualification decisions to the Election Commission of India (Dinesh Goswami committee) or restricting whip only to confidence votes and money bills.",
+        "Examine the constitutional validity and ethical dilemmas surrounding the promulgation of Ordinances under Article 123 and Article 213 of the Indian Constitution. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define ordinance-making power as an extraordinary emergency legislative mechanism when Parliament/Assembly is in recess and immediate action is required; analyze misuse (re-promulgation without tabling before legislature to bypass democratic scrutiny); detail landmark constitutional jurisprudence: R.K. Garg (1981), D.C. Wadhwa (1987 - repromulgation of ordinances as fraud on the constitution), and Krishna Kumar Singh v. State of Bihar (2017 - mandatory tabling requirement, subject to judicial review for colourable exercise of power)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which Parliamentary Committee is composed exclusively of members from the Lok Sabha without any representation from the Rajya Sabha?\n(a) Public Accounts Committee (PAC)\n(b) Estimates Committee\n(c) Committee on Public Undertakings (COPU)\n(d) Committee on Subordinate Legislation\nCorrect Answer: (b) Estimates Committee [Explanation: The Estimates Committee consists of 30 members, all elected exclusively from the Lok Sabha; the Rajya Sabha has no representation on this committee.]",
+        "Q2. Under Article 108 of the Constitution, who presides over a Joint Sitting of both Houses of Parliament?\n(a) President of India\n(b) Chairman of Rajya Sabha (Vice-President)\n(c) Speaker of Lok Sabha\n(d) Union Law Minister\nCorrect Answer: (c) Speaker of Lok Sabha [Explanation: Under Article 118(4), a Joint Sitting summoned by the President under Article 108 is presided over by the Speaker of the Lok Sabha (or in his absence, the Deputy Speaker).]",
+        "Q3. In which landmark judgment did the Supreme Court rule that the Speaker's decisions under the Tenth Schedule (Anti-Defection Law) are amenable to judicial review?\n(a) Shankari Prasad v. Union of India\n(b) Kihoto Hollohan v. Zachillhu (1992)\n(c) S.R. Bommai v. Union of India\n(d) Minerva Mills v. Union of India\nCorrect Answer: (b) Kihoto Hollohan v. Zachillhu (1992) [Explanation: In Kihoto Hollohan (1992), the Supreme Court struck down paragraph 7 of the Tenth Schedule (which excluded judicial review) and held that the Speaker functions as a tribunal subject to judicial review.]",
+        "Q4. A Money Bill under Article 110 can be introduced in Parliament only:\n(a) In the Rajya Sabha with prior sanction of the President\n(b) In the Lok Sabha with prior recommendation of the President\n(c) In either House after cabinet approval\n(d) In a Joint Sitting of both Houses\nCorrect Answer: (b) In the Lok Sabha with prior recommendation of the President [Explanation: Under Article 117(1) read with Article 109, a Money Bill can be introduced solely in the Lok Sabha on the prior recommendation of the President.]",
+        "Q5. Which Constitutional Amendment Act abolished the provision for nomination of two Anglo-Indian members to the Lok Sabha and State Legislative Assemblies?\n(a) 101st Amendment Act, 2016\n(b) 103rd Amendment Act, 2019\n(c) 104th Amendment Act, 2019\n(d) 105th Amendment Act, 2021\nCorrect Answer: (c) 104th Amendment Act, 2019 [Explanation: The 104th Constitutional Amendment Act, 2019 extended reservations for SCs and STs in Lok Sabha and Assemblies for 10 years, while discontinuing the reserved seats for Anglo-Indians.]"
+      ]
+    }
+  ]
+}

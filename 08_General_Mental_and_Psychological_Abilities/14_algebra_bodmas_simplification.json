@@ -1,0 +1,104 @@
+{
+  "topic_id": "APPSC-G1-GMA-14",
+  "subject_code": "08_General_Mental_and_Psychological_Abilities",
+  "subject_title": "General Mental and Psychological Abilities",
+  "paper": "Screening Paper-II (Section A)",
+  "topic_title": "Algebra Fundamentals: BODMAS, Identities & Operator Simplifications",
+  "syllabus_mapping": "Introduction to algebra \u2014 BODMAS, simplification of weird symbols - Order of Operations (BODMAS / PEMDAS), Algebraic Polynomial Identities, Linear and Quadratic Equations, Symbol Substitution and Custom Mathematical Operators.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Algebraic Foundations: BODMAS Precedence, Identities, and Operator Substitution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Order of operations and algebraic identities allow complex numerical expressions to be evaluated without arithmetic errors. Operator substitution tests logical discipline by redefining standard arithmetic operators with novel arbitrary symbols."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. BODMAS Order of Operations Hierarchy"
+    },
+    {
+      "type": "table",
+      "caption": "Order of Precedence in Mathematical Expressions",
+      "headers": [
+        "Order Priority",
+        "Operation Step",
+        "Mathematical Notation / Meaning"
+      ],
+      "rows": [
+        [
+          "1. B",
+          "Brackets",
+          "Bar/Vinculum $(\\overline{a-b})$ -> Round ( ) -> Curly { } -> Square [ ]"
+        ],
+        [
+          "2. O",
+          "Orders / 'Of' / Exponents",
+          "'Of' implies multiplication with higher precedence; Powers and roots ($x^2, \\sqrt{x}$)"
+        ],
+        [
+          "3. D & M",
+          "Division and Multiplication",
+          "Equal priority; evaluated strictly from Left to Right."
+        ],
+        [
+          "4. A & S",
+          "Addition and Subtraction",
+          "Equal priority; evaluated strictly from Left to Right."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. High-Yield Algebraic Identities"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Difference of Squares: $a^2 - b^2 = (a - b)(a + b)$.",
+        "Cubic Expansions: $(a + b)^3 = a^3 + b^3 + 3ab(a + b)$; $(a - b)^3 = a^3 - b^3 - 3ab(a - b)$.",
+        "Sum & Difference of Cubes: $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$; $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$.",
+        "Special Identity: $a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)$. If $a + b + c = 0$, then $a^3 + b^3 + c^3 = 3abc$."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Analytical Algebraic Simplifications"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Evaluate the exact numerical value of the expression without direct cubic computation: (0.7)^3 + (0.3)^3 - 3(0.7)(0.3)(1.0) / (0.7)^2 + (0.3)^2 - (0.7)(0.3). Formulate the identity proof. (APPSC Group-1 Mains Analytical, 10 Marks)\n-> Model Approach: Let a = 0.7 and b = 0.3. Then a + b = 1.0. We know the algebraic identity: a^3 + b^3 = (a + b)(a^2 - ab + b^2). The expression simplifies directly: [ (a + b)(a^2 - ab + b^2) ] / [ a^2 - ab + b^2 ] = (a + b). Since a = 0.7 and b = 0.3, (a + b) = 1.0."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Evaluate: 25 - [20 - {10 - (7 - 5 - 3)}]\n(a) 14\n(b) 16\n(c) 18\n(d) 20\nCorrect Answer: (b) 16 [Explanation: Using BODMAS from inner bracket: (7 - 5 - 3) = -1. Then {10 - (-1)} = 10 + 1 = 11. Then [20 - 11] = 9. Finally 25 - 9 = 16.]",
+        "Q2. If '+' means '\u00f7', 'x' means '+', '\u00f7' means '-', and '-' means 'x', then evaluate: 16 x 8 - 4 + 2 \u00f7 10 = ?\n(a) 16\n(b) 22\n(c) 28\n(d) 32\nCorrect Answer: (b) 22 [Explanation: Substitute symbols: 16 + 8 * 4 / 2 - 10. By BODMAS: 4 / 2 = 2. Then 8 * 2 = 16. Expression becomes 16 + 16 - 10 = 32 - 10 = 22.]",
+        "Q3. If (a + b + c) = 0, what is the value of (a^3 + b^3 + c^3) / (abc)?\n(a) 0\n(b) 1\n(c) 3\n(d) -3\nCorrect Answer: (c) 3 [Explanation: By algebraic identity, if a + b + c = 0, then a^3 + b^3 + c^3 = 3abc. Therefore, (a^3 + b^3 + c^3) / abc = 3abc / abc = 3.]",
+        "Q4. If x + 1/x = 5, what is the value of x^2 + 1/x^2?\n(a) 23\n(b) 25\n(c) 27\n(d) 52\nCorrect Answer: (a) 23 [Explanation: Squaring both sides: (x + 1/x)^2 = 5^2 => x^2 + 2(x)(1/x) + 1/x^2 = 25 => x^2 + 2 + 1/x^2 = 25 => x^2 + 1/x^2 = 23.]",
+        "Q5. If the operation * is defined as a * b = 2a + 3b - ab, find the value of 4 * 5.\n(a) 3\n(b) 7\n(c) 9\n(d) 11\nCorrect Answer: (a) 3 [Explanation: 4 * 5 = 2(4) + 3(5) - (4 * 5) = 8 + 15 - 20 = 23 - 20 = 3.]"
+      ]
+    }
+  ]
+}

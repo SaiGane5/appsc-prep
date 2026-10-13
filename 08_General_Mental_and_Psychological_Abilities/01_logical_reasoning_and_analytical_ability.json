@@ -1,0 +1,150 @@
+{
+  "topic_id": "APPSC-G1-GMA-01",
+  "subject_code": "08_General_Mental_and_Psychological_Abilities",
+  "subject_title": "General Mental and Psychological Abilities",
+  "paper": "Screening Paper-II (Section A)",
+  "topic_title": "Logical Reasoning, Analytical Ability, Syllogisms & Seating Arrangements",
+  "syllabus_mapping": "Logical Reasoning and Analytical Ability - Deductive and Inductive Logic, Syllogisms, Statement and Assumptions, Statement and Arguments, Statement and Courses of Action, Linear and Circular Seating Arrangements, Puzzles and Analytical Reasoning.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Logical Reasoning, Deductive Logic, Syllogisms, and Analytical Seating Arrangements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Logical Reasoning and Analytical Ability evaluate an aspirant's capacity to recognize valid deductive inferences, distinguish logical assumptions from unverified extrapolations, evaluate argument strength, and systematically resolve multi-variable spatial and arrangement puzzles common in civil administration decision-making."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Venn_A_intersect_B.svg",
+      "caption": "Set intersection diagram, illustrating the foundational categorical logic underlying categorical propositions and syllogistic deductions.",
+      "alt_text": "Venn diagram showing intersection between Set A and Set B"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Categorical Syllogisms: Proposition Types & Rules of Deduction"
+    },
+    {
+      "type": "table",
+      "caption": "Standard Form Categorical Propositions in Syllogistic Deduction",
+      "headers": [
+        "Proposition Type",
+        "Symbol & Quantity/Quality",
+        "Standard Format",
+        "Venn Diagram & Distribution Rules"
+      ],
+      "rows": [
+        [
+          "Universal Affirmative",
+          "A (Universal, Positive)",
+          "All S are P",
+          "Subject (S) is fully contained inside Predicate (P). Subject term is distributed; Predicate term is undistributed."
+        ],
+        [
+          "Universal Negative",
+          "E (Universal, Negative)",
+          "No S is P",
+          "Sets S and P are completely disjoint with zero overlap. Both Subject and Predicate terms are distributed."
+        ],
+        [
+          "Particular Affirmative",
+          "I (Particular, Positive)",
+          "Some S are P",
+          "Sets S and P have a non-empty intersection. Neither Subject nor Predicate term is distributed."
+        ],
+        [
+          "Particular Negative",
+          "O (Particular, Negative)",
+          "Some S are not P",
+          "At least one member of S exists outside P. Subject term is undistributed; Predicate term is distributed."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Critical Verbal Reasoning: Assumptions, Arguments & Course of Action"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Statement & Assumptions: An assumption is something taken for granted or assumed before stating the premise. Valid assumptions must be directly presupposed by the speaker without bringing far-fetched external knowledge or extreme absolute words ('all', 'always', 'never').",
+        "Statement & Arguments: Strong arguments must directly address the central premise, be based on established facts or constitutional/scientific principles, and have significant societal relevance. Weak arguments rely on personal opinions, simple imitation ('Country X did this, so we should'), or emotional biases.",
+        "Statement & Course of Action: A correct administrative course of action must solve the identified problem or minimize its impact, be feasible and proportional to the issue, and not create an even greater secondary problem."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Seating Arrangements & Complex Analytical Puzzles"
+    },
+    {
+      "type": "table",
+      "caption": "Spatial Reasoning Rules for Seating Arrangements",
+      "headers": [
+        "Arrangement Type",
+        "Direction / Facing",
+        "Left vs. Right Conventions",
+        "Systematic Solving Strategy"
+      ],
+      "rows": [
+        [
+          "Circular Table (Facing Inward / Centre)",
+          "All participants face towards the center of the table.",
+          "Clockwise movement corresponds to LEFT. Counter-clockwise movement corresponds to RIGHT.",
+          "Fix a definite anchor person at the bottom (position 6 o'clock) and place relative positions accordingly."
+        ],
+        [
+          "Circular Table (Facing Outward)",
+          "Participants face away from the table center.",
+          "Clockwise movement corresponds to RIGHT. Counter-clockwise movement corresponds to LEFT.",
+          "Reverse the standard inward-facing left/right assignments."
+        ],
+        [
+          "Linear Row (Facing North)",
+          "Single parallel row oriented towards the North.",
+          "Your natural left hand is LEFT. Your natural right hand is RIGHT.",
+          "Identify definite end-points or exact positions from left/right edges before filling relative gaps."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Analytical Descriptive & Case Decision Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Statement: 'To reduce urban traffic congestion and vehicular emissions, the municipal corporation proposes a heavy congestion fee on private vehicles entering the central business district during peak hours.'\nEvaluate the following courses of action as a senior administrator:\nCourse of Action I: The municipal corporation should implement the congestion fee immediately without waiting for alternative public transit arrangements.\nCourse of Action II: The municipal corporation should significantly increase high-frequency electric bus shuttles and metro feeders connecting suburban parking hubs prior to or simultaneously with levying congestion fees.\nCourse of Action III: The municipal corporation should completely ban all private vehicles from entering the city permanently.\n(APPSC Group-1 Mains Analytical, 10 Marks)\n-> Model Approach: Course of Action I is unviable because punitive pricing without viable alternatives creates acute citizen distress and economic stagnation. Course of Action II is the correct and balanced administrative intervention because economic disincentives must be matched with reliable public transport alternatives to achieve sustainable modal shift. Course of Action III is disproportionate, extreme, and unconstitutional, as an outright ban violates freedom of movement and cripples commercial activity.",
+        "Six civil service probationers\u2014A, B, C, D, E, and F\u2014are seated in a circle discussing public policy. A is facing the centre and sitting opposite D. B is sitting immediately to the right of A. C is sitting between D and E. F is sitting immediately to the left of D. Determine who is seated between B and D, and evaluate the step-by-step spatial deduplication. (APPSC Group-1 Mains Analytical, 10 Marks)\n-> Model Approach: Position A at 6 o'clock facing center. Since D is opposite A, D is at 12 o'clock. B is to the immediate right of A (anti-clockwise from 6 o'clock, so B is at 4 o'clock). F is immediately to the left of D (facing center from 12 o'clock, left is clockwise, so F is at 2 o'clock). C is between D and E; with D at 12 o'clock and F at 2 o'clock, E must be at 8 o'clock and C at 10 o'clock. Looking at the positions clockwise from A(6): B(4), F(2), D(12), C(10), E(8). Therefore, F is seated between B and D."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Statements:\n1. All IAS officers are administrators.\n2. Some administrators are authors.\nConclusions:\nI. Some IAS officers are authors.\nII. Some authors are administrators.\n(a) Only Conclusion I follows\n(b) Only Conclusion II follows\n(c) Both Conclusions I and II follow\n(d) Neither Conclusion I nor II follows\nCorrect Answer: (b) Only Conclusion II follows [Explanation: 'All IAS are administrators' (A) and 'Some administrators are authors' (I). Middle term 'administrators' is undistributed in both premises, so no categorical conclusion links IAS officers with authors. However, premise 2 'Some administrators are authors' converts simply by conversion to 'Some authors are administrators'. Thus only Conclusion II follows.]",
+        "Q2. Statements: 'Should diesel luxury SUVs be subjected to a 50% environmental cess in metro cities?'\nArguments:\nI. Yes, because diesel emissions contribute significantly to hazardous PM2.5 particulates and toxic air pollution in dense urban clusters.\nII. No, because luxury vehicles are driven by wealthy individuals who contribute high direct income taxes to the government.\n(a) Only Argument I is strong\n(b) Only Argument II is strong\n(c) Both Arguments I and II are strong\n(d) Neither Argument I nor II is strong\nCorrect Answer: (a) Only Argument I is strong [Explanation: Argument I is strong as it provides a direct, factual environmental and public health justification. Argument II is weak and flawed because paying income tax does not grant an exemption from environmental accountability under the Polluter Pays Principle.]",
+        "Q3. In a row of 40 students facing North, P is 13th from the left end and Q is 9th from the right end. How many students are seated between P and Q?\n(a) 16\n(b) 18\n(c) 19\n(d) 20\nCorrect Answer: (b) 18 [Explanation: Total students = 40. P is 13th from left, Q is 9th from right. Sum of their end positions = 13 + 9 = 22. Since total (40) > sum (22), there is no overlap. Students between P and Q = Total - (Left rank + Right rank) = 40 - (13 + 9) = 40 - 22 = 18.]",
+        "Q4. In a code language, if 'NOIDA' is coded as '39658', how is 'INDIA' coded?\n(a) 63568\n(b) 63586\n(c) 65628\n(d) 36568\nCorrect Answer: (a) 63568 [Explanation: Comparing corresponding letters in NOIDA (N=3, O=9, I=6, D=5, A=8). For INDIA: I=6, N=3, D=5, I=6, A=8, giving 63568.]",
+        "Q5. Seven persons A, B, C, D, E, F, and G are sitting in a straight row facing North. C is sitting fourth to the right of G. Neither C nor G sits at any extreme end. A is sitting second to the left of C. Who is sitting exactly at the center (4th position) of the row?\n(a) A\n(b) B\n(c) D\n(d) C\nCorrect Answer: (a) A [Explanation: In a row of 7 seats (1 to 7). G and C are not at ends, and C is 4th to the right of G (meaning C index = G index + 4). Since G >= 2 and C <= 6: G must be at seat 2, which places C at seat 2 + 4 = 6. A is 2nd to the left of C, so A is at seat 6 - 2 = 4 (the exact center of the row).] "
+      ]
+    }
+  ]
+}

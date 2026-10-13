@@ -1,0 +1,135 @@
+{
+  "topic_id": "APPSC-G1-GMA-07",
+  "subject_code": "08_General_Mental_and_Psychological_Abilities",
+  "subject_title": "General Mental and Psychological Abilities",
+  "paper": "Screening Paper-II (Section A)",
+  "topic_title": "Ratio, Proportion, Direct/Inverse Variation & Mixtures",
+  "syllabus_mapping": "Ratio, proportion and variation - Properties of Ratios, Compounding, Duplicate and Sub-duplicate Ratios, Mean Proportional and Third/Fourth Proportional, Direct, Inverse and Joint Variation, Partnership Profit Allocation, Alligations and Mixtures Formula.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ratios, Proportions, Direct/Inverse Variations, Partnerships, and Alligation Mixtures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ratio and proportion define relative magnitudes and scale relationships across quantitative data. In governance, this underpins budget allocations, demographic proportionalities, business partnership dividends, and resource-blending problems."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Fundamental Properties of Proportions & Types"
+    },
+    {
+      "type": "table",
+      "caption": "Proportionality Relationships and Formulas",
+      "headers": [
+        "Concept / Term",
+        "Mathematical Definition",
+        "Formula / Solution Rule"
+      ],
+      "rows": [
+        [
+          "Fourth Proportional",
+          "If $a : b :: c : d$, then $d$ is the fourth proportional to $a, b, c$.",
+          "$d = \\frac{b \\times c}{a}$"
+        ],
+        [
+          "Third Proportional",
+          "If $a : b :: b : c$, then $c$ is the third proportional to $a$ and $b$.",
+          "$c = \\frac{b^2}{a}$"
+        ],
+        [
+          "Mean Proportional",
+          "Mean proportional $x$ between $a$ and $b$.",
+          "$x = \\sqrt{a \\times b}$"
+        ],
+        [
+          "Compounded Ratio",
+          "Compounding of $a:b$ and $c:d$.",
+          "$\\frac{ac}{bd}$"
+        ],
+        [
+          "Direct vs. Inverse Variation",
+          "Direct: $y = kx$ ($y/x = \\text{const}$). Inverse: $xy = k$ ($y = k/x$).",
+          "Direct: more speed = more distance. Inverse: more speed = less time."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Rule of Alligation (Weighted Mixture Cross-Method)"
+    },
+    {
+      "type": "paragraph",
+      "text": "When two ingredients at costs/concentrations $c_1$ (cheaper) and $d_1$ (dearer) are mixed to produce an intermediate mean mixture $m$:"
+    },
+    {
+      "type": "table",
+      "caption": "Alligation Cross Formula for Mixtures",
+      "headers": [
+        "Cheaper Price ($c$)",
+        "Dearer Price ($d$)",
+        "Mean Price ($m$)",
+        "Ratio of Quantities ($q_c : q_d$)"
+      ],
+      "rows": [
+        [
+          "$c$",
+          "$d$",
+          "$m$",
+          "$\\frac{\\text{Quantity of Cheaper}}{\\text{Quantity of Dearer}} = \\frac{d - m}{m - c}$"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Partnership Profit-Sharing Principles"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Simple Partnership: Profit is shared directly in the ratio of capital investments when time is equal: $P_1 : P_2 = C_1 : C_2$.",
+        "Compound Partnership: When capital is invested for different durations, profit is divided in the ratio of the product of capital and time: $P_1 : P_2 = (C_1 \\times T_1) : (C_2 \\times T_2)$.",
+        "Working vs Sleeping Partner: Working partners receive an agreed management salary/commission deducted from gross profit before dividing remaining net profit according to capital-time ratios."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Analytical Descriptive Partnership & Alligation Modelling"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "A, B, and C enter into a business partnership. A invests \u20b940,000 for the entire year. B invests \u20b960,000 initially, but increases it to \u20b980,000 after 4 months. C invests \u20b91,00,000 initially, but withdraws \u20b920,000 after 9 months. If the total profit at the end of the year is \u20b91,68,000, calculate each partner's profit share and formulate the capital-time equivalent model. (APPSC Group-1 Mains Analytical, 10 Marks)\n-> Model Approach: Calculate effective equivalent capital invested for 1 month:\nA's equivalent capital = 40,000 * 12 = 4,80,000.\nB's equivalent capital = (60,000 * 4) + (80,000 * 8) = 2,40,000 + 6,40,000 = 8,80,000.\nC's equivalent capital = (1,00,000 * 9) + (80,000 * 3) = 9,00,000 + 2,40,000 = 11,40,000.\nRatio of profit shares A : B : C = 48 : 88 : 114 = 24 : 44 : 57.\nSum of ratio parts = 24 + 44 + 57 = 125 parts? Wait, check: 48/2 = 24; 88/2 = 44; 114/2 = 57. Sum = 125. Then each part = 1,68,000 / 125 = \u20b91,344. A's share = 24 * 1,344 = \u20b932,256; B's share = 44 * 1,344 = \u20b959,136; C's share = 57 * 1,344 = \u20b976,608."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. If A : B = 3 : 4, B : C = 8 : 9, and C : D = 15 : 16, what is the combined ratio A : D?\n(a) 1 : 2\n(b) 5 : 8\n(c) 3 : 5\n(d) 2 : 3\nCorrect Answer: (b) 5 : 8 [Explanation: A/D = (A/B) * (B/C) * (C/D) = (3/4) * (8/9) * (15/16). Simplifying: (3 * 8 * 15) / (4 * 9 * 16) = (360) / (576) = 5/8. Therefore, A : D = 5 : 8.]",
+        "Q2. In what ratio must tea at \u20b962 per kg be mixed with tea at \u20b972 per kg so that the mixture must be worth \u20b964.50 per kg?\n(a) 3 : 1\n(b) 3 : 2\n(c) 4 : 3\n(d) 5 : 3\nCorrect Answer: (a) 3 : 1 [Explanation: Using Rule of Alligation: Cheaper c = 62, Dearer d = 72, Mean m = 64.50. Ratio (Cheaper : Dearer) = (d - m) : (m - c) = (72 - 64.50) : (64.50 - 62) = 7.50 : 2.50 = 3 : 1.]",
+        "Q3. What is the mean proportional between 0.08 and 0.18?\n(a) 0.12\n(b) 0.14\n(c) 0.16\n(d) 0.18\nCorrect Answer: (a) 0.12 [Explanation: Mean proportional x = \u221a(a * b) = \u221a(0.08 * 0.18) = \u221a(0.0144) = 0.12.]",
+        "Q4. If 15 men working 8 hours a day can complete a project in 21 days, in how many days can 14 men working 6 hours a day complete the same project?\n(a) 25 days\n(b) 30 days\n(c) 32 days\n(d) 35 days\nCorrect Answer: (b) 30 days [Explanation: Formula: M1 * D1 * H1 = M2 * D2 * H2. 15 * 21 * 8 = 14 * D2 * 6 => 2,520 = 84 * D2 => D2 = 2,520 / 84 = 30 days.]",
+        "Q5. A vessel contains 60 litres of milk. 12 litres of milk is taken out and replaced with water. This process is repeated one more time. How much milk is left in the vessel now?\n(a) 36.4 litres\n(b) 38.4 litres\n(c) 40.0 litres\n(d) 42.5 litres\nCorrect Answer: (b) 38.4 litres [Explanation: Amount of pure liquid remaining = Initial * [1 - (x / C)]^n = 60 * [1 - (12/60)]^2 = 60 * (4/5)^2 = 60 * (16/25) = 38.4 litres.]"
+      ]
+    }
+  ]
+}

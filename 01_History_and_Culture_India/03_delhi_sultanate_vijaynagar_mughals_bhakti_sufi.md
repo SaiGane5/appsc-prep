@@ -1,0 +1,112 @@
+# Delhi Sultanate, Vijayanagar Empire, Mughal Empire, Bhakti Movement & Sufism
+
+**Topic ID:** `APPSC-G1-HIST-03` | **Subject:** History and Culture of India | **Paper:** Paper-II (Mains Section A) & Paper-I (Screening Section A)
+
+> **Syllabus Mapping:** 3. The Delhi Sultanate, the Vijaynagar Empire and the Mughal Empire, the Bhakti Movement and Sufism - Administration, Economy, Society, Religion, Literature, Arts and Architecture.
+
+---
+
+
+## Medieval Indian Polities: The Delhi Sultanate, The Vijayanagar Empire, The Mughal Empire, and The Bhakti-Sufi Synthesis
+
+Medieval Indian history represents an era of institutional synthesis and cultural fusion. It was defined by the bureaucratic and military innovations of the Delhi Sultanate, the defense of South Indian cultural sovereignty by the Vijayanagar Empire, the grand imperial consolidation, revenue standardization, and Indo-Islamic artistic zenith of the Mughals, alongside the democratization of spiritual devotion spearheaded by the egalitarian Bhakti and Sufi movements.
+
+
+![Vittala Temple stone chariot at Hampi Vijayanagara](https://upload.wikimedia.org/wikipedia/commons/2/2e/Hampi_chariot.jpg)
+*The Stone Chariot inside the Vittala Temple at Hampi, UNESCO World Heritage site, exemplifying the architectural zenith of the Vijayanagar Empire under Sri Krishnadevaraya.*
+
+
+### 1. The Delhi Sultanate (1206–1526 CE): Polities & Administrative Structures
+
+
+*Dynastic Trajectory and Major Administrative Innovations of the Delhi Sultanate*
+
+| Dynasty & Rulers | Administrative & Revenue Reforms | Military, Architectural & Economic Innovations |
+| --- | --- | --- |
+| Mamluk / Slave Dynasty (1206–1290) | Qutb-ud-din Aibak, Iltutmish (established Turkan-i-Chahalgani / 'The Forty', formalized the Iqta system, silver Tanka and copper Jital coinage), Balban (theory of divine kingship 'Zill-i-Ilahi', blood and iron policy, Sijda and Paibos court etiquette). | Commenced construction of Qutub Minar (Aibak & Iltutmish); defended northern borders against early Mongol incursions under Genghis Khan. |
+| Khalji Dynasty (1290–1320) | Alauddin Khalji: Centralized army paid in cash; strict market control regulations (Shahna-i-Mandi, Diwan-i-Riyasat capping commodity prices); measurement of land (Zabita / Masahat) taking 50% Kharaj; branding of horses (Dagh) and descriptive roll of soldiers (Chehra). | South Indian military blitzkrieg led by Malik Kafur (Devagiri, Warangal, Dvarasamudra, Madurai); built Alai Darwaza (earliest true dome and arch using red sandstone). |
+| Tughlaq Dynasty (1320–1414) | Ghiyasuddin Tughlaq (canal irrigation pioneer); Muhammad bin Tughlaq (transfer of capital to Daulatabad, token copper/brass currency, Diwan-i-Kohi agricultural department, Sondhar loans); Firoz Shah Tughlaq (extensive network of Yamuna/Sutlej canals, Diwan-i-Khairat for charity, Diwan-i-Bandagan for slaves, established Hissar and Firozabad). | Collapse of central authority triggered the emergence of independent regional sultanates in Bengal, Jaunpur, Gujarat, and the Bahmani Kingdom. |
+| Sayyids & Lodis (1414–1526) | Bahlul Lodi, Sikandar Lodi (founded Agra in 1504, introduced Gaz-i-Sikandari land measurement yard), Ibrahim Lodi. | First Afghan dynasty; loose confederation of Afghan nobles; defeated by Babur at the First Battle of Panipat (1526 CE) introducing field gunpowder artillery. |
+
+
+### 2. The Vijayanagar Empire (1336–1646 CE): South Indian Imperial Zenith
+
+
+*Institutional and Cultural Dimensions of Vijayanagara*
+
+| Aspect | Institutional Structure & Features | Historical Details & Foreign Accounts |
+| --- | --- | --- |
+| Founding & Dynastic Cycles | Four successive ruling dynasties: Sangama, Saluva, Tuluva, and Aravidu. | Founded in 1336 by brothers Harihara I and Bukka I under spiritual mentorship of sage Vidyaranya of Sringeri to protect southern dharma against Sultanate incursions. |
+| Nayankara Military System | Military chiefs (Amaranayakas) granted revenue territories (Amara lands) in exchange for maintaining fixed contingents of foot-soldiers, horses, and elephants. | Documented by Portuguese chroniclers Domingo Paes and Fernao Nuniz; amaranayakas sent annual tribute to the Rayas and attended the royal Mahanavami festival. |
+| Sri Krishnadevaraya (1509–1529 CE) | Greatest Tuluva monarch; conquered Udayagiri, Kondaveedu, and Raichur Doab; assumed title 'Yavanarajya Sthapanacharya'. | Authored Telugu epic poem 'Amuktamalyada' (political treatise on statecraft) and Sanskrit drama 'Jambavati Kalyanam'; court adorned by Ashtadiggajas (Allasani Peddana, Tenali Ramakrishna). |
+| Architecture & Capital Splendor | Hampi on the banks of Tungabhadra River: Vittala Temple (monolithic Stone Chariot, musical pillars), Virupaksha Temple, Hazara Rama Temple, Lotus Mahal, Mahanavami Dibba. | Visited by Nicolo de Conti (Italian), Abdur Razzaq (Persian envoy who remarked 'the eye has not seen, nor ear heard of any place to equal it on earth'), Duarte Barbosa, and Domingo Paes. |
+| Battle of Talikota (Rakshasi-Tangadi, 1565) | Grand alliance of Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) defeated Vijayanagara armies led by Rama Raya. | Resulted in the sack and catastrophic destruction of Hampi; capital shifted to Penukonda and Chandragiri under the Aravidu dynasty. |
+
+
+### 3. The Mughal Empire (1526–1707 CE): Imperial Grandeur & Syncretic Culture
+
+- Akbar's Consolidation & Mansabdari System: Institutionalized the Mansabdari system (decimal military-bureaucratic ranking with dual Zat determining personal status/salary and Sawar determining required cavalry troops); abolished Jizya and pilgrimage taxes; instituted Rajput matrimonial alliances without forced conversion.
+- Zabt and Dahsala Revenue System: Designed by Raja Todar Mal in 1580; fixed land revenue based on the average produce and prices of the preceding 10 years; land classified into Polaj (annually cultivated), Parauti (fallow 1-2 years), Chachar (fallow 3-4 years), and Banjar (uncultivated 5+ years).
+- Religious Policy & Sulh-i-Kul: Akbar conducted theological debates in the Ibadat Khana at Fatehpur Sikri; promulgated the Mahzar / Infallibility Decree (1579); synthesized Tauhid-i-Ilahi (Din-i-Ilahi); pursued 'Sulh-i-Kul' (universal peace and tolerance).
+- Architecture & Aesthetics: Synthesis of Persian, Central Asian, and indigenous Hindu styles: Humayun's Tomb (first garden tomb), Fatehpur Sikri (Buland Darwaza, Panch Mahal), Shah Jahan's golden age (Taj Mahal, Red Fort Delhi, Jama Masjid, Peacock Throne, extensive use of white Makrana marble and Pietra Dura inlay work).
+- Aurangzeb (Alamgir) & The Deccan Ulcer: Re-imposed Jizya in 1679; annexed Bijapur (1686) and Golconda (1687); confronted prolonged guerrilla resistance from Chhatrapati Shivaji's Maratha kingdom; over-expansion drained the imperial treasury, precipitating dynastic collapse.
+
+
+### 4. The Bhakti and Sufi Movements: Socio-Spiritual Democratization
+
+
+*Pioneering Figures of the Bhakti and Sufi Synthesis*
+
+| Spiritual Stream | Prominent Sants / Pirs | Philosophy, Regional Vernacular & Social Impact |
+| --- | --- | --- |
+| Saguna Bhakti (Devotion to Personal God with Form) | Tulsidas (Ramcharitmanas in Awadhi), Surdas (Sursagar in Brajbhasha), Mirabai (devotion to Krishna in Rajasthani), Chaitanya Mahaprabhu (Kirtans in Bengal), Shankaradeva (Ekasarana Dharma in Assam). | Emphasized emotional love and service to divine avatars (Rama, Krishna); used regional vernacular languages, democratizing access to scriptures beyond Sanskrit. |
+| Nirguna Bhakti (Devotion to Formless, Omnipresent Divine) | Kabir (Dohas, Bijak criticizing Hindu-Muslim orthodoxy, caste hierarchies, and empty ritualism), Guru Nanak (founded Sikhism, Langar community kitchen, rejection of caste and idolatry), Dadu Dayal. | Attacked hereditary untouchability, idol worship, and priestly intermediaries; asserted the equality of all human souls before God. |
+| Maharashtra Dharma (Varkari Panth) | Jnaneshwar (Bhavartha Dipika / Jnaneshwari), Namdev, Eknath, Tukaram, Samarth Ramdas. | Centred on the worship of Lord Vithoba (Vitthala) of Pandharpur; composed devotional Abhangas in Marathi; laid ideological foundation for Maratha self-assertion. |
+| Sufi Orders (Silsilas) | Chishti Silsila (Khwaja Moinuddin Chishti of Ajmer, Baba Farid, Nizamuddin Auliya 'Mehboob-i-Ilahi', Amir Khusrau); Suhrawardi, Qadiri, Naqshbandi (orthodox, Sheikh Ahmad Sirhindi). | Emphasized Wahdat-al-Wujud (unity of being), Sama (spiritual musical gatherings), ascetic detachment, and Langar charity open to all communities regardless of faith. |
+
+
+### Previous Years Questions (PYQs) - APPSC Group-1
+
+
+#### Part A: Mains Analytical & Descriptive Questions
+
+1. Evaluate the market control and agrarian revenue reforms of Alauddin Khalji. What were the administrative motivations and long-term socio-economic consequences of these measures? (APPSC Group-1 Mains, 10 Marks)
+-> Model Approach: Highlight primary motivation: sustaining a massive standing army paid in cash to repel severe Mongol invasions without bankrupting state finances; elucidate market control apparatus: four separate markets in Delhi (grain, cloth/sugar/oil, cattle/horses, miscellaneous goods), appointment of Shahna-i-Mandi, stringent intelligence spies (Munhiyans), fixed price ceilings, hoarding bans; explain agrarian reforms: measurement of land (Masahat), 50% revenue extraction (Kharaj) directly from peasants, eliminating rural intermediaries (Khuts, Muqaddams, Chaudhuris); evaluate consequences: stable prices in capital, peasant impoverishment, and rapid collapse upon Alauddin's death.
+2. Critically analyze the Nayankara system in the Vijayanagar Empire. How did it compare with the contemporary feudalism of medieval Europe and the Mughal Mansabdari system? (APPSC Group-1 Mains, 10 Marks)
+-> Model Approach: Define Nayankara system as recorded by Paes and Nuniz: military chieftains (Nayakas/Amaranayakas) granted territorial revenue assignments (Amara lands) in exchange for maintaining fixed troop contingents and paying annual royal tribute; compare with European feudalism (fiefdoms were hereditary land tenures with manorial serfdom, whereas Nayakas were originally transferable administrative-military officials); compare with Mughal Mansabdari (mansabdars held decimal rank with non-hereditary transferable jagirs); explain how over-centralization under Krishnadevaraya gave way to rebellious autonomous Nayakates (Madurai, Thanjavur, Gingee), accelerating the post-Talikota decline.
+3. Discuss the socio-religious impact of the Bhakti and Sufi movements on medieval Indian society. How did they bridge communal cleavages and enrich vernacular languages? (APPSC Group-1 Mains, 10 Marks)
+-> Model Approach: Contextualize rise against rigid caste orthodoxy and socio-religious friction; examine egalitarian doctrines: rejection of untouchability and priestly mediation by Kabir, Nanak, and Ravidas; analyze syncretic common ground fostered by Sufi Khanqahs (Chishti order) through Wahdat-al-Wujud and musical Sama; evaluate literary impact: enrichment of regional languages (Marathi Abhangas, Hindi Dohas, Bengali Kirtans, Punjabi hymns in Guru Granth Sahib); conclude on cultural synthesis forming India's composite Ganga-Jamuni Tehzeeb.
+
+
+#### Part B: Screening / Prelims Objective Questions
+
+- Q1. Which ruler of the Delhi Sultanate introduced the 'Dahsala system' of land revenue assessment based on the average agricultural produce of the preceding ten years?
+(a) Alauddin Khalji
+(b) Muhammad bin Tughlaq
+(c) Firoz Shah Tughlaq
+(d) Akbar (assisted by Raja Todar Mal)
+Correct Answer: (d) Akbar (assisted by Raja Todar Mal) [Explanation: In 1580 CE, Mughal Emperor Akbar, with finance minister Raja Todar Mal, introduced the Ain-i-Dahsala system calculating revenue based on the average yield and prices of the preceding 10 years (1570–1580).]
+- Q2. The iconic Vijayanagara literary political masterpiece 'Amuktamalyada', detailing the life of Andal and providing royal maxims on statecraft, was authored in Telugu by:
+(a) Allasani Peddana
+(b) Sri Krishnadevaraya
+(c) Tenali Ramakrishna
+(d) Nannaya
+Correct Answer: (b) Sri Krishnadevaraya [Explanation: Emperor Sri Krishnadevaraya composed the epic Telugu kavya 'Amuktamalyada' ('Wearer of the Garland'), containing celebrated political advice on royal governance and treasury management.]
+- Q3. The Battle of Talikota (also known as Rakshasi-Tangadi), which resulted in the devastating defeat of the Vijayanagar Empire and the destruction of Hampi, occurred in which year?
+(a) 1526 CE
+(b) 1556 CE
+(c) 1565 CE
+(d) 1576 CE
+Correct Answer: (c) 1565 CE [Explanation: On 23 January 1565, the combined armies of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) defeated the Vijayanagara forces led by Aliya Rama Raya at Talikota.]
+- Q4. Which famous medieval Sufi saint, associated with the Chishti Silsila in Delhi and popularly revered as 'Mehboob-i-Ilahi' (Beloved of God), had the poet Amir Khusrau as his foremost disciple?
+(a) Khwaja Moinuddin Chishti
+(b) Sheikh Nizamuddin Auliya
+(c) Qutbuddin Bakhtiyar Kaki
+(d) Sheikh Salim Chishti
+Correct Answer: (b) Sheikh Nizamuddin Auliya [Explanation: Hazrat Nizamuddin Auliya (1238–1325 CE) was the pre-eminent Chishti saint of Delhi; his spiritual intimacy with royal court poet Amir Khusrau is legendary in Hindustani music and Sufi literature.]
+- Q5. In the Mughal administrative framework, what did the numerical rank 'Sawar' indicate in the Mansabdari system?
+(a) The personal salary and status of the noble
+(b) The number of cavalry troops/horses the mansabdar was required to maintain
+(c) The area of revenue-paying land assigned to the noble
+(d) The number of infantry archers under his command
+Correct Answer: (b) The number of cavalry troops/horses the mansabdar was required to maintain [Explanation: Under Akbar's Mansabdari system, 'Zat' determined the noble's personal status and salary, whereas 'Sawar' designated the exact number of mounted horsemen/cavalry he had to maintain for state service.]

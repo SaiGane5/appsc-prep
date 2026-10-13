@@ -1,0 +1,148 @@
+{
+  "topic_id": "APPSC-G1-ECON-04",
+  "subject_code": "06_Economy_India_and_AP",
+  "subject_title": "Economy and Development of India and Andhra Pradesh",
+  "paper": "Paper-IV (Mains) & Paper-I Section-C (Screening)",
+  "topic_title": "Inclusive Growth, Poverty Measurement, Multidimensional Poverty, Food Security, SHG Movement & AP Welfare Architecture",
+  "syllabus_mapping": "Inclusive Growth and Social Sector: Concept and dimensions of inclusive growth - Poverty and Unemployment in India and AP: Estimates and methodology (Tendulkar, Rangarajan, and NITI Aayog Multidimensional Poverty Index - MPI) - Inequality and income distribution (Gini ratio) - Human Development Index (HDI) and its components - Food Security: National Food Security Act (NFSA), 2013, Targeted Public Distribution System (TPDS) - Financial Inclusion: PMJDY, JAM Trinity - Women empowerment and Self-Help Groups: DWCRA, SERP, MEPMA, and welfare schemes of Andhra Pradesh.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inclusive Growth Paradigms, Poverty Dynamics, Multidimensional Deprivation, Food Security, and Welfare Governance in India and Andhra Pradesh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inclusive growth signifies economic growth that generates broad-based opportunities and distributes benefits equitably across all strata of society, particularly marginalized groups, women, and backward regions. It reconciles high GDP expansion with poverty alleviation, employment generation, human capability expansion (Amartya Sen's capability approach), and social safety nets."
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/India_-_Colours_of_India_-_Brightly_clad_SHG_marching_despite_the_rain_%282485978224%29.jpg",
+      "caption": "Women Self-Help Group (SHG) members mobilised under rural livelihoods programmes, embodying the DWCRA and SERP institutional architecture in Andhra Pradesh.",
+      "alt_text": "Women Self-Help Group members in rural India"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Poverty Estimation Methodologies in India: Evolution and Metrics"
+    },
+    {
+      "type": "table",
+      "caption": "Evolution of Poverty Lines and Methodologies in India",
+      "headers": [
+        "Expert Group / Committee",
+        "Calorie / Consumption Basket Criteria",
+        "Poverty Line Defined (Monthly Per Capita)",
+        "Estimated Poverty Headcount Ratio (HCR)"
+      ],
+      "rows": [
+        [
+          "Lakdawala Committee (1993)",
+          "Minimum nutritional requirements: 2400 kcal/day (Rural), 2100 kcal/day (Urban). Deflated via CPI-AL (rural) and CPI-IW (urban).",
+          "State-specific poverty lines based on consumption expenditure surveys.",
+          "Estimated poverty headcount at 36.0% for 1993-94."
+        ],
+        [
+          "Tendulkar Committee (2009)",
+          "Shifted away from pure calorie thresholds; adopted Uniform Reference Period (URP) to Mixed Reference Period (MRP); incorporated private expenditure on health and education.",
+          "All-India rural poverty line: \u20b9816/month (\u20b927.2/day); urban poverty line: \u20b91000/month (\u20b933.3/day) for 2011-12.",
+          "Headcount poverty dropped to 21.9% in 2011-12 (25.7% rural, 13.7% urban)."
+        ],
+        [
+          "Rangarajan Committee (2014)",
+          "Nutritional requirements: 2155 kcal rural, 2090 kcal urban, plus essential protein (48g rural, 50g urban) and non-food essentials (clothing, housing, conveyance).",
+          "Rural poverty line: \u20b9972/month (\u20b932/day); Urban poverty line: \u20b91407/month (\u20b947/day) for 2011-12.",
+          "Poverty headcount recalculated higher at 29.5% for 2011-12 (30.9% rural, 26.4% urban)."
+        ],
+        [
+          "NITI Aayog National MPI (Multidimensional Poverty Index)",
+          "Alkire-Foster methodology based on NFHS data; 3 equal weighted dimensions (Health, Education, Standard of Living) spanning 12 indicators.",
+          "Considers simultaneous deprivations in nutrition, child mortality, maternal health, schooling, cooking fuel, sanitation, drinking water, electricity, housing, assets, and bank accounts.",
+          "National multidimensional poverty dropped from 24.85% (2015-16) to 14.96% (2019-21) and under 11.3% by 2023. In Andhra Pradesh, MPI fell steeply to ~6.06%."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Food Security Architecture & National Food Security Act (NFSA), 2013"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "NFSA 2013 Legal Rights: Converts food security from a welfare measure to a legal entitlement; covers up to 75% of rural population and 50% of urban population (approx. two-thirds of total national population).",
+        "Targeted Beneficiaries: Divided into Priority Households (entitled to 5 kg of foodgrains per person per month) and Antyodaya Anna Yojana (AAY) households (poorest of poor entitled to 35 kg per family per month).",
+        "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY): Unified with NFSA entitlements to provide free foodgrains to over 81.35 crore beneficiaries, absorbing the central subsidy burden.",
+        "Maternal and Child Nutrition: Maternity benefit of not less than \u20b96,000 for pregnant and lactating mothers (PM Matru Vandana Yojana) and daily nutritional meals for children aged 6 months to 14 years under PM-POSHAN (Mid-Day Meal scheme)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. The Andhra Pradesh Model of Social Empowerment: DWCRA, SERP, MEPMA and Direct Benefit Transfers"
+    },
+    {
+      "type": "table",
+      "caption": "Institutional Mechanisms for Poverty Alleviation in Andhra Pradesh",
+      "headers": [
+        "Institutional Pillar",
+        "Organizational Structure & Target Group",
+        "Operational Role in Poverty Alleviation & Credit Linkage"
+      ],
+      "rows": [
+        [
+          "SERP (Society for Elimination of Rural Poverty)",
+          "Apex state society under Rural Development Dept; mobilizes rural women into 3-tier federations: SHGs -> Village Organizations (VOs) -> Mandal Samakhyas (MS).",
+          "Pioneered the Indira Kranthi Patham (IKP); facilitates Stree Nidhi credit cooperative, Bank Linkage (YSR Sunna Vaddi / interest subvention), and Community Managed Sustainable Agriculture (ZBNF/APCNF)."
+        ],
+        [
+          "MEPMA (Mission for Elimination of Poverty in Municipal Areas)",
+          "Urban equivalent of SERP under Municipal Administration and Urban Development Department.",
+          "Organizes urban poor into Slum Level Federations (SLFs) and Town Level Federations (TLFs); provides micro-enterprise development, PM SVANidhi street vendor credit, and livelihood skilling."
+        ],
+        [
+          "Direct Benefit Transfer (DBT) Welfare Ecosystem",
+          "Direct cash transfers via JAM Trinity (Jan Dhan, Aadhaar, Mobile) into women's bank accounts.",
+          "Schemes targeting education (Amma Vodi / Vidya Deevena), pensions (YSR Pension Kanuka), farm income support (Rythu Bharosa), and women enterprise (YSR Aasara, YSR Cheyutha); enhanced social security while expanding state fiscal debt liabilities."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Explain the methodology adopted by NITI Aayog in computing the National Multidimensional Poverty Index (MPI). How does it differ from traditional consumption expenditure-based poverty estimation? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define MPI using the Alkire-Foster method across 3 dimensions (Health, Education, Standard of Living) and 12 indicators; contrast with income/consumption expenditure poverty lines (Tendulkar/Rangarajan) which overlook non-monetary deprivations like clean drinking water, sanitation, and child mortality; detail how MPI captures acute deprivation intensity alongside headcount ratio; analyze the empirical results showing dramatic reduction in multidimensional poverty in India and Andhra Pradesh (below 7%).",
+        "Critically evaluate the role of the Self-Help Group (SHG) movement (DWCRA/SERP) in transforming rural socio-economic conditions and advancing financial inclusion in Andhra Pradesh. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Trace the evolution of DWCRA from the 1980s to the institutionalization of SERP and the 3-tier federation model (SHG, VO, Mandal Samakhya); discuss key achievements: financial discipline, elimination of exploitative village moneylenders via Stree Nidhi and Bank Linkage, micro-enterprises, and heightened female social agency; address ongoing limitations: micro-loans primarily funding consumption or debt swaps rather than scalable asset creation, and political dependency.",
+        "Examine the provisions and challenges of the National Food Security Act (NFSA), 2013 in ensuring food and nutritional security. What reforms are required in the Targeted Public Distribution System (TPDS)? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Outline legal coverage (75% rural, 50% urban population), entitlement quotas (5 kg/person/month for Priority Households, 35 kg/family for AAY), and maternal entitlements; assess implementation hurdles: inclusion and exclusion errors in ration cards, leakages and diversion in the supply chain, storage rotting in FCI godowns, and carbohydrate-heavy diets neglecting protein/micronutrients; explain technological remedies: One Nation One Ration Card (ONORC), Aadhaar biometric authentication at Fair Price Shops (e-PoS devices), and millet fortification."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. How many indicators across three dimensions (Health, Education, Standard of Living) are utilized in NITI Aayog's National Multidimensional Poverty Index (MPI)?\n(a) 10 indicators\n(b) 12 indicators\n(c) 15 indicators\n(d) 18 indicators\nCorrect Answer: (b) 12 indicators [Explanation: NITI Aayog's National MPI uses 12 indicators: Nutrition, Child & Adolescent Mortality, Maternal Health (Health); Years of Schooling, School Attendance (Education); Cooking Fuel, Sanitation, Drinking Water, Electricity, Housing, Assets, and Bank Accounts (Standard of Living).]",
+        "Q2. Under the National Food Security Act (NFSA), 2013, what is the monthly foodgrain entitlement per person for beneficiaries belonging to Priority Households?\n(a) 3 kg\n(b) 5 kg\n(c) 7 kg\n(d) 10 kg\nCorrect Answer: (b) 5 kg [Explanation: Section 3(1) of the NFSA entitles every person belonging to Priority Households to receive 5 kg of foodgrains per person per month at subsidized/free rates.]",
+        "Q3. The Tendulkar Committee (2009) on poverty estimation recommended shifting from the Uniform Reference Period (URP) to which recall period?\n(a) Mixed Reference Period (MRP)\n(b) Modified Mixed Reference Period (MMRP)\n(c) Annual Reference Period (ARP)\n(d) Weekly Consumption Period (WCP)\nCorrect Answer: (a) Mixed Reference Period (MRP) [Explanation: The Tendulkar Committee recommended using the Mixed Reference Period (MRP) consumption data collected by the NSSO.]",
+        "Q4. In Andhra Pradesh, which institutional entity serves as the apex body for organizing urban poor women into Self-Help Groups (SHGs) and slum-level federations?\n(a) SERP\n(b) MEPMA\n(c) DRDA\n(d) NABARD\nCorrect Answer: (b) MEPMA [Explanation: Mission for Elimination of Poverty in Municipal Areas (MEPMA) is the designated nodal agency for urban poverty alleviation and SHG federations in urban areas of AP.]",
+        "Q5. Which economic curve graphically represents the cumulative distribution of national income or wealth, used to compute the Gini Coefficient?\n(a) Phillips Curve\n(b) Laffer Curve\n(c) Lorenz Curve\n(d) Kuznets Curve\nCorrect Answer: (c) Lorenz Curve [Explanation: The Lorenz curve plots cumulative percentage of population against cumulative percentage of income earned; the Gini Coefficient is the ratio of the area between the line of perfect equality and the Lorenz curve.]"
+      ]
+    }
+  ]
+}

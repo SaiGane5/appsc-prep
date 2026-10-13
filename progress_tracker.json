@@ -1,0 +1,421 @@
+{
+  "exam": "APPSC Group-1 Services 2026-2027",
+  "last_updated": "2026-10-14T00:15:00+05:30",
+  "summary": {
+    "total_subjects": 8,
+    "completed_subjects": 8,
+    "total_topics": 58,
+    "completed_topics": 58,
+    "pending_topics": 0,
+    "progress_percentage": "100.0%"
+  },
+  "completed_notes_log": [
+    {
+      "sequence": 1,
+      "subject": "01_History_and_Culture_India",
+      "file": "01_ancient_india_ivc_vedic_mauryas_guptas.json",
+      "topic": "Indus Valley, Vedic Age, Mahajanapadas, Magadha, Mauryas, Foreign Invasions, Kushans, Satavahanas, Sangam Age, Sungas & Guptas",
+      "status": "completed"
+    },
+    {
+      "sequence": 2,
+      "subject": "01_History_and_Culture_India",
+      "file": "02_kanauj_and_south_indian_dynasties.json",
+      "topic": "Kanauj & Post-Gupta Era, South Indian Dynasties: Badami & Eastern Chalukyas, Rashtrakutas, Kalyani Chalukyas, Cholas, Hoysalas, Yadavas, Kakatiyas & Reddis",
+      "status": "completed"
+    },
+    {
+      "sequence": 3,
+      "subject": "01_History_and_Culture_India",
+      "file": "03_delhi_sultanate_vijaynagar_mughals_bhakti_sufi.json",
+      "topic": "Delhi Sultanate, Vijayanagar Empire, Mughal Empire, Bhakti Movement & Sufism",
+      "status": "completed"
+    },
+    {
+      "sequence": 4,
+      "subject": "01_History_and_Culture_India",
+      "file": "04_european_trading_companies_supremacy_viceroys.json",
+      "topic": "European Trading Companies, Struggle for Colonial Supremacy & Governor-Generals and Viceroys",
+      "status": "completed"
+    },
+    {
+      "sequence": 5,
+      "subject": "01_History_and_Culture_India",
+      "file": "05_1857_revolt_social_reforms_freedom_movement_revolutionaries.json",
+      "topic": "1857 Revolt, 19th Century Socio-Religious Reforms, Freedom Movement & Revolutionaries in India and Abroad",
+      "status": "completed"
+    },
+    {
+      "sequence": 6,
+      "subject": "01_History_and_Culture_India",
+      "file": "06_gandhi_patel_bose_ambedkar_constitution_reorganization.json",
+      "topic": "Mahatma Gandhi, Sardar Patel, Subash Chandra Bose, Dr. B.R. Ambedkar, Constitution Making & States Reorganization",
+      "status": "completed"
+    },
+    {
+      "sequence": 7,
+      "subject": "02_History_and_Culture_AP",
+      "file": "01_ancient_andhra_dynasties.json",
+      "topic": "Satavahanas, Ikshvakus, Salankayanas, Vishnukundins, Pallavas, Buddhism & Jainism in Andhra",
+      "status": "completed"
+    },
+    {
+      "sequence": 8,
+      "subject": "02_History_and_Culture_AP",
+      "file": "02_medieval_andhra_kakatiyas_vijayanagara_qutubshahis.json",
+      "topic": "Eastern Chalukyas, Kakatiyas, Reddis, Vijayanagara Empire & Qutub Shahis; Telugu Language & Literature",
+      "status": "completed"
+    },
+    {
+      "sequence": 9,
+      "subject": "02_History_and_Culture_AP",
+      "file": "03_modern_andhra_company_rule_reformers.json",
+      "topic": "European Settlements, Company Rule, Zamindari/Poligar System, Social Reformers (Veeresalingam, Gurajada, Raghupati)",
+      "status": "completed"
+    },
+    {
+      "sequence": 10,
+      "subject": "02_History_and_Culture_AP",
+      "file": "04_nationalist_movement_in_andhra.json",
+      "topic": "Freedom Movement in AP, Alluri Sitarama Raju, Andhra Mahasabha, Formation of Andhra State (1953) & AP (1956)",
+      "status": "completed"
+    },
+    {
+      "sequence": 11,
+      "subject": "02_History_and_Culture_AP",
+      "file": "05_andhra_pradesh_bifurcation_2014.json",
+      "topic": "Bifurcation of AP 2014: Administrative, Economic, Capital Building, Resource Loss, and AP Reorganisation Act Provisions",
+      "status": "completed"
+    },
+    {
+      "sequence": 12,
+      "subject": "03_Geography_India_and_AP",
+      "file": "01_general_and_physical_geography.json",
+      "topic": "General & Physical Geography: Earth, Climate, Oceans, Landforms, Rivers and Geology of India & AP",
+      "status": "completed"
+    },
+    {
+      "sequence": 13,
+      "subject": "03_Geography_India_and_AP",
+      "file": "02_economic_geography.json",
+      "topic": "Economic Geography: Agriculture, Livestock, Mining, Industries, Transport and Trade",
+      "status": "completed"
+    },
+    {
+      "sequence": 14,
+      "subject": "03_Geography_India_and_AP",
+      "file": "03_social_geography_demographics.json",
+      "topic": "Social Geography: Population Distribution, Density, Literacy, Urbanization, Tribes & Migration",
+      "status": "completed"
+    },
+    {
+      "sequence": 15,
+      "subject": "03_Geography_India_and_AP",
+      "file": "04_fauna_floral_geography.json",
+      "topic": "Faunal and Floral Geography: Forest Types, Wildlife, Biodiversity Parks & Sanctuaries",
+      "status": "completed"
+    },
+    {
+      "sequence": 16,
+      "subject": "03_Geography_India_and_AP",
+      "file": "05_environmental_geography_disasters.json",
+      "topic": "Environmental Geography: Natural Hazards, Cyclones, Floods, Disaster Management & Pollution",
+      "status": "completed"
+    },
+    {
+      "sequence": 17,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "01_constitutional_framework_fundamental_rights.json",
+      "topic": "Indian Constitution: Preamble, Fundamental Rights, Duties, DPSP, Basic Structure & Amendments",
+      "status": "completed"
+    },
+    {
+      "sequence": 18,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "02_federal_structure_union_state_relations.json",
+      "topic": "Federalism: Union-State Relations, Governor's Role, Legislative Lists and Devolution Challenges",
+      "status": "completed"
+    },
+    {
+      "sequence": 19,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "03_local_governance_73rd_74th_amendments.json",
+      "topic": "Panchayati Raj & Urban Local Governance (73rd & 74th Amendments), Constitutional Authorities",
+      "status": "completed"
+    },
+    {
+      "sequence": 20,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "04_parliament_and_state_legislatures.json",
+      "topic": "Union Parliament & State Legislatures: Structure, Powers, Procedures, and Privileges",
+      "status": "completed"
+    },
+    {
+      "sequence": 21,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "05_judiciary_and_constitutional_provisions.json",
+      "topic": "Judicial System: Structure, Judicial Review, PIL, Emergency Provisions and Judicial Activism",
+      "status": "completed"
+    },
+    {
+      "sequence": 22,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "06_public_administration_evolution.json",
+      "topic": "Public Administration: Meaning, Kautilya's Arthashastra, Mughal Administration & British Legacy",
+      "status": "completed"
+    },
+    {
+      "sequence": 23,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "07_civil_society_and_statutory_bodies.json",
+      "topic": "Civil Society, NGOs, Statutory, Regulatory & Quasi-Judicial Bodies, Role of Civil Services",
+      "status": "completed"
+    },
+    {
+      "sequence": 24,
+      "subject": "04_Polity_Constitution_Governance",
+      "file": "08_good_governance_and_egovernance.json",
+      "topic": "Good Governance: E-Governance, Citizen's Charter, RTI Act, Public Service Act, Social Audit",
+      "status": "completed"
+    },
+    {
+      "sequence": 25,
+      "subject": "05_Ethics_and_Law",
+      "file": "01_ethics_human_interface_values.json",
+      "topic": "Ethics & Human Interface: Essence, Determinants, Dimensions, Private vs Public Ethics",
+      "status": "completed"
+    },
+    {
+      "sequence": 26,
+      "subject": "05_Ethics_and_Law",
+      "file": "02_human_values_attitude_emotional_intelligence.json",
+      "topic": "Human Values, Attitude, Social Persuasion, Emotional Intelligence in Administration",
+      "status": "completed"
+    },
+    {
+      "sequence": 27,
+      "subject": "05_Ethics_and_Law",
+      "file": "03_public_service_ethics_codes_conduct_anticorruption.json",
+      "topic": "Codes of Conduct, Codes of Ethics, Work Culture, Lokpal, Lokayukta and Anti-Corruption",
+      "status": "completed"
+    },
+    {
+      "sequence": 28,
+      "subject": "05_Ethics_and_Law",
+      "file": "04_basic_knowledge_civil_criminal_labour_laws.json",
+      "topic": "Civil & Criminal Laws, Substantive vs Procedural Laws, Court Hierarchy, Nirbhaya Act, Labour Laws",
+      "status": "completed"
+    },
+    {
+      "sequence": 29,
+      "subject": "05_Ethics_and_Law",
+      "file": "05_cyber_and_tax_laws.json",
+      "topic": "Cyber Laws (IT Act, Cyber Security), Tax Laws (Direct Taxes, Corporate Tax, GST Framework)",
+      "status": "completed"
+    },
+    {
+      "sequence": 30,
+      "subject": "06_Economy_India_and_AP",
+      "file": "01_challenges_of_indian_economy.json",
+      "topic": "Major Challenges: Low Growth, Inflation, CAD, Rupee Depreciation, NPAs, Black Money & Inclusive Growth",
+      "status": "completed"
+    },
+    {
+      "sequence": 31,
+      "subject": "06_Economy_India_and_AP",
+      "file": "02_resource_mobilization_monetary_fiscal_policy.json",
+      "topic": "Resource Mobilization: Tax/Non-Tax Revenue, Public Debt, FDI/FII, RBI Monetary & Fiscal Policy",
+      "status": "completed"
+    },
+    {
+      "sequence": 32,
+      "subject": "06_Economy_India_and_AP",
+      "file": "03_government_budgeting_finance_commissions.json",
+      "topic": "Government Budgeting: Deficits, Federal Finance, GST Impact, 16th Finance Commission Devolution",
+      "status": "completed"
+    },
+    {
+      "sequence": 33,
+      "subject": "06_Economy_India_and_AP",
+      "file": "04_inclusive_growth_social_welfare.json",
+      "topic": "Inclusive Growth: Poverty Eradication, Food Security, PDS, Financial Inclusion, DWCRA & AP Schemes",
+      "status": "completed"
+    },
+    {
+      "sequence": 34,
+      "subject": "06_Economy_India_and_AP",
+      "file": "05_agriculture_and_rural_development_india_ap.json",
+      "topic": "Agriculture Development: MSP, Swaminathan Commission, Rainbow Revolution, AP Cropping Patterns & Irrigation",
+      "status": "completed"
+    },
+    {
+      "sequence": 35,
+      "subject": "06_Economy_India_and_AP",
+      "file": "06_industrial_development_infrastructure_india_ap.json",
+      "topic": "Industrial Development & Infrastructure: 1991 Reforms, Make in India, MSMEs, AP Industrial Policy, SEZs & Corridors",
+      "status": "completed"
+    },
+    {
+      "sequence": 36,
+      "subject": "07_Science_Technology_Environment",
+      "file": "01_national_policies_science_institutes.json",
+      "topic": "STI Policies, Major Research Institutes in AP & India, Contributions of Indian Scientists",
+      "status": "completed"
+    },
+    {
+      "sequence": 37,
+      "subject": "07_Science_Technology_Environment",
+      "file": "02_ict_egovernance_cybersecurity.json",
+      "topic": "Information & Communication Technology (ICT), E-Governance Systems, Cyber Crime Policy",
+      "status": "completed"
+    },
+    {
+      "sequence": 38,
+      "subject": "07_Science_Technology_Environment",
+      "file": "03_space_programme_isro_drdo.json",
+      "topic": "Indian Space Programme (ISRO Missions, IRNSS/NavIC, Remote Sensing) & DRDO Defense Technologies",
+      "status": "completed"
+    },
+    {
+      "sequence": 39,
+      "subject": "07_Science_Technology_Environment",
+      "file": "04_energy_resources_nuclear_policy.json",
+      "topic": "Energy Policy: Renewable Energy (Solar, Wind), Nuclear Energy Programme and India's Nuclear Doctrine",
+      "status": "completed"
+    },
+    {
+      "sequence": 40,
+      "subject": "07_Science_Technology_Environment",
+      "file": "05_environmental_conservation_climate_change.json",
+      "topic": "Environment & Climate Change: UNFCCC, Paris Agreement, Environmental Acts, Pollution Control & Waste Management",
+      "status": "completed"
+    },
+    {
+      "sequence": 41,
+      "subject": "07_Science_Technology_Environment",
+      "file": "06_biotechnology_nanotechnology_health.json",
+      "topic": "Biotechnology, Nanotechnology, Genetic Engineering, Vaccines, Human Microbial Diseases & IPR",
+      "status": "completed"
+    },
+    {
+      "sequence": 42,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "01_logical_reasoning_and_analytical_ability.json",
+      "topic": "Logical Reasoning, Analytical Ability, Syllogisms & Seating Arrangements",
+      "status": "completed"
+    },
+    {
+      "sequence": 43,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "02_number_series_coding_decoding.json",
+      "topic": "Number Series, Letter Series & Coding-Decoding",
+      "status": "completed"
+    },
+    {
+      "sequence": 44,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "03_problems_related_to_relations.json",
+      "topic": "Problems Related to Blood Relations & Family Tree Modelling",
+      "status": "completed"
+    },
+    {
+      "sequence": 45,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "04_shapes_venn_diagrams.json",
+      "topic": "Geometric Shapes, Sub-sections, Counting of Figures & Venn Diagrams",
+      "status": "completed"
+    },
+    {
+      "sequence": 46,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "05_clocks_calendar_age_problems.json",
+      "topic": "Problems on Clocks, Calendars & Quantitative Age Calculations",
+      "status": "completed"
+    },
+    {
+      "sequence": 47,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "06_number_system_order_of_magnitude.json",
+      "topic": "Number System, Divisibility Rules & Order of Magnitude",
+      "status": "completed"
+    },
+    {
+      "sequence": 48,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "07_ratio_proportion_variation.json",
+      "topic": "Ratio, Proportion, Direct/Inverse Variation & Mixtures",
+      "status": "completed"
+    },
+    {
+      "sequence": 49,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "08_central_tendencies_mean_median_mode.json",
+      "topic": "Central Tendencies: Mean, Median, Mode & Weighted Averages",
+      "status": "completed"
+    },
+    {
+      "sequence": 50,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "09_powers_roots_hcf_lcm.json",
+      "topic": "Powers & Exponents, Roots, HCF & LCM Algorithms",
+      "status": "completed"
+    },
+    {
+      "sequence": 51,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "10_percentages_interest_profit_loss.json",
+      "topic": "Percentages, Simple & Compound Interest, Profit, Loss & Discount",
+      "status": "completed"
+    },
+    {
+      "sequence": 52,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "11_time_work_time_speed_distance.json",
+      "topic": "Time & Work, Pipes & Cisterns, Speed, Distance & Relative Motion",
+      "status": "completed"
+    },
+    {
+      "sequence": 53,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "12_mensuration_area_perimeter_volume.json",
+      "topic": "Mensuration: Area, Perimeter, Surface Area & Volume of Solids",
+      "status": "completed"
+    },
+    {
+      "sequence": 54,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "13_geometry_lines_angles_polygons.json",
+      "topic": "Geometry: Lines, Angles, Triangles & Quadrilateral Properties",
+      "status": "completed"
+    },
+    {
+      "sequence": 55,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "14_algebra_bodmas_simplification.json",
+      "topic": "Algebra Fundamentals: BODMAS, Identities & Operator Simplifications",
+      "status": "completed"
+    },
+    {
+      "sequence": 56,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "15_data_interpretation_sufficiency_probability.json",
+      "topic": "Data Interpretation, Data Sufficiency & Elementary Probability",
+      "status": "completed"
+    },
+    {
+      "sequence": 57,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "16_emotional_intelligence_stress_coping.json",
+      "topic": "Emotional Intelligence: Dimensions, Empathy & Stress Coping",
+      "status": "completed"
+    },
+    {
+      "sequence": 58,
+      "subject": "08_General_Mental_and_Psychological_Abilities",
+      "file": "17_social_intelligence_decision_making_personality.json",
+      "topic": "Social Intelligence, Decision Making, Critical Thinking & Personality Assessment",
+      "status": "completed"
+    }
+  ],
+  "status": "ALL_SUBJECTS_COMPLETED"
+}

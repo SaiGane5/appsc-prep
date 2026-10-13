@@ -1,0 +1,169 @@
+{
+  "topic_id": "APPSC-G1-POL-03",
+  "subject_code": "04_Polity_Constitution_Governance",
+  "subject_title": "Indian Polity, Constitution and Governance",
+  "paper": "Paper-III (Section A - Mains) & Paper-I Section-B (Screening)",
+  "topic_title": "Local Governance: 73rd & 74th Amendments, PRIs, Urban Local Bodies & Devolution Challenges",
+  "syllabus_mapping": "Rural and Urban Local Governance under 73rd and 74th Constitutional Amendment - Constitutional Authorities and their Role. Devolution of Power and Finances up to local levels and Challenges therein.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Grassroots Democracy: The 73rd & 74th Constitutional Amendments, PRIs, ULBs, and Devolution Deficits"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 73rd and 74th Constitutional Amendment Acts of 1992 institutionalized democratic decentralization in India by conferring constitutional status on Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs). By inserting Part IX (Articles 243 to 243O, Eleventh Schedule) and Part IXA (Articles 243P to 243ZG, Twelfth Schedule), the Constitution established a uniform three-tier local governance framework aimed at transforming representative democracy into participatory grassroots self-government."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Evolution of Panchayati Raj in India"
+    },
+    {
+      "type": "table",
+      "caption": "Pioneering Committees on Decentralized Governance and Recommendations",
+      "headers": ["Committee & Year", "Core Structural Model Proposed", "Major Constitutional & Operational Recommendations"],
+      "rows": [
+        [
+          "Balwant Rai Mehta Committee (1957)",
+          "Three-tier Panchayati Raj System",
+          "Recommended Gram Panchayat (village), Panchayat Samiti (block - executive body), and Zilla Parishad (district - advisory body). Rajasthan was first to establish PRI at Nagaur (2 Oct 1959); Andhra Pradesh became the second state (Shadnagar, 1959)."
+        ],
+        [
+          "Ashok Mehta Committee (1977)",
+          "Two-tier Structure",
+          "Zilla Parishad at district level and Mandal Panchayat (group of villages covering 15,000–20,000 population). Recommended official participation of political parties and constitutional recognition."
+        ],
+        [
+          "G.V.K. Rao Committee (1985)",
+          "District as Focal Planning Unit",
+          "Identified PRIs as 'grass without roots'; recommended creation of the office of District Development Commissioner (DDC) to lead rural development."
+        ],
+        [
+          "L.M. Singhvi Committee (1986)",
+          "Constitutional Entrenchment",
+          "First to formally recommend constitutional status, protection, and preservation for PRIs; recommended establishing Nyaya Panchayats."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Salient Provisions of the 73rd & 74th Constitutional Amendments"
+    },
+    {
+      "type": "table",
+      "caption": "Comparative Analysis: Rural PRIs (Part IX) vs. Urban ULBs (Part IXA)",
+      "headers": ["Feature / Dimension", "Panchayati Raj (73rd Amendment, Part IX)", "Urban Local Bodies (74th Amendment, Part IXA)"],
+      "rows": [
+        [
+          "Institutional Tiers",
+          "Gram Panchayat (Village), Mandal / Taluk Parishad (Intermediate), Zilla Praja Parishad (District) under Article 243B.",
+          "Nagar Panchayat (transitional area), Municipal Council (smaller urban area), Municipal Corporation (larger urban area) under Article 243Q."
+        ],
+        [
+          "Foundational Assembly",
+          "Gram Sabha (Article 243A): All registered voters in the village; acts as the deliberative grassroots foundation.",
+          "Ward Committees (Article 243S) in municipalities having a population of three lakhs or more."
+        ],
+        [
+          "Devolved Subjects",
+          "Eleventh Schedule: 29 functional items (Agriculture, minor irrigation, rural roads, drinking water, poverty alleviation, education).",
+          "Twelfth Schedule: 18 functional items (Urban planning, land regulation, roads, public health, fire services, slum improvement)."
+        ],
+        [
+          "Reservation of Seats",
+          "Mandatory reservation for SCs and STs in proportion to population; not less than 1/3rd seats reserved for women (Art. 243D) - AP reserves 50% for women.",
+          "Mandatory SC/ST proportion and minimum 1/3rd reservation for women across all municipal councilor seats and offices of Chairpersons (Art. 243T)."
+        ],
+        [
+          "Electoral Body",
+          "State Election Commission (Article 243K): Independent body headed by State Election Commissioner appointed by Governor; conducts local body polls.",
+          "State Election Commission (Article 243ZA): Entrusted with preparation of electoral rolls and conduct of municipal elections."
+        ],
+        [
+          "Financial Mechanism",
+          "State Finance Commission (Article 243I): Constituted every 5 years by Governor to review financial position and recommend tax devolution.",
+          "State Finance Commission (Article 243Y): Reviews financial resources and tax-sharing principles for municipalities."
+        ],
+        [
+          "Planning Mechanisms",
+          "Integrated into District Planning Committee (DPC) under Article 243ZD.",
+          "Metropolitan Planning Committee (MPC) under Article 243ZE for metropolitan regions with population >10 lakhs."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. The 3Fs Crisis: Constraints in Devolution of Functions, Funds, and Functionaries"
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite constitutional mandates, local self-government in India suffers from what the Second Administrative Reforms Commission (2nd ARC) termed the 'Three Fs Deficit':"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Deficit of Functions: State legislatures retain vast discretion under Article 243G and 243W to decide how many functional subjects to actually devolve. Many line departments (irrigation, health, education) operate parallel parastatal agencies (Development Authorities, Water Boards, DRDA) that bypass local elected representatives.",
+        "Deficit of Funds: Panchayats and ULBs exhibit chronic revenue dependency, generating less than 5% and 30% of their total expenditure from own source revenue (OSR) respectively. Reluctant taxation of rural property, untransferred SFC awards, tied grants from Central schemes, and delay in releasing Central Finance Commission grants handicap fiscal autonomy.",
+        "Deficit of Functionaries: Inadequate secretarial, engineering, and accounting staff at the Panchayat level; key officials (Panchayat Secretaries, Block Development Officers, Municipal Commissioners) remain accountable upward to the State bureaucracy rather than downward to the elected Sarpanch or Mayor."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Andhra Pradesh's Village & Ward Secretariat Model (Grama Sachivalayam)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In October 2019, the Government of Andhra Pradesh restructured local governance by deploying over 15,000 Village and Ward Secretariats (Grama/Ward Sachivalayams) alongside a volunteer network:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Decentralized Bureaucracy: Each Secretariat employs 10–12 functional functionaries (Panchayat Secretary, Digital Assistant, Welfare & Education Assistant, VRO, Village Surveyor, Mahila Police) delivering over 500 public services directly at the village doorstep.",
+        "Critical Administrative Debate: While drastically improving welfare scheme delivery, civil service critics and scholars point out that it centralized operational control under State executive departments, occasionally overshadowing the statutory autonomy of the elected Gram Panchayat and Sarpanch."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Critically evaluate the performance of Panchayati Raj Institutions (PRIs) in India since the 73rd Constitutional Amendment Act, 1992. Why has the devolution of 'Functions, Funds, and Functionaries' remained incomplete? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Introduce the vision of democratic decentralization (Art. 40 to 73rd Amendment); highlight achievements: political inclusion of women (>14 lakh elected women representatives), institutionalized regular elections via SECs, and grassroots grievance platforms; analyze core systemic impediments across the 3Fs: reluctance of state legislatures to devolve Eleventh Schedule subjects, negligible own tax revenue (OSR) generation, parastatal encroachment bypassing PRIs, and administrative subordination to district bureaucracy; suggest structural reforms based on 2nd ARC: activity mapping, untied fiscal devolution via State Finance Commissions, and mandatory empowerment of the Gram Sabha.",
+        "Explain the mandate and constitutional role of the State Election Commission (Article 243K) and the State Finance Commission (Article 243I). How do they safeguard local self-governance? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Frame Articles 243K and 243I as institutional guarantors of democratic continuity and fiscal viability; detail SEC powers: preparation of electoral rolls, superintendence, direction, and conduct of local elections, judicial precedents affirming SEC independence on par with High Court judges (Kishan Singh Tomar v. Municipal Corporation of Ahmedabad); examine SFC role: formula-based vertical and horizontal devolution of state taxes, reviewing municipal and panchayat creditworthiness; discuss operational bottlenecks (infrequent SFC constitution, delays in state compliance with recommendations).",
+        "Discuss the significance of the Gram Sabha in the Panchayati Raj framework. How does it embody direct participatory democracy? (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Define Gram Sabha under Article 243A as the bedrock assembly of all registered village voters; analyze its oversight functions: social audits of welfare schemes (MGNREGA), beneficiary selection, monitoring village public assets, and checking administrative corruption; examine special powers under PESA 1996 in Fifth Schedule areas (consent for land acquisition, minor forest produce control); suggest measures to overcome tokenism, quorum manipulation, and elite capture."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. Which was the second State in India to formally inaugurate the Panchayati Raj system in 1959 following Rajasthan?\n(a) Gujarat\n(b) Andhra Pradesh\n(c) Maharashtra\n(d) Tamil Nadu\nCorrect Answer: (b) Andhra Pradesh [Explanation: Following Rajasthan's inauguration at Nagaur on October 2, 1959, Andhra Pradesh became the second state to adopt the Panchayati Raj system, launched at Shadnagar in 1959.]",
+        "Q2. How many functional subjects are enumerated in the Eleventh Schedule of the Indian Constitution devolved to Panchayati Raj Institutions?\n(a) 18 Subjects\n(b) 21 Subjects\n(c) 29 Subjects\n(d) 33 Subjects\nCorrect Answer: (c) 29 Subjects [Explanation: The Eleventh Schedule, added by the 73rd Constitutional Amendment Act 1992, contains 29 functional items within the purview of Panchayats.]",
+        "Q3. Under Article 243K of the Constitution of India, the State Election Commissioner is appointed by:\n(a) Chief Justice of High Court\n(b) Governor of the State\n(c) Chief Minister of the State\n(d) Election Commission of India\nCorrect Answer: (b) Governor of the State [Explanation: Article 243K(1) mandates that the superintendence, direction, and control of the preparation of electoral rolls for local elections be vested in a State Election Commission consisting of a State Election Commissioner appointed by the Governor.]",
+        "Q4. Which Constitutional Amendment Act inserted the Twelfth Schedule containing 18 functional items for Municipalities?\n(a) 71st Amendment Act, 1992\n(b) 73rd Amendment Act, 1992\n(c) 74th Amendment Act, 1992\n(d) 77th Amendment Act, 1995\nCorrect Answer: (c) 74th Amendment Act, 1992 [Explanation: The 74th Constitutional Amendment Act, 1992 introduced Part IXA and the Twelfth Schedule containing 18 functional items for Urban Local Bodies.]",
+        "Q5. Under Article 243ZD of the Constitution, which institutional committee is constituted at the district level to consolidate plans prepared by Panchayats and Municipalities?\n(a) District Development Agency\n(b) District Planning Committee (DPC)\n(c) Metropolitan Planning Committee\n(d) Zilla Parishad Standing Council\nCorrect Answer: (b) District Planning Committee (DPC) [Explanation: Article 243ZD provides for the constitution of a District Planning Committee in every district to consolidate the development plans prepared by Panchayats and Municipalities.]"
+      ]
+    }
+  ]
+}

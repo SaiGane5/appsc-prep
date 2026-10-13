@@ -1,0 +1,169 @@
+{
+  "topic_id": "APPSC-G1-AP-HIST-03",
+  "subject_code": "02_History_and_Culture_AP",
+  "subject_title": "History and Culture of Andhra Pradesh",
+  "paper": "Paper-II (Section B - Mains) & Paper-I Section-A (Screening)",
+  "topic_title": "Modern Andhra: European Hegemony, Company Rule, Literary Revival, and Social Reformers",
+  "syllabus_mapping": "Modern: European Trade Establishments in Andhra- Andhra Under the Company Rule- Role of Christian Missionaries- Socio-Cultural, Literary Awakening- C.P. Brown, Thamos Munro, Mackenzie- Zamindary, Polegary System- Native States and Little Kings. Role of Social Reformers- Gurajada Apparao, Kandukuri Veeresalingam, Raghupati Venkataratnam Naidu, Gidugu Ramamurthy, Annie Besant and others- Library Movement in Andhra Pradesh- Role of News Paper- Folk and Tribal Culture, Oral Traditions, Subaltern Culture, Role of women.",
+  "last_updated": "2026-10",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Modern Andhra: European Trade Rivalry, Colonial Governance, Literary Awakening, and Social Reform Movements"
+    },
+    {
+      "type": "paragraph",
+      "text": "The advent of European maritime companies transformed Andhra's coastal commerce into a theater of colonial rivalry. Following British consolidation over the Northern Circars and Ceded Districts, agrarian disruption provoked armed uprisings such as the Poligar rebellions and Uyyalawada Narasimha Reddy's revolt. Simultaneously, administrative officials like Thomas Munro, Colin Mackenzie, C.P. Brown, and Sir Arthur Cotton catalyzed institutional, literary, and hydraulic developments, laying the backdrop for the 19th-century intellectual renaissance led by Kandukuri Veeresalingam and Gurajada Apparao."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. European Trade Establishments and British Territorial Consolidation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Due to its famous chintz and Kalamkari textiles, coastal Andhra attracted early European trading factories centered at Machilipatnam (Masulipatnam):"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Trading Factories: Dutch East India Company established its first Indian factory at Machilipatnam in 1605 under a Farman from Muhammad Quli Qutb Shah. The English East India Company arrived in 1611 on the ship 'Globe' under Captain Anthony Hippon, opening their first factory at Machilipatnam. The French followed in 1669.",
+        "Acquisition of Northern Circars (Sarkars): Comprising Chicacole (Srikakulam), Rajahmundry, Ellore (Eluru), Mustafanagar (Kondapalli), and Murtazanagar (Guntur). French General Bussy controlled them until 1859, when Colonel Forde defeated the French at the Battle of Condore (1758). By the 1765 imperial Firman of Mughal Emperor Shah Alam II and the 1766 Treaty with Nizam Ali Khan of Hyderabad, the British acquired the Northern Circars (Guntur circar was finally acquired in 1788).",
+        "Acquisition of Ceded Districts (Rayalaseema, 1800): Under the Subsidiary Alliance Treaty of 1800, Nizam Ali Khan ceded Bellary, Anantapur, Cuddapah (Kadapa), and Kurnool to the East India Company to pay for the British subsidiary force stationed at Hyderabad."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Colonial Administration, Agrarian Systems, and Early Armed Resistance"
+    },
+    {
+      "type": "table",
+      "caption": "Key Colonial Figures, Agrarian Frameworks, and Resistance Movements in Andhra",
+      "headers": ["Entity / Personality", "Jurisdiction & Role", "Key Interventions & Historical Impact"],
+      "rows": [
+        [
+          "Sir Thomas Munro",
+          "Principal Collector of Ceded Districts (1800–1807); Governor of Madras (1820–1827)",
+          "Pioneered the Ryotwari settlement in Andhra, assessing individual cultivators directly and reducing peasant exploitation by intermediaries; revered affectionately as 'Munro Sahib'; respected local shrines (visited Raghavendra Swamy mutt at Mantralayam)."
+        ],
+        [
+          "Poligar Rebellions & Uyyalawada Narasimha Reddy",
+          "Rayalaseema Poligar estates; Koilkuntla & Nossam (Kurnool/Kadapa)",
+          "Poligars (military feudatories of Vijayanagara) revolted violently against Company tax assessments (1801–1805). In 1846, Uyyalawada Narasimha Reddy led an armed insurrection of thousands of peasants and boyas against Company extortion; captured and publicly executed in Koilkuntla in 1847—hailed as Andhra's earliest armed freedom fighter."
+        ],
+        [
+          "Colonel Colin Mackenzie",
+          "First Surveyor General of India (1815–1821)",
+          "Traveled extensively across Andhra collecting village records, local Kaifiyats, palm-leaf manuscripts, and historical inscriptions (the Mackenzie Collection), rescuing medieval Andhra history from oblivion."
+        ],
+        [
+          "Charles Philip Brown (C.P. Brown)",
+          "Civil Servant & Telugu Philologist (1798–1884)",
+          "Appointed Collector and Judge in Kadapa, Rajahmundry, and Masulipatnam; retrieved, edited, and printed Telugu classics at his personal financial expense ('Brown's College' at Kadapa); compiled the definitive English-Telugu (1852) and Telugu-English (1853) Dictionaries; printed Yogi Vemana's verses (1829)."
+        ],
+        [
+          "Sir Arthur Thomas Cotton",
+          "British Irrigation Engineer (1803–1899)",
+          "Constructed the Godavari Anicut at Dowleswaram (1847–1852) and Krishna Anicut at Vijayawada (1852–1855); converted the famine-ravaged Godavari-Krishna basins into India's 'Rice Bowl'; revered in Andhra as 'Apara Bhageeratha'."
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Dowleswaram_Barrage.jpg",
+      "caption": "The Dowleswaram Barrage across the Godavari River near Rajamahendravaram, engineered originally by Sir Arthur Cotton in 1852, providing vital irrigation networks to the fertile Godavari delta.",
+      "alt_text": "Panoramic view of the Dowleswaram Barrage on River Godavari"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. The Andhra Socio-Cultural Renaissance: Pioneers & Reformers"
+    },
+    {
+      "type": "paragraph",
+      "text": "The late 19th and early 20th centuries witnessed an unprecedented socio-religious awakening challenging caste prejudice, gender degradation, child marriage, and linguistic elitism:"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Kandukuri Veeresalingam Pantulu (1848–1919): The Father of Modern Andhra Renaissance (titled 'Gadya Tikkana'). Established the weekly journal 'Viveka Vardhani' (1874) at Rajahmundry to combat administrative corruption and social orthodoxy. Performed South India's first widow remarriage on December 11, 1881, at Rajahmundry (Gogulapati Sreeramulu to Gowramma) despite fierce orthodoxy. Established the Hitakarini Samajam (1906), donating all his wealth to widow homes and girls' schools. Penned 'Rajasekhara Charitramu' (1878, first Telugu social novel), 'Sweeya Charitramu' (first autobiography in Telugu), and 'Andhra Kavula Charitra'.",
+        "Gurajada Venkata Apparao (1862–1915): Revolutionary playwright and poet of Vizianagaram. Pioneered the use of living spoken Telugu (Vyavaharika Bhasha) in serious literature. Penned the masterpiece play 'Kanyasulkam' (1892; revised 1897), savagely satirizing bride-price, child marriage, courtesan culture, and hypocritical reformers through memorable characters like Girisam and Madhuravani. Wrote the iconic nationalistic poem 'Desamunu Preminchumanna' ('A country does not mean physical clay and mud; a country means its living human people').",
+        "Gidugu Venkata Ramamurthy Pantulu (1863–1940): Champion of the Spoken Telugu Movement (Vyavaharika Bhasha Udyamam). Resisted orthodox Sanskritized Granthanika Telugu championed by Jayanti Ramayya Pantulu; fought for vernacular spoken language in textbooks and examinations. Studied tribal Savara language and compiled Savara-Telugu grammar; his birthday (August 29) is officially celebrated as Telugu Language Day (Telugu Bhasha Dinotsavam).",
+        "Raghupati Venkataratnam Naidu (1862–1939): Renowned educator and Brahmo Samaj leader (titled 'Brahmarshi'). Spearheaded the Social Purity Movement, crusading against the Devadasi (Kalavantulu/Nautch) dancing-girl tradition; promoted orphanages and women's higher education as Principal of PR Government College, Kakinada and Vice-Chancellor of Madras University.",
+        "Annie Besant & Theosophy: Established the Theosophical National College at Madanapalle (1915; later Besant Theosophical College, Chittoor district). Rabindranath Tagore visited the college in February 1919, translated India's National Anthem 'Jana Gana Mana' into English as 'The Morning Song of India', and Margaret Cousins set its musical score here."
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Kandukuri_Veeresalingam.jpg",
+      "caption": "Kandukuri Veeresalingam Pantulu (1848–1919), crusading social reformer, author, and champion of widow remarriage and female education, known as the Father of Modern Andhra Renaissance.",
+      "alt_text": "Portrait photograph of Kandukuri Veeresalingam Pantulu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. The Library Movement, Print Media, and Women's Empowerment"
+    },
+    {
+      "type": "table",
+      "caption": "Cultural Awakening Instruments: Granthalaya Movement, Newspapers, and Women Leaders",
+      "headers": ["Domain / Movement", "Key Figures / Publications", "Historical Role and Impact"],
+      "rows": [
+        [
+          "Library Movement (Granthalaya Udyamam)",
+          "Ayyanki Venkataramanayya & Gadicherla Harisarvothama Rao",
+          "Inaugurated by Sri Krishna Devaraya Andhra Bhasha Nilayam (Hyderabad, 1901) and Veeresalingam's library at Rajahmundry. Andhra Desa Granthalaya Sangham established at Vijayawada in 1914 (first state library association in India). Converted village libraries into epicenters of civic political awakening and literacy."
+        ],
+        [
+          "Early Telugu Print Media",
+          "'Satyaduta' (1835, Bellary - first Telugu journal); 'Andhra Prakasika' (1885, A.P. Parthasarathi Naidu); 'Krishna Patrika' (1902)",
+          "'Krishna Patrika' (founded by Konda Venkatappayya and Dasu Narayana Rao, edited brilliantly by Mutnuri Krishna Rao from Machilipatnam) served as the ideological spearhead for nationalist fervor, art criticism, and political debates across coastal Andhra."
+        ],
+        [
+          "Women's Reform & Emancipation",
+          "Ponaka Kanakamma, Dokka Sitamma, Duvvuri Subbamma",
+          "Ponaka Kanakamma founded Kasturidevi Vidyalayam at Nellore to educate nationalist girls; Dokka Sitamma (East Godavari) earned immortal fame for universal selfless feeding (Annadanam) of hungry travelers across caste divides; Duvvuri Subbamma became the first Andhra woman to court arrest during Non-Cooperation Movement."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Previous Years Questions (PYQs) - APPSC Group-1"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part A: Mains Analytical & Descriptive Questions"
+    },
+    {
+      "type": "list",
+      "style": "numbered",
+      "items": [
+        "Evaluate the multifaceted contributions of Kandukuri Veeresalingam Pantulu to the social and literary renaissance of Andhra. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Introduce Veeresalingam as 'Gadya Tikkana' and Father of Andhra Renaissance; analyze social reforms (pioneering first widow remarriage on Dec 11, 1881; Hitakarini Samajam; female literacy schools); examine literary breakthroughs (first Telugu social novel Rajasekhara Charitramu, first autobiography Sweeya Charitramu, Viveka Vardhani journal attacking public corruption); evaluate his uncompromising rationalism against orthodoxy.",
+        "Discuss the significance of the Spoken Telugu Movement (Vyavaharika Bhasha Udyamam) spearheaded by Gidugu Ramamurthy Pantulu and Gurajada Apparao. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contrast the rigid scholastic Granthanika Sanskritized Telugu of conservative pandits with the living colloquial idiom; analyze Gidugu's populist crusade to make education accessible to common people; examine Gurajada's dramatic triumph in 'Kanyasulkam', bringing social evils (bride-price, child marriage) into public discourse through spoken Telugu; discuss the lasting impact on journalism, literature, and educational pedagogy.",
+        "Assess the impact of Sir Arthur Cotton's irrigation engineering projects on the socio-economic transformation of coastal Andhra in the 19th century. (APPSC Group-1 Mains, 10 Marks)\n-> Model Approach: Contextualize severe famines (Guntur famine of 1832) and agrarian desolation under Company misrule; detail the engineering feat of the Dowleswaram Anicut on the Godavari (1852) and Prakasam Barrage/Krishna Anicut (1855); analyze economic outcomes (assured double-cropping, flood mitigation, navigation canal network, transformation of the Delta into a prosperous agricultural granary); conclude on his revered status as 'Apara Bhageeratha'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Part B: Screening / Prelims Objective Questions"
+    },
+    {
+      "type": "list",
+      "style": "bullet",
+      "items": [
+        "Q1. South India's first widow remarriage was performed under the auspices of Kandukuri Veeresalingam Pantulu at Rajahmundry on:\n(a) December 11, 1881\n(b) August 15, 1885\n(c) January 26, 1892\n(d) November 1, 1874\nCorrect Answer: (a) December 11, 1881 [Explanation: On December 11, 1881, Veeresalingam solemnized the marriage between Gogulapati Sreeramulu and Gowramma at his residence in Rajahmundry under police protection.]",
+        "Q2. The immortal Telugu social drama 'Kanyasulkam', written in spoken Telugu (Vyavaharika Bhasha) to expose the evil of bride-price, was authored by:\n(a) Kandukuri Veeresalingam\n(b) Gurajada Venkata Apparao\n(c) Panuganti Lakshminarasimha Rao\n(d) Chilakamarti Lakshmi Narasimham\nCorrect Answer: (b) Gurajada Venkata Apparao [Explanation: Gurajada Apparao published Kanyasulkam in 1892, introducing iconic characters like Girisam and Madhuravani to attack social hypocrisies.]",
+        "Q3. Who led the armed peasant insurrection against the East India Company in the Koilkuntla taluk of Kurnool district in 1846?\n(a) Alluri Sitarama Raju\n(b) Korukonda Subba Reddy\n(c) Uyyalawada Narasimha Reddy\n(d) Veerapandiya Kattabomman\nCorrect Answer: (c) Uyyalawada Narasimha Reddy [Explanation: Poligar chieftain Uyyalawada Narasimha Reddy rebelled against colonial revenue extortion in 1846 and was hanged publicly in Koilkuntla in 1847.]",
+        "Q4. Andhra Pradesh officially celebrates 'Telugu Language Day' (Telugu Bhasha Dinotsavam) on August 29 to commemorate the birth anniversary of:\n(a) Nannaya Bhattu\n(b) C.P. Brown\n(c) Gidugu Venkata Ramamurthy Pantulu\n(d) Gurajada Apparao\nCorrect Answer: (c) Gidugu Venkata Ramamurthy Pantulu [Explanation: August 29 marks the birthday of Gidugu Ramamurthy, celebrated statewide for his pioneering championing of the Spoken Telugu Movement.]",
+        "Q5. The first state-level library association in India, the 'Andhra Desa Granthalaya Sangham', was founded in 1914 at Vijayawada under the leadership of:\n(a) Konda Venkatappayya and Pattabhi Sitaramayya\n(b) Ayyanki Venkataramanayya and Gadicherla Harisarvothama Rao\n(c) Kasinathuni Nageswara Rao and Mutnuri Krishna Rao\n(d) Tanguturi Prakasam and Duggirala Gopalakrishnayya\nCorrect Answer: (b) Ayyanki Venkataramanayya and Gadicherla Harisarvothama Rao [Explanation: Ayyanki Venkataramanayya and Gadicherla Harisarvothama Rao founded the Andhra Desa Granthalaya Sangham in 1914, fueling the popular library movement.]"
+      ]
+    }
+  ]
+}
