@@ -180,34 +180,37 @@ export default function ContentRenderer({ content, onOpenImage, fontSizeMultipli
         // TABLE
         if (item.type === 'table') {
           return (
-            <div key={idx} className="table-container my-6">
+            <div key={idx} className="my-6 rounded-xl border border-[#2d2f3a] bg-[#1a1b20] shadow-lg overflow-hidden">
               {item.caption && (
-                <div className="table-caption">
+                <div className="table-title-bar">
+                  <span className="w-1.5 h-4 bg-sky-400 rounded-full inline-block shrink-0"></span>
                   <MathText text={item.caption} />
                 </div>
               )}
-              <table className="custom-table">
-                <thead>
-                  <tr>
-                    {item.headers?.map((header, hIdx) => (
-                      <th key={hIdx}>
-                        <MathText text={header} />
-                      </th>
-                    ))}
-                  </tr>
-                </thead>
-                <tbody>
-                  {item.rows?.map((row, rIdx) => (
-                    <tr key={rIdx}>
-                      {row.map((cell, cIdx) => (
-                        <td key={cIdx}>
-                          <MathText text={cell} />
-                        </td>
+              <div className="overflow-x-auto w-full">
+                <table className="custom-table">
+                  <thead>
+                    <tr>
+                      {item.headers?.map((header, hIdx) => (
+                        <th key={hIdx}>
+                          <MathText text={header} />
+                        </th>
                       ))}
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {item.rows?.map((row, rIdx) => (
+                      <tr key={rIdx}>
+                        {row.map((cell, cIdx) => (
+                          <td key={cIdx}>
+                            <MathText text={cell} />
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
             </div>
           );
         }
